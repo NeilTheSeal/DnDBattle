@@ -12,12 +12,24 @@ class Window(Frame):
 
     def init_window(self):
 
-        self.master.title("GUI")
+        self.master.title("BATTLE!")
 
         self.pack(fill=BOTH, expand=1)
 
-        quitButton = Button(self, text="test", command=self.showImg, height="2", width="10")
-        quitButton.place(x=10, y=0)
+        newbattleButton = Button(self, text="new battle", height="2", width="9")
+        newbattleButton.place(x=10, y=0)
+
+        savebattleButton = Button(self, text="save battle", height="2", width="9")
+        savebattleButton.place(x=110, y=0)
+
+        loadbattleButton = Button(self, text="load battle", height="2", width="9")
+        loadbattleButton.place(x=210, y=0)
+
+        addallyButton = Button(self, text="new ally", height="2", width="9")
+        addallyButton.place(x=310, y=0)
+
+        addenemyButton = Button(self, text="new enemy", height="2", width="9")
+        addenemyButton.place(x=410, y=0)
 
         menu = Menu(self.master)
         self.master.config(menu=menu)
@@ -28,8 +40,6 @@ class Window(Frame):
         menu.add_cascade(label="File", menu=file)
 
         edit = Menu(menu)
-        edit.add_command(label="Show Image", command=self.showImg)
-        edit.add_command(label="Show Text", command=self.showTxt)
         edit.add_command(label="Undo")
         edit.add_command(label="Redo")
         menu.add_cascade(label="Edit", menu=edit)
