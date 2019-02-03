@@ -1,4 +1,5 @@
 from tkinter import *
+from PIL import Image, ImageTk
 
 
 class Window(Frame):
@@ -15,15 +16,41 @@ class Window(Frame):
 
         self.pack(fill=BOTH, expand=1)
 
-        quitButton = Button(self, text="Quit", command=self.client_exit)
+        quitButton = Button(self, text="test", command=self.showImg, height="2", width="10")
+        quitButton.place(x=10, y=0)
 
-        quitButton.place(x=0, y=0)
+        menu = Menu(self.master)
+        self.master.config(menu=menu)
+
+        file = Menu(menu)
+        file.add_command(label="Exit", command=self.client_exit)
+        file.add_command(label="Save")
+        menu.add_cascade(label="File", menu=file)
+
+        edit = Menu(menu)
+        edit.add_command(label="Show Image", command=self.showImg)
+        edit.add_command(label="Show Text", command=self.showTxt)
+        edit.add_command(label="Undo")
+        edit.add_command(label="Redo")
+        menu.add_cascade(label="Edit", menu=edit)
+
+    def showImg(self):
+        load = Image.Image.resize(Image.open("yasser.png"), size=(20,20))
+        render = ImageTk.PhotoImage(load)
+
+        img = Label(self, image=render)
+        img.image = render
+        img.place(x=0, y=0)
+
+    def showTxt(self):
+        text = Label(self, text="Noooooo!")
+        text.pack()
 
     def client_exit(self):
         exit()
 
 root = Tk()
-root.geometry("400x300")
+root.geometry("1200x700")
 
 app = Window(root)
 
