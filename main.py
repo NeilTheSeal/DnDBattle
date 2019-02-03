@@ -15,10 +15,12 @@ class Window(Frame):
 
         self.pack(fill=BOTH, expand=1)
 
-        quitButton = Button(self, text="Quit")
+        quitButton = Button(self, text="Quit", command=self.client_exit)
 
         quitButton.place(x=0, y=0)
 
+    def client_exit(self):
+        exit()
 
 root = Tk()
 root.geometry("400x300")
