@@ -1,5 +1,6 @@
 from tkinter import *
 from PIL import Image, ImageTk
+import charBuilder
 
 
 class Window(Frame):
@@ -25,18 +26,19 @@ class Window(Frame):
         loadbattleButton = Button(self, text="load battle", height="2", width="9")
         loadbattleButton.place(x=210, y=0)
 
-        addallyButton = Button(self, text="new ally", height="2", width="9")
+        addallyButton = Button(self, text="add ally", height="2", width="9")
         addallyButton.place(x=310, y=0)
 
-        addenemyButton = Button(self, text="new enemy", height="2", width="9")
+        addenemyButton = Button(self, text="add enemy", height="2", width="9")
         addenemyButton.place(x=410, y=0)
 
         menu = Menu(self.master)
         self.master.config(menu=menu)
 
         file = Menu(menu)
-        file.add_command(label="Exit", command=self.client_exit)
+        file.add_command(label="New Character", command=self.newAlly)
         file.add_command(label="Save")
+        file.add_command(label="Exit", command=self.client_exit)
         menu.add_cascade(label="File", menu=file)
 
         edit = Menu(menu)
@@ -45,7 +47,7 @@ class Window(Frame):
         menu.add_cascade(label="Edit", menu=edit)
 
     def showImg(self):
-        load = Image.Image.resize(Image.open("yasser.png"), size=(20,20))
+        load = Image.Image.resize(Image.open("yasser.png"), size=(100,100))
         render = ImageTk.PhotoImage(load)
 
         img = Label(self, image=render)
@@ -55,6 +57,9 @@ class Window(Frame):
     def showTxt(self):
         text = Label(self, text="Noooooo!")
         text.pack()
+
+    def newAlly(self):
+
 
     def client_exit(self):
         exit()

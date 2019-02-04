@@ -14,7 +14,7 @@ class char:
             file.write("Name " + str(self.name) + "\nDex " + str(self.stats[0]) + "\nAC " + str(self.stats[1]) + "\nmaxHP " + str(self.stats[2]))
             file.close()
         else:
-            print(str(self.name) + " already exists!")
+            return str(self.name) + " already exists!"
 
 test = char("Joey", [10, 13, 20])
 test.newchar()
