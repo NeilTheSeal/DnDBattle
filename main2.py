@@ -17,6 +17,8 @@ class MainProg(tk.Tk):
         container.grid_rowconfigure(0, weight=1)
         container.grid_columnconfigure(0, weight=1)
 
+        self.title("DnD Battle Builder")
+
         self.frames = {}
 
         for F in (StartPage, PageOne, PageTwo):
