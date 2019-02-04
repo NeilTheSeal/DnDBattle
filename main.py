@@ -1,72 +1,88 @@
-from tkinter import *
+import tkinter as tk
 from PIL import Image, ImageTk
 import charBuilder
 
+HEADER_FONT = ("Optima", 24, "italic")
+SMALL_FONT = ("Arial", 16)
 
-class Window(Frame):
-    def __init__(self, master=None):
-        Frame.__init__(self, master)
+class MainProg(tk.Tk):
 
-        self.master = master
+    def __init__(self, *args, **kwargs):
 
-        self.init_window()
+        tk.Tk.__init__(self, *args, **kwargs)
+        container = tk.Frame(self)
 
-    def init_window(self):
+        container.pack(side="top", fill="both", expand=True)
 
-        self.master.title("BATTLE!")
+        container.grid_rowconfigure(0, weight=1)
+        container.grid_columnconfigure(0, weight=1)
 
-        self.pack(fill=BOTH, expand=1)
+        self.title("DnD Battle Builder")
 
-        newbattleButton = Button(self, text="new battle", height="2", width="9")
-        newbattleButton.place(x=10, y=0)
+        self.frames = {}
 
-        savebattleButton = Button(self, text="save battle", height="2", width="9")
-        savebattleButton.place(x=110, y=0)
+        for F in (StartPage, PageOne, PageTwo):
 
-        loadbattleButton = Button(self, text="load battle", height="2", width="9")
-        loadbattleButton.place(x=210, y=0)
+            frame = F(container, self)
 
-        addallyButton = Button(self, text="add ally", height="2", width="9")
-        addallyButton.place(x=310, y=0)
+            self.frames[F] = frame
 
-        addenemyButton = Button(self, text="add enemy", height="2", width="9")
-        addenemyButton.place(x=410, y=0)
+            frame.grid(row=0, column=0, sticky="nsew")
 
-        menu = Menu(self.master)
-        self.master.config(menu=menu)
+        self.show_frame(StartPage)
 
-        file = Menu(menu)
-        file.add_command(label="New Character", command=self.newAlly)
-        file.add_command(label="Save")
-        file.add_command(label="Exit", command=self.client_exit)
-        menu.add_cascade(label="File", menu=file)
+    def show_frame(self, cont):
 
-        edit = Menu(menu)
-        edit.add_command(label="Undo")
-        edit.add_command(label="Redo")
-        menu.add_cascade(label="Edit", menu=edit)
+        frame = self.frames[cont]
+        frame.tkraise()
 
-    def showImg(self):
-        load = Image.Image.resize(Image.open("yasser.png"), size=(100,100))
-        render = ImageTk.PhotoImage(load)
+class StartPage(tk.Frame):
 
-        img = Label(self, image=render)
-        img.image = render
-        img.place(x=0, y=0)
+    def __init__(self, parent, controller):
+        tk.Frame.__init__(self, parent)
+        label = tk.Label(self, text="DnD Battle Builder", font=HEADER_FONT)
+        label.grid(row=0, column=0, padx=500, pady=[200,50])
+        print(label.grid_info())
 
-    def showTxt(self):
-        text = Label(self, text="Noooooo!")
-        text.pack()
+        newbattleButton = tk.Button(self, text="new battle", height="2", width="9", font=SMALL_FONT,
+                                    command=lambda: controller.show_frame(PageOne))
+        newbattleButton.grid(row=1, column=0, pady=[0,10])
 
-    def newAlly(self):
+        loadbattleButton = tk.Button(self, text="load battle", height="2", width="9", font=SMALL_FONT)
+        loadbattleButton.grid(row=3, column=0)
 
 
-    def client_exit(self):
-        exit()
+class PageOne(tk.Frame):
 
-root = Tk()
-root.geometry("1200x700")
+    def __init__(self, parent, controller):
+        tk.Frame.__init__(self, parent)
+        label = tk.Label(self, text="Page 1", font=HEADER_FONT)
+        label.pack(pady=10, padx=10)
 
-app = Window(root)
+        button1 = tk.Button(self, text="Visit Start Page", font=SMALL_FONT,
+                            command=lambda: controller.show_frame(StartPage))
+        button1.pack()
 
-root.mainloop()
+        button2 = tk.Button(self, text="Visit Page 2", font=SMALL_FONT,
+                            command=lambda: controller.show_frame(PageTwo))
+        button2.pack()
+
+
+class PageTwo(tk.Frame):
+
+    def __init__(self, parent, controller):
+        tk.Frame.__init__(self, parent)
+        label = tk.Label(self, text="Page 2", font=HEADER_FONT)
+        label.pack(pady=10, padx=10)
+
+        button1 = tk.Button(self, text="Visit Start Page", font=SMALL_FONT,
+                            command=lambda: controller.show_frame(StartPage))
+        button1.pack()
+
+        button2 = tk.Button(self, text="Visit Page 1", font=SMALL_FONT,
+                            command=lambda: controller.show_frame(PageOne))
+        button2.pack()
+
+app = MainProg()
+app.geometry("1200x700")
+app.mainloop()
