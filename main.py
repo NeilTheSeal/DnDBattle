@@ -3,7 +3,7 @@ from PIL import Image, ImageTk
 import charBuilder
 
 HEADER_FONT = ("Optima", 24, "italic")
-SMALL_FONT = ("Arial", 16)
+SMALL_FONT = ("Optima", 16)
 
 class MainProg(tk.Tk):
 
@@ -21,7 +21,7 @@ class MainProg(tk.Tk):
 
         self.frames = {}
 
-        for F in (StartPage, PageOne, PageTwo):
+        for F in (StartPage, CurrentBattle, PageTwo):
 
             frame = F(container, self)
 
@@ -42,30 +42,45 @@ class StartPage(tk.Frame):
         tk.Frame.__init__(self, parent)
         label = tk.Label(self, text="DnD Battle Builder", font=HEADER_FONT)
         label.grid(row=0, column=0, padx=500, pady=[200,50])
-        print(label.grid_info())
 
         newbattleButton = tk.Button(self, text="new battle", height="2", width="9", font=SMALL_FONT,
-                                    command=lambda: controller.show_frame(PageOne))
+                                    command=lambda: controller.show_frame(CurrentBattle))
         newbattleButton.grid(row=1, column=0, pady=[0,10])
 
         loadbattleButton = tk.Button(self, text="load battle", height="2", width="9", font=SMALL_FONT)
         loadbattleButton.grid(row=3, column=0)
 
 
-class PageOne(tk.Frame):
+class CurrentBattle(tk.Frame):
 
     def __init__(self, parent, controller):
         tk.Frame.__init__(self, parent)
-        label = tk.Label(self, text="Page 1", font=HEADER_FONT)
-        label.pack(pady=10, padx=10)
+        label = tk.Label(self, text="Current Battle", font=HEADER_FONT)
+        label.grid(row=0, column=4, pady=[10,10], padx=100)
 
-        button1 = tk.Button(self, text="Visit Start Page", font=SMALL_FONT,
+        savebutton = tk.Button(self, text="save battle", font=SMALL_FONT)
+        savebutton.grid(row=0,column=0,padx=10)
+        loadbutton = tk.Button(self, text="load battle", font=SMALL_FONT)
+        loadbutton.grid(row=0, column=1, padx=10)
+        newbutton = tk.Button(self, text="new battle", font=SMALL_FONT)
+        newbutton.grid(row=0, column=2, padx=10)
+
+
+        homebutton = tk.Button(self, text="visit start page", font=SMALL_FONT,
                             command=lambda: controller.show_frame(StartPage))
-        button1.pack()
+        homebutton.grid(row=0, column=3, padx=10)
 
-        button2 = tk.Button(self, text="Visit Page 2", font=SMALL_FONT,
-                            command=lambda: controller.show_frame(PageTwo))
-        button2.pack()
+        newcharbutton = tk.Button(self, text="add player from library", font=SMALL_FONT)
+        newcharbutton.place(x=400, y=120)
+
+        newcharbutton = tk.Button(self, text="add new player", font=SMALL_FONT)
+        newcharbutton.place(x=420, y=160)
+
+        newmonbutton = tk.Button(self, text="add creature from library", font=SMALL_FONT)
+        newmonbutton.place(x=580, y=120)
+
+        newcharbutton = tk.Button(self, text="add new creature", font=SMALL_FONT)
+        newcharbutton.place(x=600, y=160)
 
 
 class PageTwo(tk.Frame):
@@ -79,8 +94,8 @@ class PageTwo(tk.Frame):
                             command=lambda: controller.show_frame(StartPage))
         button1.pack()
 
-        button2 = tk.Button(self, text="Visit Page 1", font=SMALL_FONT,
-                            command=lambda: controller.show_frame(PageOne))
+        button2 = tk.Button(self, text="Visit Current Battle", font=SMALL_FONT,
+                            command=lambda: controller.show_frame(CurrentBattle))
         button2.pack()
 
 app = MainProg()
