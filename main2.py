@@ -2,7 +2,7 @@ import tkinter as tk
 from PIL import Image, ImageTk
 import charBuilder
 
-LARGE_FONT = ("Verdana", 12)
+LARGE_FONT = ("Arial", 16)
 
 class MainProg(tk.Tk):
 
