@@ -2,8 +2,8 @@ import tkinter as tk
 from PIL import Image, ImageTk
 import charBuilder
 
-LARGE_FONT = ("Arial", 16)
-SMALL_FONT = ("Arial", 12)
+HEADER_FONT = ("Optima", 24, "italic")
+SMALL_FONT = ("Arial", 16)
 
 class MainProg(tk.Tk):
 
@@ -38,19 +38,23 @@ class StartPage(tk.Frame):
 
     def __init__(self, parent, controller):
         tk.Frame.__init__(self, parent)
-        label = tk.Label(self, text="Start Page", font=LARGE_FONT)
-        label.pack(pady=10, padx=10)
+        label = tk.Label(self, text="DnD Battle Builder", font=HEADER_FONT)
+        label.grid(row=0, column=0, padx=500, pady=[200,50])
+        print(label.grid_info())
 
-        button1 = tk.Button(self, text="Visit Page 1",  font=SMALL_FONT,
-                            command=lambda: controller.show_frame(PageOne))
-        button1.pack()
+        newbattleButton = tk.Button(self, text="new battle", height="2", width="9", font=SMALL_FONT,
+                                    command=lambda: controller.show_frame(PageOne))
+        newbattleButton.grid(row=1, column=0, pady=[0,10])
+
+        loadbattleButton = tk.Button(self, text="load battle", height="2", width="9", font=SMALL_FONT)
+        loadbattleButton.grid(row=3, column=0)
 
 
 class PageOne(tk.Frame):
 
     def __init__(self, parent, controller):
         tk.Frame.__init__(self, parent)
-        label = tk.Label(self, text="Page 1", font=LARGE_FONT)
+        label = tk.Label(self, text="Page 1", font=HEADER_FONT)
         label.pack(pady=10, padx=10)
 
         button1 = tk.Button(self, text="Visit Start Page", font=SMALL_FONT,
@@ -66,7 +70,7 @@ class PageTwo(tk.Frame):
 
     def __init__(self, parent, controller):
         tk.Frame.__init__(self, parent)
-        label = tk.Label(self, text="Page 2", font=LARGE_FONT)
+        label = tk.Label(self, text="Page 2", font=HEADER_FONT)
         label.pack(pady=10, padx=10)
 
         button1 = tk.Button(self, text="Visit Start Page", font=SMALL_FONT,
@@ -77,6 +81,6 @@ class PageTwo(tk.Frame):
                             command=lambda: controller.show_frame(PageOne))
         button2.pack()
 
-
 app = MainProg()
+app.geometry("1200x700")
 app.mainloop()
