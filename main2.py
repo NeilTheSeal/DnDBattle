@@ -3,6 +3,7 @@ from PIL import Image, ImageTk
 import charBuilder
 
 LARGE_FONT = ("Arial", 16)
+SMALL_FONT = ("Arial", 12)
 
 class MainProg(tk.Tk):
 
@@ -18,11 +19,13 @@ class MainProg(tk.Tk):
 
         self.frames = {}
 
-        frame = StartPage(container, self)
+        for F in (StartPage, PageOne):
 
-        self.frames[StartPage] = frame
+            frame = F(container, self)
 
-        frame.grid(row=0, column=0, sticky="nsew")
+            self.frames[F] = frame
+
+            frame.grid(row=0, column=0, sticky="nsew")
 
         self.show_frame(StartPage)
 
@@ -37,6 +40,23 @@ class StartPage(tk.Frame):
         tk.Frame.__init__(self, parent)
         label = tk.Label(self, text="Start Page", font=LARGE_FONT)
         label.pack(pady=10, padx=10)
+
+        button1 = tk.Button(self, text="Visit Page 1",  font=SMALL_FONT,
+                            command=lambda: controller.show_frame(PageOne))
+        button1.pack()
+
+
+class PageOne(tk.Frame):
+
+    def __init__(self, parent, controller):
+        tk.Frame.__init__(self, parent)
+        label = tk.Label(self, text="Page 1", font=LARGE_FONT)
+        label.pack(pady=10, padx=10)
+
+        button1 = tk.Button(self, text="Visit Start Page", font=SMALL_FONT,
+                            command=lambda: controller.show_frame(StartPage))
+        button1.pack()
+
 
 app = MainProg()
 app.mainloop()
