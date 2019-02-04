@@ -2,7 +2,9 @@ import tkinter as tk
 from PIL import Image, ImageTk
 import charBuilder
 
-class HomeWindow(tk.Tk):
+LARGE_FONT = ("Verdana", 12)
+
+class MainProg(tk.Tk):
 
     def __init__(self, *args, **kwargs):
 
@@ -29,3 +31,12 @@ class HomeWindow(tk.Tk):
         frame = self.frames[cont]
         frame.tkraise()
 
+class StartPage(tk.Frame):
+
+    def __init__(self, parent, controller):
+        tk.Frame.__init__(self, parent)
+        label = tk.Label(self, text="Start Page", font=LARGE_FONT)
+        label.pack(pady=10, padx=10)
+
+app = MainProg()
+app.mainloop()
