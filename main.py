@@ -1,8 +1,6 @@
 import tkinter as tk
 import csv
-import random
-from PIL import Image, ImageTk
-import charBuilder
+import time
 
 HEADER_FONT = ("Optima", 24, "italic")
 SMALL_FONT = ("Optima", 16)
@@ -15,6 +13,7 @@ with open('creaturelist.csv', encoding = "ISO-8859-1") as csvfile:
     for row in table:
         creaturelist = {row['name']:[row['ac'],row['init']]}
         creaturetable.append(row['name'])
+
 
 class MainProg(tk.Tk):
 
@@ -81,34 +80,43 @@ class CurrentBattle(tk.Frame):
                             command=lambda: controller.show_frame(StartPage))
         homebutton.grid(row=0, column=3, padx=10)
 
-        newcharbutton = tk.Button(self, text="add player from library", font=SMALL_FONT)
-        newcharbutton.place(x=400, y=120)
+        addcharbutton = tk.Button(self, text="add player from library", font=SMALL_FONT)
+        addcharbutton.place(x=400, y=120)
 
         newcharbutton = tk.Button(self, text="add new player", font=SMALL_FONT)
         newcharbutton.place(x=420, y=160)
 
-        newmonbutton = tk.Button(self, text="add creature from library", font=SMALL_FONT,
-                                 command=lambda: [Lb1.activate(index=3), Lb1.see(index=3)])
-        newmonbutton.place(x=580, y=120)
+        addmonbutton = tk.Button(self, text="add creature from library", font=SMALL_FONT,
+                                 command=lambda: [self.addmonster(controller)])
+                                                  #monsterlist.activate(index=3),
+                                                  #monsterlist.see(index=3)])
+                                                  #helpful command: curselection()
+        addmonbutton.place(x=580, y=120)
 
-        newcharbutton = tk.Button(self, text="add new creature", font=SMALL_FONT,
-                                  command=lambda: self.addchar(controller))
-        newcharbutton.place(x=600, y=160)
+        newmonbutton = tk.Button(self, text="add new creature", font=SMALL_FONT,
+                                  command=lambda: None)
+        newmonbutton.place(x=600, y=160)
 
-        Lb1 = tk.Listbox(self, selectmode="single", height=2)
-        for i in range(len(creaturetable)):
-            Lb1.insert(i, creaturetable[i])
-
-        Lb1.grid(row=4,column=5)
-
-
-    def addchar(self, controller):
+    def addmonster(self, controller):
         var = tk.StringVar()
-        textbox = tk.Entry(controller, textvariable=var)
+        var.set("Aarakocra")
+        textbox = tk.Entry(controller, textvariable=var, exportselection=True)
         textbox.focus_set()
-        textbox.place(x=780, y=100)
+        textbox.place(x=820, y=20)
+        monsterlist = tk.Listbox(self, selectmode="single", height=10, width=30)
+        for i in range(len(creaturetable)):
+            monsterlist.insert(i, creaturetable[i])
+        monsterlist.place(x=780, y=50)
+        #monsterlist.activate(index=)
+        #monsterlist.see(index=int(textbox.get()))
+        addbutton = tk.Button(self, text="add", font=SMALL_FONT,
+                                 command=lambda: self.updater())
+        addbutton.place(x=800, y=260)
+        return var.get()
 
-
+    def updater(self):
+        print(self.addmonster(self))
+        self.after(20000,self.updater())
 
 
 class PageTwo(tk.Frame):
