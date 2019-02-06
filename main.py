@@ -1,9 +1,17 @@
 import tkinter as tk
+import csv
 from PIL import Image, ImageTk
 import charBuilder
 
 HEADER_FONT = ("Optima", 24, "italic")
 SMALL_FONT = ("Optima", 16)
+
+d={}
+with open('creaturelist.csv', encoding = "ISO-8859-1") as csvfile:
+    table = csv.DictReader(csvfile)
+    for row in table:
+        creaturelist = {row['name']:[row['ac'],row['init']]}
+        print(creaturelist)
 
 class MainProg(tk.Tk):
 
@@ -27,7 +35,7 @@ class MainProg(tk.Tk):
 
             self.frames[F] = frame
 
-            frame.grid(row=0, column=0, sticky="nsew")
+            frame.grid(row=0, column=0, sticky="nwes")
 
         self.show_frame(StartPage)
 
@@ -79,8 +87,17 @@ class CurrentBattle(tk.Frame):
         newmonbutton = tk.Button(self, text="add creature from library", font=SMALL_FONT)
         newmonbutton.place(x=580, y=120)
 
-        newcharbutton = tk.Button(self, text="add new creature", font=SMALL_FONT)
+        newcharbutton = tk.Button(self, text="add new creature", font=SMALL_FONT,
+                                  command=lambda: self.addchar(controller))
         newcharbutton.place(x=600, y=160)
+
+    def addchar(self, controller):
+        var = tk.StringVar()
+        textbox = tk.Entry(controller, textvariable=var)
+        textbox.focus_set()
+        textbox.place(x=780, y=100)
+
+
 
 
 class PageTwo(tk.Frame):
