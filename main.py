@@ -126,10 +126,9 @@ class CurrentBattle(tk.Frame):
     def show_choices(self, name1, name2, op):
         """Filter choices based on what was typed in the entry"""
         pattern = self.var.get()
-        choices = [x for x in creaturetable if x.startswith(pattern)]
+        choices = [x for x in creaturetable if x.lower().startswith(pattern.lower())]
         self.monsterlist.delete(0, "end")
         self.monsterlist.insert("end", *choices)
-
 
 class PageTwo(tk.Frame):
 
