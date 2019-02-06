@@ -1,17 +1,18 @@
 import tkinter as tk
 import csv
+import random
 from PIL import Image, ImageTk
 import charBuilder
 
 HEADER_FONT = ("Optima", 24, "italic")
 SMALL_FONT = ("Optima", 16)
 
-d={}
+creaturelist={}
+
 with open('creaturelist.csv', encoding = "ISO-8859-1") as csvfile:
     table = csv.DictReader(csvfile)
     for row in table:
         creaturelist = {row['name']:[row['ac'],row['init']]}
-        print(creaturelist)
 
 class MainProg(tk.Tk):
 
@@ -84,12 +85,24 @@ class CurrentBattle(tk.Frame):
         newcharbutton = tk.Button(self, text="add new player", font=SMALL_FONT)
         newcharbutton.place(x=420, y=160)
 
-        newmonbutton = tk.Button(self, text="add creature from library", font=SMALL_FONT)
+        newmonbutton = tk.Button(self, text="add creature from library", font=SMALL_FONT,
+                                 command=lambda: [Lb1.activate(index=3), Lb1.see(index=3)])
         newmonbutton.place(x=580, y=120)
 
         newcharbutton = tk.Button(self, text="add new creature", font=SMALL_FONT,
                                   command=lambda: self.addchar(controller))
         newcharbutton.place(x=600, y=160)
+
+        Lb1 = tk.Listbox(self, selectmode="single", height=2)
+        Lb1.insert(1, "Python")
+        Lb1.insert(2, "Perl")
+        Lb1.insert(3, "C")
+        Lb1.insert(4, "PHP")
+        Lb1.insert(5, "JSP")
+        Lb1.insert(6, "Ruby")
+
+        Lb1.grid(row=4,column=5)
+
 
     def addchar(self, controller):
         var = tk.StringVar()
