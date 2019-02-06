@@ -8,11 +8,13 @@ HEADER_FONT = ("Optima", 24, "italic")
 SMALL_FONT = ("Optima", 16)
 
 creaturelist={}
+creaturetable=[]
 
 with open('creaturelist.csv', encoding = "ISO-8859-1") as csvfile:
     table = csv.DictReader(csvfile)
     for row in table:
         creaturelist = {row['name']:[row['ac'],row['init']]}
+        creaturetable.append(row['name'])
 
 class MainProg(tk.Tk):
 
@@ -94,12 +96,8 @@ class CurrentBattle(tk.Frame):
         newcharbutton.place(x=600, y=160)
 
         Lb1 = tk.Listbox(self, selectmode="single", height=2)
-        Lb1.insert(1, "Python")
-        Lb1.insert(2, "Perl")
-        Lb1.insert(3, "C")
-        Lb1.insert(4, "PHP")
-        Lb1.insert(5, "JSP")
-        Lb1.insert(6, "Ruby")
+        for i in range(len(creaturetable)):
+            Lb1.insert(i, creaturetable[i])
 
         Lb1.grid(row=4,column=5)
 
