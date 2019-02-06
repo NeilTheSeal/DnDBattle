@@ -97,26 +97,38 @@ class CurrentBattle(tk.Frame):
                                   command=lambda: None)
         newmonbutton.place(x=600, y=160)
 
-    def addmonster(self, controller):
-        var = tk.StringVar()
-        var.set("Aarakocra")
-        textbox = tk.Entry(controller, textvariable=var, exportselection=True)
-        textbox.focus_set()
-        textbox.place(x=820, y=20)
-        monsterlist = tk.Listbox(self, selectmode="single", height=10, width=30)
+        self.var = tk.StringVar()
+        self.var.set("Aarakocra")
+        self.textbox = tk.Entry(controller, textvariable=self.var)
+        self.textbox.focus_set()
+        self.monsterlist = tk.Listbox(self, selectmode="single", height=10, width=30)
         for i in range(len(creaturetable)):
-            monsterlist.insert(i, creaturetable[i])
-        monsterlist.place(x=780, y=50)
-        #monsterlist.activate(index=)
-        #monsterlist.see(index=int(textbox.get()))
-        addbutton = tk.Button(self, text="add", font=SMALL_FONT,
-                                 command=lambda: self.updater())
-        addbutton.place(x=800, y=260)
-        return var.get()
+            self.monsterlist.insert(i, creaturetable[i])
 
-    def updater(self):
-        print(self.addmonster(self))
-        self.after(20000,self.updater())
+    def addmonster(self, controller):
+
+        self.textbox.place(x=820, y=20)
+        self.monsterlist.place(x=780, y=50)
+
+        addbutton = tk.Button(self, text="add", font=SMALL_FONT,
+                                 command=lambda: None)
+        addbutton.place(x=800, y=260)
+
+        self.var.trace("w", self.show_choices)
+        self.monsterlist.bind("<<ListboxSelect>>", self.on_listbox_select)
+
+    def on_listbox_select(self, event):
+        """Set the value based on the item that was clicked"""
+        index = self.monsterlist.curselection()[0]
+        data = self.monsterlist.get(index)
+        self.var.set(data)
+
+    def show_choices(self, name1, name2, op):
+        """Filter choices based on what was typed in the entry"""
+        pattern = self.var.get()
+        choices = [x for x in creaturetable if x.startswith(pattern)]
+        self.monsterlist.delete(0, "end")
+        self.monsterlist.insert("end", *choices)
 
 
 class PageTwo(tk.Frame):
