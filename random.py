@@ -1,40 +1,15 @@
-import tkinter as tk
+import csv
 
-class Example(tk.Frame):
-    def __init__(self, parent):
-        tk.Frame.__init__(self, parent)
+creaturelist={}
+creaturetable=[]
 
-        self.choices = ("one", "two", "three", "four", "five",
-                        "six", "seven", "eight", "nine", "ten",
-                        "eleven", "twelve", "thirteen", "fourteen",
-                        "fifteen", "sixteen", "seventeen", "eighteen",
-                        "nineteen", "twenty")
-
-        self.entryVar = tk.StringVar()
-        self.entry = tk.Entry(self, textvariable=self.entryVar)
-        self.listbox = tk.Listbox(self)
-        self.listbox.insert("end", *self.choices)
-
-        self.entry.pack(side="top", fill="x")
-        self.listbox.pack(side="top", fill="both", expand=True)
-
-        self.entryVar.trace("w", self.show_choices)
-        self.listbox.bind("<<ListboxSelect>>", self.on_listbox_select)
-
-    def on_listbox_select(self, event):
-        """Set the value based on the item that was clicked"""
-        index = self.listbox.curselection()[0]
-        data = self.listbox.get(index)
-        self.entryVar.set(data)
-
-    def show_choices(self, name1, name2, op):
-        """Filter choices based on what was typed in the entry"""
-        pattern = self.entryVar.get()
-        choices = [x for x in self.choices if x.startswith(pattern)]
-        self.listbox.delete(0, "end")
-        self.listbox.insert("end", *choices)
-
-if __name__ == "__main__":
-    root = tk.Tk()
-    Example(root).pack(fill="both", expand=True)
-    root.mainloop()
+with open('D&D 5e Monster List with Ability Scores.csv', encoding = "ISO-8859-1") as csvfile:
+    table = csv.DictReader(csvfile)
+    for row in table:
+        creaturelist[str(row['Name'])] = [row['Type'], row['ALIGNMENT'],
+                                          row['Size'], row['CR'], row['AC'], row['HP'],
+                                          row['STR'], row['DEX'], row['CON'], row['INT'],
+                                          row['WIS'], row['CHA'], row['Total Points (sum of ability scores)'],
+                                          row['Arctic'], row['Coast'], row['Desert'], row['Forest'],
+                                          row['Grassland'], row['Hill'], row['Mountain'], row['Swamp'],
+                                          row['Underdark'], row['Underwater'], row['Urban']]

@@ -1,6 +1,5 @@
 import tkinter as tk
 import csv
-import time
 
 HEADER_FONT = ("Optima", 24, "italic")
 SMALL_FONT = ("Optima", 16)
@@ -8,14 +7,19 @@ SMALL_FONT = ("Optima", 16)
 creaturelist={}
 creaturetable=[]
 
-with open('creaturelist.csv', encoding = "ISO-8859-1") as csvfile:
+with open('D&D 5e Monster List with Ability Scores.csv', encoding = "ISO-8859-1") as csvfile:
     table = csv.DictReader(csvfile)
     for row in table:
-        creaturelist[str(row['name'])] = [row['cr'],row['size'],row['type'],
-                                          row['tags'],row['alignment'],row['environment'],
-                                          row['ac'],row['hp'],row['init'],
-                                          row['legendary?'],row['unique?'],row['sources']]
-        creaturetable.append(row['name'])
+        creaturelist[str(row['Name'])] = [row['Type'], row['ALIGNMENT'],
+                                          row['Size'], row['CR'], row['AC'], row['HP'],
+                                          row['STR'], row['DEX'], row['CON'], row['INT'],
+                                          row['WIS'], row['CHA'], row['Total Points (sum of ability scores)'],
+                                          row['Arctic'], row['Coast'], row['Desert'], row['Forest'],
+                                          row['Grassland'], row['Hill'], row['Mountain'], row['Swamp'],
+                                          row['Underdark'], row['Underwater'], row['Urban']]
+        creaturetable.append(row['Name'])
+
+creaturetable.sort()
 
 
 class MainProg(tk.Tk):
@@ -147,3 +151,6 @@ class PageTwo(tk.Frame):
 app = MainProg()
 app.geometry("1200x700")
 app.mainloop()
+
+"""credit to Ian Toltz, https://www.reddit.com/user/Fontanapink and 
+https://www.reddit.com/user/Endomorphism002 for providing data supplied in creature list(s)"""
