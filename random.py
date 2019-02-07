@@ -13,3 +13,9 @@ with open('D&D 5e Monster List with Ability Scores.csv', encoding = "ISO-8859-1"
                                           row['Arctic'], row['Coast'], row['Desert'], row['Forest'],
                                           row['Grassland'], row['Hill'], row['Mountain'], row['Swamp'],
                                           row['Underdark'], row['Underwater'], row['Urban']]
+
+        creaturetable.append(row['Name'])
+
+creaturetable.sort()
+
+print(creaturetable)
