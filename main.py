@@ -11,7 +11,10 @@ creaturetable=[]
 with open('creaturelist.csv', encoding = "ISO-8859-1") as csvfile:
     table = csv.DictReader(csvfile)
     for row in table:
-        creaturelist = {row['name']:[row['ac'],row['init']]}
+        creaturelist[str(row['name'])] = [row['cr'],row['size'],row['type'],
+                                          row['tags'],row['alignment'],row['environment'],
+                                          row['ac'],row['hp'],row['init'],
+                                          row['legendary?'],row['unique?'],row['sources']]
         creaturetable.append(row['name'])
 
 
@@ -88,9 +91,7 @@ class CurrentBattle(tk.Frame):
 
         addmonbutton = tk.Button(self, text="add creature from library", font=SMALL_FONT,
                                  command=lambda: [self.addmonster(controller)])
-                                                  #monsterlist.activate(index=3),
-                                                  #monsterlist.see(index=3)])
-                                                  #helpful command: curselection()
+
         addmonbutton.place(x=580, y=120)
 
         newmonbutton = tk.Button(self, text="add new creature", font=SMALL_FONT,
@@ -98,7 +99,6 @@ class CurrentBattle(tk.Frame):
         newmonbutton.place(x=600, y=160)
 
         self.var = tk.StringVar()
-        self.var.set("Aarakocra")
         self.textbox = tk.Entry(controller, textvariable=self.var)
         self.textbox.focus_set()
         self.monsterlist = tk.Listbox(self, selectmode="single", height=10, width=30)
@@ -110,10 +110,6 @@ class CurrentBattle(tk.Frame):
         self.textbox.place(x=820, y=20)
         self.monsterlist.place(x=780, y=50)
 
-        addbutton = tk.Button(self, text="add", font=SMALL_FONT,
-                                 command=lambda: None)
-        addbutton.place(x=800, y=260)
-
         self.var.trace("w", self.show_choices)
         self.monsterlist.bind("<<ListboxSelect>>", self.on_listbox_select)
 
@@ -122,6 +118,9 @@ class CurrentBattle(tk.Frame):
         index = self.monsterlist.curselection()[0]
         data = self.monsterlist.get(index)
         self.var.set(data)
+        addbutton = tk.Button(self, text="add", font=SMALL_FONT,
+                              command=lambda: print(creaturelist.get(data)))
+        addbutton.place(x=800, y=260)
 
     def show_choices(self, name1, name2, op):
         """Filter choices based on what was typed in the entry"""
