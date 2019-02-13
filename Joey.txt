@@ -1,0 +1,4 @@
+Name Joey
+Dex 10
+AC 13
+maxHP 20

@@ -1,0 +1,912 @@
+text,name,cr,size,type,tags,section,alignment,environment,ac,hp,init,lair?,legendary?,unique?,sources
+mm.aarakocra,Aarakocra,0.5,Medium,Humanoid,Aarakocra,,neutral good,"mountain, planar",12,13,2,,,,"Monster Manual: 12, Princes of the Apocalypse Online Supplement v1.0: 6"
+volo.abjurer,Abjurer,9,Medium,Humanoid,Any Race,NPCs,any,urban,12,84,2,,,,Volo's Guide to Monsters: 209
+mm.aboleth,Aboleth,10,Large,Aberration,,,lawful evil,"aquatic, coast",17,135,-1,lair,legendary,,"Monster Manual: 13, Princes of the Apocalypse Online Supplement v1.0: 6"
+mm.abominable-yeti,Abominable Yeti,9,Huge,Monstrosity,,Yeti,chaotic evil,"arctic, cave, mountain",15,137,0,,,,Monster Manual: 306
+mtof.abyssal-wretch,Abyssal Wretch,0.5,Medium,Fiend,Demon,Demons,chaotic evil,planar,11,18,1,,,,Mordenkainen's Tome of Foes: 136
+toa.acererak,Acererak,23,Medium,Undead,,,neutral evil,,21,285,3,,legendary,unique,Tomb of Annihilation: 209
+mm.acolyte,Acolyte,0.5,Medium,Humanoid,any,NPCs,any,"arctic, desert, dungeon, forest, grassland, mountain, swamp, underground, urban",10,9,0,,,,"Basic Rules v1: 53, HotDQ supplement: 4, Monster Manual: 342"
+mm.adult-black-dragon,Adult Black Dragon,14,Huge,Dragon,,Dragons,chaotic evil,swamp,19,195,2,lair,legendary,,"Monster Manual: 88, Princes of the Apocalypse Online Supplement v1.0: 7"
+mm.adult-blue-dracolich,Adult Blue Dracolich,17,Huge,Undead,,Dracolich,lawful evil,"desert, dungeon",19,225,0,lair,legendary,,Monster Manual: 84
+mm.adult-blue-dragon,Adult Blue Dragon,16,Huge,Dragon,,Dragons,lawful evil,desert,19,225,0,lair,legendary,,"HotDQ supplement: 4, Monster Manual: 91"
+mm.adult-brass-dragon,Adult Brass Dragon,13,Huge,Dragon,,Dragons,chaotic good,"cave, underground",18,172,0,lair,legendary,,Monster Manual: 105
+mm.adult-bronze-dragon,Adult Bronze Dragon,15,Huge,Dragon,,Dragons,lawful good,coast,19,212,0,lair,legendary,,"Monster Manual: 108, Princes of the Apocalypse Online Supplement v1.0: 7"
+mm.adult-copper-dragon,Adult Copper Dragon,14,Huge,Dragon,,Dragons,chaotic good,"cave, desert, grassland",18,184,1,lair,legendary,,Monster Manual: 112
+mm.adult-gold-dragon,Adult Gold Dragon,17,Huge,Dragon,,Dragons,lawful good,"mountain, ruins",19,256,2,lair,legendary,,Monster Manual: 114
+mm.adult-green-dragon,Adult Green Dragon,15,Huge,Dragon,,Dragons,lawful evil,forest,19,207,1,lair,legendary,,Monster Manual: 94
+mtof.adult-kruthik,Adult Kruthik,2,Medium,Monstrosity,,Kruthiks,unaligned,"cave, underground",18,39,3,,,,Mordenkainen's Tome of Foes: 212
+mtof.adult-oblex,Adult Oblex,5,Medium,Ooze,,Oblex,lawful evil,underground,14,75,3,,,,Mordenkainen's Tome of Foes: 218
+mm.adult-red-dragon,Adult Red Dragon,17,Huge,Dragon,,Dragons,chaotic evil,mountain,19,256,0,lair,legendary,,"Basic Rules v1: 8, Monster Manual: 98"
+mm.adult-silver-dragon,Adult Silver Dragon,16,Huge,Dragon,,Dragons,lawful good,"arctic, mountain",19,243,0,lair,legendary,,Monster Manual: 117
+mm.adult-white-dragon,Adult White Dragon,13,Huge,Dragon,,Dragons,chaotic evil,"arctic, cave, underground",18,200,0,lair,legendary,,"HotDQ supplement: 5, Monster Manual: 101"
+apoc.aerisi-kalinoth,Aerisi Kalinoth,7,Medium,Humanoid,Elf,Howling Hatred Cultists,neutral evil,,13,66,3,,,unique,Princes of the Apocalypse: 192
+apoc.aerisi-kalinoth-in-lair,Aerisi Kalinoth (in lair),9,Medium,Humanoid,Elf,Howling Hatred Cultists,neutral evil,,13,66,3,lair,,unique,Princes of the Apocalypse: 192
+mm.air-elemental,Air Elemental,5,Large,Elemental,,Elementals,neutral,"arctic, cave, coast, desert, dungeon, forest, grassland, mountain, planar, ruins, swamp, underground",15,90,5,,,,"Basic Rules v1: 9, HotDQ supplement: 5, Monster Manual: 124"
+apoc.air-elemental-myrmidon,Air Elemental Myrmidon,7,Medium,Elemental,,Elemental Myrmidons,neutral,"arctic, cave, coast, desert, dungeon, forest, grassland, mountain, planar, ruins, swamp, underground",18,117,2,,,,Princes of the Apocalypse: 212
+mtof.air-elemental-myrmidon,Air Elemental Myrmidon,7,Medium,Elemental,,Elder Myrmidons,neutral,planar,18,117,2,,,,Mordenkainen's Tome of Foes: 202
+toa.albino-dwarf-warrior,Albino Dwarf Warrior,0.5,Medium,Humanoid,Dwarf,,any alignment,,13,30,1,,,,Tomb of Annihilation: 210
+toa.aldani-lobsterfolk,Aldani (Lobsterfolk),1,Medium,Monstrosity,,,lawful neutral,,14,49,-1,,,,Tomb of Annihilation: 210
+volo.alhoon,Alhoon,10,Medium,Undead,,Mind Flayers,any evil,underground,15,120,1,,,,Volo's Guide to Monsters: 172
+mtof.alkilith,Alkilith,11,Medium,Fiend,Demon,Demons,chaotic evil,"ruins, urban",17,157,4,,,,Mordenkainen's Tome of Foes: 130
+mtof.allip,Allip,5,Medium,Undead,,,neutral evil,"dungeon, ruins",13,40,3,,,,Mordenkainen's Tome of Foes: 116
+mm.allosaurus,Allosaurus,2,Large,Beast,,Dinosaurs,unaligned,"coast, grassland, swamp",13,51,1,,,,"Basic Rules v1: 9, Monster Manual: 79"
+toa.almiraj,Almiraj,0,Small,Beast,,,unaligned,,13,3,3,,,,Tomb of Annihilation: 211
+hoard.ambush-drake,Ambush Drake,0.25,Medium,Dragon,,,unaligned,"cave, dungeon, forest, mountain, ruins, swamp, urban",13,22,2,,,,Hoard of the Dragon Queen: 88
+mtof.amnizu,Amnizu,18,Medium,Fiend,Devil,Devils,lawful evil,planar,21,202,1,,,,Mordenkainen's Tome of Foes: 164
+mm.ancient-black-dragon,Ancient Black Dragon,21,Gargantuan,Dragon,,Dragons,chaotic evil,swamp,22,367,2,lair,legendary,,Monster Manual: 87
+mm.ancient-blue-dragon,Ancient Blue Dragon,23,Gargantuan,Dragon,,Dragons,lawful evil,desert,22,481,0,lair,legendary,,Monster Manual: 90
+mm.ancient-brass-dragon,Ancient Brass Dragon,20,Gargantuan,Dragon,,Dragons,chaotic good,"cave, underground",20,297,0,lair,legendary,,Monster Manual: 104
+mm.ancient-bronze-dragon,Ancient Bronze Dragon,22,Gargantuan,Dragon,,Dragons,lawful good,coast,22,444,0,lair,legendary,,Monster Manual: 107
+mm.ancient-copper-dragon,Ancient Copper Dragon,21,Gargantuan,Dragon,,Dragons,chaotic good,"cave, desert, grassland",21,350,1,lair,legendary,,Monster Manual: 110
+mm.ancient-gold-dragon,Ancient Gold Dragon,24,Gargantuan,Dragon,,Dragons,lawful good,"mountain, ruins",22,546,2,lair,legendary,,Monster Manual: 113
+mm.ancient-green-dragon,Ancient Green Dragon,22,Gargantuan,Dragon,,Dragons,lawful evil,forest,21,385,1,lair,legendary,,Monster Manual: 93
+mm.ancient-red-dragon,Ancient Red Dragon,24,Gargantuan,Dragon,,Dragons,chaotic evil,mountain,22,546,0,lair,legendary,,Monster Manual: 97
+mm.ancient-silver-dragon,Ancient Silver Dragon,23,Gargantuan,Dragon,,Dragons,lawful good,"arctic, mountain",22,487,0,lair,legendary,,Monster Manual: 116
+mm.ancient-white-dragon,Ancient White Dragon,20,Gargantuan,Dragon,,Dragons,chaotic evil,"arctic, cave, underground",20,333,0,lair,legendary,,Monster Manual: 100
+mm.androsphinx,Androsphinx,17,Large,Monstrosity,,Sphinxes,lawful neutral,"dungeon, ruins",17,199,0,lair,legendary,,Monster Manual: 281
+mm.animated-armor,Animated Armor,1,Medium,Construct,,Animated Objects,unaligned,"dungeon, ruins, urban",18,33,0,,,,"Basic Rules v1: 9, Monster Manual: 19"
+tftyp.animated-table,Animated Table,2,Large,Construct,,,unaligned,,15,39,-1,,,,Tales from the Yawning Portal: 230
+mm.ankheg,Ankheg,2,Large,Monstrosity,,,unaligned,"coast, forest, grassland, underground",14,39,0,,,,"Monster Manual: 21, Princes of the Apocalypse Online Supplement v1.0: 8"
+mm.ankylosaurus,Ankylosaurus,3,Huge,Beast,,Dinosaurs,unaligned,grassland,15,68,0,,,,"Basic Rules v1: 10, Monster Manual: 79"
+toa.ankylosaurus-zombie,Ankylosaurus Zombie,3,Huge,Undead,,Zombies,unaligned,,14,68,-1,,,,Tomb of Annihilation: 240
+volo.annis-hag,Annis Hag,6,Large,Fey,,Hags,chaotic evil,"grassland, mountain",17,75,1,,,,Volo's Guide to Monsters: 159
+mm.ape,Ape,0.25,Medium,Beast,,Misc Creatures,unaligned,forest,12,19,2,,,,"Basic Rules v1: 10, Monster Manual: 317"
+volo.apprentice-wizard,Apprentice Wizard,0.5,Medium,Humanoid,Any Race,NPCs,any,urban,10,9,0,,,,Volo's Guide to Monsters: 209
+mm.arcanaloth,Arcanaloth,12,Medium,Fiend,Yugoloth,Yugoloths,neutral evil,"dungeon, planar",17,104,1,,,,Monster Manual: 313
+volo.archdruid,Archdruid,12,Medium,Humanoid,Any Race,NPCs,any,"forest, mountain, swamp, aquatic",16,132,2,,,,Volo's Guide to Monsters: 210
+volo.archer,Archer,3,Medium,Humanoid,Any Race,NPCs,any,"forest, urban",16,75,4,,,,Volo's Guide to Monsters: 210
+mm.archmage,Archmage,12,Medium,Humanoid,any,NPCs,any,"ruins, urban",12,99,2,,,,Monster Manual: 342
+mtof.armanite,Armanite,7,Large,Fiend,Demon,Demons,chaotic evil,planar,16,84,4,,,,Mordenkainen's Tome of Foes: 131
+toa.artus-cimber,Artus Cimber,7,Medium,Humanoid,Human,,neutral good,,14,82,2,,,unique,Tomb of Annihilation: 212
+mm.assassin,Assassin,8,Medium,Humanoid,any,NPCs,non-good,"arctic, cave, coast, desert, dungeon, forest, grassland, mountain, ruins, swamp, underground, urban",15,78,3,,,,"HotDQ supplement: 6, Monster Manual: 343, Princes of the Apocalypse Online Supplement v1.0: 8"
+toa.assassin-vine,Assassin Vine,3,Large,Plant,,,unaligned,,13,85,0,,,,Tomb of Annihilation: 213
+mtof.astral-dreadnought,Astral Dreadnought,21,Gargantuan,Monstrosity,Titan,,unaligned,planar,20,297,-2,,legendary,,Mordenkainen's Tome of Foes: 117
+toa.atropal,Atropal,13,Huge,Undead,Titan,,neutral evil,,7,225,-3,,legendary,,Tomb of Annihilation: 214
+volo.aurochs,Aurochs,2,Large,Beast,,,unaligned,"grassland, mountain",11,38,0,,,,Volo's Guide to Monsters: 207
+mtof.autumn-eladrin,Autumn Eladrin,10,Medium,Fey,Elf,Eladrin,chaotic neutral,planar,19,127,3,,,,Mordenkainen's Tome of Foes: 195
+mm.awakened-shrub,Awakened Shrub,0,Small,Plant,,Misc Creatures,unaligned,"forest, grassland",9,10,-1,,,,"Basic Rules v1: 10, Monster Manual: 317"
+mm.awakened-tree,Awakened Tree,2,Huge,Plant,,Misc Creatures,unaligned,forest,13,59,-2,,,,"Basic Rules v1: 10, Monster Manual: 317"
+mm.axe-beak,Axe Beak,0.5,Large,Beast,,Misc Creatures,unaligned,grassland,11,19,1,,,,"Basic Rules v1: 11, Monster Manual: 317"
+hoard.azbara-jos,Azbara Jos,4,Medium,Humanoid,Human,,lawful evil,,13,39,3,,,unique,Hoard of the Dragon Queen: 88
+mm.azer,Azer,2,Medium,Elemental,,,lawful neutral,"planar, underground",17,39,1,,,,"Monster Manual: 22, Princes of the Apocalypse Online Supplement v1.0: 9"
+strahd.baba-lysaga,Baba Lysaga,11,Medium,Humanoid,"Human, Shapechanger",,chaotic evil,,15,120,0,,,unique,Curse of Strahd: 228
+strahd.baba-lysagas-creeping-hut,Baba Lysaga's Creeping Hut,11,Gargantuan,Construct,,,unaligned,,16,263,-2,,,unique,Curse of Strahd: 226
+volo.babau,Babau,4,Medium,Fiend,Demon,Demons,chaotic evil,"underground, urban",16,82,3,,,,Volo's Guide to Monsters: 136
+mm.baboon,Baboon,0,Small,Beast,,Misc Creatures,unaligned,"forest, grassland",12,3,2,,,,"Basic Rules v1: 11, Monster Manual: 318"
+mm.badger,Badger,0,Tiny,Beast,,Misc Creatures,unaligned,forest,10,3,0,,,,"Basic Rules v1: 11, Monster Manual: 318"
+mtof.bael,Bael,19,Large,Fiend,Devil,Archdevils,lawful evil,planar,18,189,3,,legendary,unique,Mordenkainen's Tome of Foes: 170
+mtof.balhannoth,Balhannoth,11,Large,Aberration,,,chaotic evil,"cave, urban, underground",17,114,-1,,legendary,,Mordenkainen's Tome of Foes: 119
+mm.balor,Balor,19,Huge,Fiend,Demon,Demons,chaotic evil,"dungeon, planar",19,262,2,,,,Monster Manual: 55
+volo.banderhobb,Banderhobb,5,Large,Monstrosity,,,neutral evil,urban,15,84,1,,,,Volo's Guide to Monsters: 122
+mm.bandit,Bandit,0.125,Medium,Humanoid,any,NPCs,non-lawful,"arctic, coast, desert, forest, grassland, mountain, ruins, urban",12,11,1,,,,"Basic Rules v1: 53, HotDQ supplement: 6, Monster Manual: 343"
+mm.bandit-captain,Bandit Captain,2,Medium,Humanoid,any,NPCs,non-lawful,"arctic, coast, desert, forest, grassland, mountain, ruins, urban",15,65,3,,,,"Monster Manual: 344, Princes of the Apocalypse Online Supplement v1.0: 9"
+mm.banshee,Banshee,4,Medium,Undead,,,chaotic evil,"dungeon, forest, ruins, swamp",12,58,2,,,,"Basic Rules v1: 11, Monster Manual: 23"
+abyss.baphomet,Baphomet,23,Huge,Fiend,Demon,Demon Lords,chaotic evil,,22,333,2,,legendary,unique,Out of the Abyss: 235
+mtof.baphomet,Baphomet,23,Huge,Fiend,Demon,Demon Lords,chaotic evil,planar,22,275,2,lair,legendary,unique,Mordenkainen's Tome of Foes: 143
+mm.barbed-devil,Barbed Devil,5,Medium,Fiend,Devil,Devils,lawful evil,"dungeon, planar",15,110,3,,,,Monster Manual: 70
+volo.bard,Bard,2,Medium,Humanoid,Any Race,NPCs,any,urban,15,44,2,,,,Volo's Guide to Monsters: 211
+volo.barghest,Barghest,4,Large,Fiend,Shapechanger,,neutral evil,"forest, grassland, mountain, underground",17,90,2,,,,"Volo's Guide to Monsters: 123, Tales from the Yawning Portal: 230"
+mm.barlgura,Barlgura,5,Large,Fiend,Demon,Demons,chaotic evil,"dungeon, planar",15,68,2,,,,"Monster Manual: 56, Princes of the Apocalypse Online Supplement v1.0: 9"
+strahd.barovian-witch,Barovian Witch,0.25,Medium,Humanoid,Human,,chaotic evil,,10,16,0,,,,Curse of Strahd: 229
+mm.basilisk,Basilisk,3,Medium,Monstrosity,,,unaligned,"arctic, cave, coast, desert, dungeon, forest, grassland, mountain, ruins, swamp, underground",15,52,-1,,,,"Basic Rules v1: 12, Monster Manual: 24"
+apoc.bastian-thermandar,Bastian Thermandar,8,Medium,Humanoid,Fire genasi,Eternal Flame Cultists,chaotic evil,,12,78,2,,,unique,Princes of the Apocalypse: 201
+mm.bat,Bat,0,Tiny,Beast,,Misc Creatures,unaligned,"cave, forest, mountain, underground, urban",12,1,2,,,,"Basic Rules v1: 12, Monster Manual: 318, Player's Handbook: 304"
+mm.bearded-devil,Bearded Devil,3,Medium,Fiend,Devil,Devils,lawful evil,"dungeon, planar",13,52,2,,,,Monster Manual: 70
+mm.behir,Behir,11,Huge,Monstrosity,,,neutral evil,"cave, mountain, underground",17,168,3,,,,Monster Manual: 25
+mm.beholder,Beholder,13,Large,Aberration,,Beholders,lawful evil,"cave, dungeon, underground",18,180,2,,legendary,,Monster Manual: 28
+mm.beholder-in-lair,Beholder (in lair),14,Large,Aberration,,Beholders,lawful evil,"cave, dungeon, underground",18,180,2,lair,legendary,,Monster Manual: 28
+mm.beholder-zombie,Beholder Zombie,5,Large,Undead,,Zombies,neutral evil,"cave, dungeon, underground",15,93,-1,,,,Monster Manual: 316
+mtof.berbalang,Berbalang,2,Medium,Aberration,,,neutral evil,planar,14,38,3,,,,Mordenkainen's Tome of Foes: 120
+mm.berserker,Berserker,2,Medium,Humanoid,any,NPCs,any chaotic,"arctic, cave, desert, forest, grassland, mountain, swamp, urban",13,67,1,,,,"Basic Rules v1: 53, HotDQ supplement: 6, Monster Manual: 344"
+volo.bheur-hag,Bheur Hag,7,Medium,Fey,,Hags,chaotic evil,arctic,17,91,3,,,,Volo's Guide to Monsters: 160
+mtof.black-abishai,Black Abishai,7,Medium,Fiend,Devil,Devils,lawful evil,planar,15,58,3,,,,Mordenkainen's Tome of Foes: 160
+mm.black-bear,Black Bear,0.25,Medium,Beast,,Misc Creatures,unaligned,"cave, forest, grassland, mountain",11,19,0,,,,"Basic Rules v1: 12, Monster Manual: 318, Player's Handbook: 304"
+mm.black-dragon-wyrmling,Black Dragon Wyrmling,2,Medium,Dragon,,Dragons,chaotic evil,swamp,17,33,2,,,,Monster Manual: 88
+apoc.black-earth-guard,Black Earth Guard,2,Medium,Humanoid,Human,Black Earth Cultists,neutral evil,"arctic, cave, coast, desert, dungeon, forest, grassland, mountain, ruins, underground",18,39,0,,,,Princes of the Apocalypse: 195
+apoc.black-earth-priest,Black Earth Priest,3,Medium,Humanoid,Human,Black Earth Cultists,neutral evil,"arctic, cave, coast, desert, dungeon, forest, grassland, mountain, ruins, underground",17,45,0,,,,Princes of the Apocalypse: 195
+mm.black-pudding,Black Pudding,4,Large,Ooze,,Oozes,unaligned,dungeon,7,85,-3,,,,"Monster Manual: 241, Princes of the Apocalypse Online Supplement v1.0: 10"
+volo.blackguard,Blackguard,8,Medium,Humanoid,Any Race,NPCs,non-good,"underground, urban",18,153,0,,,,Volo's Guide to Monsters: 211
+hoard.blagothkus,Blagothkus,9,Huge,Giant,Cloud giant,,neutral evil,,17,138,1,,,unique,Hoard of the Dragon Queen: 89
+mm.blink-dog,Blink Dog,0.5,Medium,Fey,,Misc Creatures,lawful good,"forest, grassland",13,22,3,,,,"Basic Rules v1: 12, Monster Manual: 318"
+mm.blood-hawk,Blood Hawk,0.125,Small,Beast,,Misc Creatures,unaligned,"coast, grassland, mountain",12,7,2,,,,"Basic Rules v1: 13, Monster Manual: 319"
+mtof.blue-abishai,Blue Abishai,17,Medium,Fiend,Devil,Devils,lawful evil,planar,19,195,2,,,,Mordenkainen's Tome of Foes: 161
+mm.blue-dragon-wyrmling,Blue Dragon Wyrmling,3,Medium,Dragon,,Dragons,lawful evil,desert,17,52,0,,,,Monster Manual: 91
+mm.blue-slaad,Blue Slaad,7,Large,Aberration,,Slaadi,chaotic neutral,planar,15,123,2,,,,Monster Manual: 276
+mm.boar,Boar,0.5,Medium,Beast,,Misc Creatures,unaligned,"forest, grassland",11,11,0,,,,"Basic Rules v1: 13, Monster Manual: 319, Player's Handbook: 304"
+volo.bodak,Bodak,6,Medium,Undead,,,chaotic evil,"swamp, underground, urban",15,58,3,,,,"Volo's Guide to Monsters: 127, Tomb of Annihilation: 215"
+volo.boggle,Boggle,0.125,Small,Fey,,,chaotic neutral,"forest, grassland, underground, urban",14,18,4,,,,Volo's Guide to Monsters: 128
+mm.bone-devil,Bone Devil,9,Large,Fiend,Devil,Devils,lawful evil,"dungeon, planar",19,142,3,,,,Monster Manual: 71
+mm.bone-naga,Bone Naga,4,Large,Undead,,Nagas,lawful evil,"dungeon, ruins",15,58,3,,,,Monster Manual: 233
+mtof.boneclaw,Boneclaw,12,Large,Undead,,,chaotic evil,"dungeon, ruins, underground",16,127,3,,,,Mordenkainen's Tome of Foes: 121
+mm.brass-dragon-wyrmling,Brass Dragon Wyrmling,1,Medium,Dragon,,Dragons,chaotic good,"cave, underground",16,16,0,,,,Monster Manual: 106
+abyss.bridesmaid-of-zuggtmoy,Bridesmaid of Zuggtmoy,0.125,Medium,Plant,,,chaotic evil,,13,22,0,,,,Out of the Abyss: 230
+volo.brontosaurus,Brontosaurus,5,Gargantuan,Beast,,Dinosaurs,unaligned,"forest, grassland",15,121,-1,,,,"Volo's Guide to Monsters: 139, Tomb of Annihilation: 215"
+mm.bronze-dragon-wyrmling,Bronze Dragon Wyrmling,2,Medium,Dragon,,Dragons,lawful good,coast,17,32,0,,,,Monster Manual: 109
+mtof.bronze-scout,Bronze Scout,1,Medium,Construct,,Clockworks,unaligned,planar,13,18,3,,,,Mordenkainen's Tome of Foes: 125
+strahd.broom-of-animated-attack,Broom of Animated Attack,0.5,Small,Construct,,,unaligned,,15,17,3,,,,Curse of Strahd: 226
+mm.brown-bear,Brown Bear,1,Large,Beast,,Misc Creatures,unaligned,"cave, forest",11,34,0,,,,"Basic Rules v1: 13, Monster Manual: 319, Player's Handbook: 304"
+mm.bugbear,Bugbear,1,Medium,Humanoid,Goblinoid,Bugbears,chaotic evil,"cave, dungeon, forest, mountain, ruins, urban",16,27,2,,,,"Basic Rules v1: 13, Monster Manual: 33"
+mm.bugbear-chief,Bugbear Chief,3,Medium,Humanoid,Goblinoid,Bugbears,chaotic evil,"cave, dungeon, forest, mountain, ruins, urban",17,65,2,,,,Monster Manual: 33
+mm.bulette,Bulette,5,Large,Monstrosity,,,unaligned,"cave, desert, grassland, mountain, underground",17,94,0,,,,"Monster Manual: 34, Princes of the Apocalypse Online Supplement v1.0: 10"
+mtof.bulezau,Bulezau,3,Medium,Fiend,Demon,Demons,chaotic evil,planar,14,52,2,,,,Mordenkainen's Tome of Foes: 131
+mm.bullywug,Bullywug,0.5,Medium,Humanoid,Bullywug,,neutral evil,"coast, swamp",15,11,1,,,,"HotDQ supplement: 7, Monster Manual: 35"
+apoc.burrow-shark,Burrow Shark,4,Medium,Humanoid,Human,Black Earth Cultists,neutral evil,"arctic, cave, coast, desert, dungeon, forest, grassland, mountain, ruins, underground",18,82,1,,,,Princes of the Apocalypse: 196
+mtof.cadaver-collector,Cadaver Collector,14,Large,Construct,,,lawful evil,"planar, ruins",17,189,2,,,,Mordenkainen's Tome of Foes: 122
+mm.cambion,Cambion,5,Medium,Fiend,,,any evil,"dungeon, planar, urban",19,82,4,,,,Monster Manual: 36
+mm.camel,Camel,0.125,Large,Beast,,Misc Creatures,unaligned,desert,9,15,-1,,,,"Basic Rules v1: 14, Monster Manual: 320"
+mtof.canoloth,Canoloth,8,Medium,Fiend,Yugoloth,Yugoloths,neutral evil,planar,16,120,0,,,,Mordenkainen's Tome of Foes: 247
+hoard.captain-othelstan,Captain Othelstan,5,Medium,Humanoid,Human,,lawful evil,,19,93,0,,,unique,Hoard of the Dragon Queen: 89
+mm.carrion-crawler,Carrion Crawler,2,Large,Monstrosity,,,unaligned,"cave, dungeon, underground",13,51,1,,,,Monster Manual: 37
+mm.cat,Cat,0,Tiny,Beast,,Misc Creatures,unaligned,urban,12,2,2,,,,"Basic Rules v1: 14, Monster Manual: 320, Player's Handbook: 305"
+volo.catoblepas,Catoblepas,5,Large,Monstrosity,,,unaligned,swamp,14,84,1,,,,Volo's Guide to Monsters: 129
+volo.cave-fisher,Cave Fisher,3,Medium,Monstrosity,,,unaligned,underground,16,58,1,,,,Volo's Guide to Monsters: 130
+mm.centaur,Centaur,2,Large,Monstrosity,,,neutral good,"coast, desert, grassland",12,45,2,,,,"Basic Rules v1: 14, Monster Manual: 38"
+tftyp.centaur-mummy,Centaur Mummy,6,Large,Undead,,,lawful evil,,13,85,1,,,,Tales from the Yawning Portal: 231
+mm.chain-devil,Chain Devil,8,Medium,Fiend,Devil,Devils,lawful evil,"dungeon, planar",16,85,2,,,,Monster Manual: 72
+abyss.chamberlain-of-zuggtmoy,Chamberlain of Zuggtmoy,2,Large,Plant,,,chaotic evil,,13,45,-2,,,,Out of the Abyss: 230
+volo.champion,Champion,9,Medium,Humanoid,Any Race,NPCs,any,"desert, urban",18,143,2,,,,"Volo's Guide to Monsters: 212, Tales from the Yawning Portal: 231, Tomb of Annihilation: 216"
+mm.chasme,Chasme,6,Large,Fiend,Demon,Demons,chaotic evil,"dungeon, planar",15,84,2,,,,Monster Manual: 57
+mm.chimera,Chimera,6,Large,Monstrosity,,,chaotic evil,mountain,14,114,0,,,,"Basic Rules v1: 14, Monster Manual: 39"
+volo.chitine,Chitine,0.25,Small,Monstrosity,,Chitines,chaotic evil,underground,14,18,2,,,,Volo's Guide to Monsters: 131
+mtof.choker,Choker,1,Small,Aberration,,,chaotic evil,"cave, underground",16,13,2,,,,Mordenkainen's Tome of Foes: 123
+tftyp.choker,Choker,1,Small,Aberration,,,chaotic evil,,16,13,2,,,,Tales from the Yawning Portal: 232
+volo.choldrith,Choldrith,3,Medium,Monstrosity,,Chitines,chaotic evil,underground,15,66,3,,,,Volo's Guide to Monsters: 132
+mm.chuul,Chuul,4,Large,Aberration,,,chaotic evil,"aquatic, coast",16,93,0,,,,"Monster Manual: 40, Princes of the Apocalypse Online Supplement v1.0: 11"
+abyss.chuul-spore-servant,Chuul Spore Servant,4,Large,Plant,,,unaligned,,16,93,0,,,,Out of the Abyss: 228
+toa.chwinga,Chwinga,0,Tiny,Elemental,,,neutral,,15,5,5,,,,Tomb of Annihilation: 216
+mm.clay-golem,Clay Golem,9,Large,Construct,,Golems,unaligned,"dungeon, ruins, urban",14,133,-1,,,,Monster Manual: 168
+mm.cloaker,Cloaker,8,Large,Aberration,,,chaotic neutral,"cave, dungeon, underground",14,78,2,,,,"Monster Manual: 41, Princes of the Apocalypse Online Supplement v1.0: 11"
+mm.cloud-giant,Cloud Giant,9,Huge,Giant,,Giants,neutral good (50%) or neutral evil (50%),"mountain, planar",14,200,0,,,,"Monster Manual: 154, Princes of the Apocalypse Online Supplement v1.0: 12"
+volo.cloud-giant-smiling-one,Cloud Giant Smiling One,11,Huge,Giant,Cloud Giant,Giants,chaotic neutral,mountain,15,262,1,,,,Volo's Guide to Monsters: 146
+mm.cockatrice,Cockatrice,0.25,Small,Monstrosity,,,unaligned,"forest, grassland, swamp",11,27,1,,,,"Basic Rules v1: 15, Monster Manual: 42"
+mm.commoner,Commoner,0,Medium,Humanoid,any,NPCs,any,urban,10,4,0,,,,"Basic Rules v1: 54, HotDQ supplement: 7, Monster Manual: 345"
+volo.conjurer,Conjurer,6,Medium,Humanoid,Any Race,NPCs,any,urban,12,40,2,,,,"Volo's Guide to Monsters: 212, Tales from the Yawning Portal: 232"
+mm.constrictor-snake,Constrictor Snake,0.5,Large,Beast,,Misc Creatures,unaligned,"forest, swamp",12,13,2,,,,"Basic Rules v1: 15, Monster Manual: 320, Player's Handbook: 305"
+mm.copper-dragon-wyrmling,Copper Dragon Wyrmling,1,Medium,Dragon,,Dragons,chaotic good,"cave, desert, grassland",16,22,1,,,,Monster Manual: 111
+mtof.corpse-flower,Corpse Flower,8,Large,Plant,,,chaotic evil,"forest, ruins, swamp, urban",12,127,2,,,,Mordenkainen's Tome of Foes: 127
+mm.couatl,Couatl,4,Medium,Celestial,,,lawful good,planar,19,97,5,,,,Monster Manual: 43
+volo.cow,Cow,0.5,Large,Beast,,,unaligned,urban,10,15,0,,,,Volo's Guide to Monsters: 207
+volo.cow-ox,Cow (Ox),0.5,Large,Beast,,,unaligned,urban,10,15,0,,,,Volo's Guide to Monsters: 208
+mm.crab,Crab,0,Tiny,Beast,,Misc Creatures,unaligned,"aquatic, coast",11,2,0,,,,"Basic Rules v1: 15, Monster Manual: 320"
+sking.crag-cat,Crag Cat,1,Large,Beast,,,unaligned,,13,34,3,,,,Storm King's Thunder: 240
+volo.cranium-rat,Cranium Rat,0,Tiny,Beast,,Cranium Rats,lawful evil,"underground, urban",12,2,2,,,,Volo's Guide to Monsters: 133
+mm.crawling-claw,Crawling Claw,0,Tiny,Undead,,,neutral evil,"dungeon, ruins, swamp",12,2,2,,,,"Monster Manual: 44, Princes of the Apocalypse Online Supplement v1.0: 12"
+mm.crocodile,Crocodile,0.25,Large,Beast,,Misc Creatures,unaligned,"aquatic, coast, swamp",12,19,0,,,,"Basic Rules v1: 15, HotDQ supplement: 7, Monster Manual: 320, Player's Handbook: 305"
+apoc.crushing-wave-priest,Crushing Wave Priest,2,Medium,Humanoid,Human,Crushing Wave Cultists,neutral evil,"aquatic, cave, coast, grassland, swamp, underground",13,52,0,,,,Princes of the Apocalypse: 205
+apoc.crushing-wave-reaver,Crushing Wave Reaver,0.25,Medium,Humanoid,Human,Crushing Wave Cultists,neutral evil,"aquatic, cave, coast, grassland, swamp, underground",14,22,2,,,,Princes of the Apocalypse: 205
+mm.cult-fanatic,Cult Fanatic,2,Medium,Humanoid,any,NPCs,non-good,"dungeon, urban",13,33,2,,,,"Monster Manual: 345, Princes of the Apocalypse Online Supplement v1.0: 12"
+mm.cultist,Cultist,0.125,Medium,Humanoid,any,NPCs,non-good,"dungeon, urban",12,9,1,,,,"Basic Rules v1: 54, HotDQ supplement: 7, Monster Manual: 345"
+mm.cyclops,Cyclops,6,Huge,Giant,,,chaotic neutral,"cave, coast, grassland, mountain, ruins, swamp",14,138,0,,,,"Basic Rules v1: 16, Monster Manual: 45"
+mm.dao,Dao,11,Large,Elemental,,Genies,neutral evil,"cave, dungeon, mountain, planar, underground",18,187,1,,,,"Monster Manual: 143, Princes of the Apocalypse Online Supplement v1.0: 13"
+apoc.dark-tide-knight,Dark Tide Knight,3,Medium,Humanoid,Human,Crushing Wave Cultists,lawful evil,"aquatic, cave, coast, grassland, swamp, underground",13,58,3,,,,Princes of the Apocalypse: 205
+volo.darkling,Darkling,0.25,Small,Fey,,Darklings,chaotic neutral,"forest, swamp, underground, urban",14,13,3,,,,Volo's Guide to Monsters: 134
+volo.darkling-elder,Darkling Elder,2,Medium,Fey,,Darklings,chaotic neutral,"forest, swamp, underground, urban",15,27,3,,,,Volo's Guide to Monsters: 134
+mm.darkmantle,Darkmantle,0.25,Small,Monstrosity,,,unaligned,"cave, underground",11,22,1,,,,"Monster Manual: 46, Princes of the Apocalypse Online Supplement v1.0: 13"
+mm.death-dog,Death Dog,1,Medium,Monstrosity,,Misc Creatures,neutral evil,"desert, grassland, underground",12,39,2,,,,"Basic Rules v1: 16, Monster Manual: 321"
+volo.death-kiss,Death Kiss,10,Large,Aberration,,Beholders,neutral evil,underground,16,161,2,,,,Volo's Guide to Monsters: 124
+mm.death-knight,Death Knight,17,Medium,Undead,,,chaotic evil,"arctic, cave, coast, desert, dungeon, forest, grassland, mountain, ruins, swamp, underground, urban",20,180,0,,,,Monster Manual: 47
+mm.death-slaad,Death Slaad,10,Medium,Aberration,Shapechanger,Slaadi,chaotic evil,planar,18,170,2,,,,Monster Manual: 278
+mm.death-tyrant,Death Tyrant,14,Large,Undead,,Beholders,lawful evil,"cave, dungeon, underground",19,187,2,,legendary,,Monster Manual: 29
+mm.death-tyrant-in-lair,Death Tyrant (in lair),15,Large,Undead,,Beholders,lawful evil,"cave, dungeon, underground",19,187,2,lair,legendary,,Monster Manual: 29
+mtof.deathlock,Deathlock,4,Medium,Undead,,,neutral evil,,12,36,2,,,,Mordenkainen's Tome of Foes: 128
+mtof.deathlock-mastermind,Deathlock Mastermind,8,Medium,Undead,,,neutral evil,,13,110,3,,,,Mordenkainen's Tome of Foes: 129
+mtof.deathlock-wight,Deathlock Wight,3,Medium,Undead,,,neutral evil,,12,37,2,,,,Mordenkainen's Tome of Foes: 129
+tftyp.deathlock-wight,Deathlock Wight,3,Medium,Undead,,,neutral evil,,12,37,2,,,,Tales from the Yawning Portal: 233
+tortle.decapus,Decapus,4,Large,Monstrosity,,,unaligned,,14,75,2,,,,The Tortle Package: 21
+mm.deep-gnome-svirfneblin,Deep Gnome (Svirfneblin),0.25,Small,Humanoid,Gnome,"Gnome, Deep (Svirfneblin)",neutral good,"cave, dungeon, planar, underground",15,16,2,,,,"Monster Manual: 164, Princes of the Apocalypse Online Supplement v1.0: 13"
+volo.deep-scion,Deep Scion,3,Medium,Humanoid,Shapechanger,,neutral evil,"coast, aquatic",11,67,1,,,,Volo's Guide to Monsters: 135
+mm.deer,Deer,0,Medium,Beast,,Misc Creatures,unaligned,"forest, grassland",13,4,3,,,,"Basic Rules v1: 16, HotDQ supplement: 7, Monster Manual: 321"
+volo.deinonychus,Deinonychus,1,Medium,Beast,,Dinosaurs,unaligned,"forest, grassland",13,26,2,,,,"Volo's Guide to Monsters: 139, Tomb of Annihilation: 217"
+mm.demilich,Demilich,18,Tiny,Undead,,,neutral evil,dungeon,20,80,5,,legendary,,Monster Manual: 48
+mm.demilich-acererak-in-lair,Demilich (Acererak in lair),23,Tiny,Undead,,,neutral evil,,20,80,5,lair,legendary,unique,Monster Manual: 49
+mm.demilich-acererak,Demilich (Acererak),21,Tiny,Undead,,,neutral evil,,20,80,5,,legendary,unique,Monster Manual: 49
+mm.demilich-in-lair,Demilich (in lair),20,Tiny,Undead,,,neutral evil,dungeon,20,80,5,lair,legendary,,Monster Manual: 48
+abyss.demogorgon,Demogorgon,26,Huge,Fiend,Demon,Demon Lords,chaotic evil,,22,496,2,,legendary,unique,Out of the Abyss: 236
+mtof.demogorgon,Demogorgon,26,Huge,Fiend,Demon,Demon Lords,chaotic evil,planar,22,406,2,lair,legendary,unique,Mordenkainen's Tome of Foes: 144
+abyss.derro,Derro,0.5,Small,Humanoid,Derro,,chaotic evil,underground,13,13,2,,,,Out of the Abyss: 224
+mtof.derro,Derro,0.5,Small,Humanoid,Derro,Derro,chaotic evil,"underground, urban",13,13,2,,,,Mordenkainen's Tome of Foes: 158
+abyss.derro-savant,Derro Savant,3,Small,Humanoid,Derro,,chaotic evil,underground,13,49,2,,,,Out of the Abyss: 225
+mtof.derro-savant,Derro Savant,3,Small,Humanoid,Derro,Derro,chaotic evil,"underground, urban",13,36,2,,,,Mordenkainen's Tome of Foes: 159
+mm.deva,Deva,10,Medium,Celestial,,Angels,lawful good,planar,17,136,4,,,,Monster Manual: 16
+volo.devourer,Devourer,13,Large,Fiend,,,chaotic evil,underground,16,178,1,,,,Volo's Guide to Monsters: 138
+mtof.dhergoloth,Dhergoloth,7,Medium,Fiend,Yugoloth,Yugoloths,neutral evil,planar,15,119,0,,,,Mordenkainen's Tome of Foes: 248
+volo.dimetrodon,Dimetrodon,0.5,Medium,Beast,,Dinosaurs,unaligned,swamp,12,19,0,,,,"Volo's Guide to Monsters: 139, Tomb of Annihilation: 217"
+mtof.dire-troll,Dire Troll,13,Huge,Giant,,Trolls,chaotic evil,"dungeon, forest, mountain, ruins, swamp",15,172,2,,,,Mordenkainen's Tome of Foes: 243
+mm.dire-wolf,Dire Wolf,1,Large,Beast,,Misc Creatures,unaligned,"arctic, cave, forest, grassland",14,37,2,,,,"Basic Rules v1: 16, Monster Manual: 321, Player's Handbook: 305"
+mm.displacer-beast,Displacer Beast,3,Large,Monstrosity,,,lawful evil,"forest, grassland",13,85,2,,,,Monster Manual: 81
+volo.diviner,Diviner,8,Medium,Humanoid,Any Race,NPCs,any,urban,12,67,2,,,,Volo's Guide to Monsters: 213
+mm.djinni,Djinni,11,Large,Elemental,,Genies,chaotic good,"arctic, coast, dungeon, grassland, planar",17,161,2,,,,"Monster Manual: 144, Princes of the Apocalypse Online Supplement v1.0: 14"
+volo.dolphin,Dolphin,0.125,Medium,Beast,,,unaligned,"coast, aquatic",12,11,1,,,,Volo's Guide to Monsters: 208
+mm.doppelganger,Doppelganger,3,Medium,Monstrosity,Shapechanger,,neutral,"dungeon, ruins, urban",14,52,4,,,,"Basic Rules v1: 17, HotDQ supplement: 8, Monster Manual: 82"
+volo.draegloth,Draegloth,7,Large,Fiend,Demon,,chaotic evil,underground,15,123,2,,,,Volo's Guide to Monsters: 141
+mm.draft-horse,Draft Horse,0.5,Large,Beast,,Misc Creatures,unaligned,urban,10,19,0,,,,"Basic Rules v1: 17, Monster Manual: 321"
+mm.dragon-turtle,Dragon Turtle,17,Gargantuan,Dragon,,,neutral,aquatic,20,341,0,,,,"Monster Manual: 119, Princes of the Apocalypse Online Supplement v1.0: 14"
+toa.dragonbait,Dragonbait,5,Medium,Humanoid,Saurial,,lawful good,,17,120,1,,,unique,Tomb of Annihilation: 218
+hoard.dragonclaw,Dragonclaw,1,Medium,Humanoid,Human,,neutral evil,"dungeon, urban",14,16,3,,,,"Hoard of the Dragon Queen: 89, Rise of Tiamat: 89"
+tiamat.dragonfang,Dragonfang,5,Medium,Humanoid,Human,,neutral evil,"dungeon, urban",15,78,3,,,,Rise of Tiamat: 89
+tiamat.dragonsoul,Dragonsoul,7,Medium,Humanoid,Human,,neutral evil,"dungeon, urban",16,110,4,,,,Rise of Tiamat: 89
+hoard.dragonwing,Dragonwing,2,Medium,Humanoid,Human,,neutral evil,"dungeon, urban",14,32,3,,,,Hoard of the Dragon Queen: 89
+tiamat.dragonwing,Dragonwing,2,Medium,Humanoid,Human,,neutral evil,"dungeon, urban",14,33,3,,,,Rise of Tiamat: 90
+hoard.dralmorrer-borngray,Dralmorrer Borngray,3,Medium,Humanoid,High-elf,,neutral evil,,16,52,2,,,unique,Hoard of the Dragon Queen: 90
+apoc.drannin-splithelm,Drannin Splithelm,7,Medium,Humanoid,Shield dwarf,Other Villains,neutral evil,,18,93,0,,,unique,Princes of the Apocalypse: 210
+tftyp.dread-warrior,Dread Warrior,1,Medium,Undead,,,neutral evil,,18,37,0,,,,Tales from the Yawning Portal: 233
+mm.dretch,Dretch,0.5,Small,Fiend,Demon,Demons,chaotic evil,"dungeon, planar",11,18,0,,,,Monster Manual: 57
+mm.drider,Drider,6,Large,Monstrosity,,,chaotic evil,"dungeon, underground",19,123,3,,,,Monster Manual: 120
+abyss.droki,Droki,2,Small,Humanoid,Derro,,chaotic evil,,15,31,3,,,unique,Out of the Abyss: 231
+mm.drow,Drow,0.5,Medium,Humanoid,Elf,Elves: Drow,neutral evil,"dungeon, underground, urban",15,13,2,,,,Monster Manual: 128
+mtof.drow-arachnomancer,Drow Arachnomancer,13,Medium,Humanoid,Elf,Drow,chaotic evil,"underground, urban",15,162,3,,,,Mordenkainen's Tome of Foes: 182
+mm.drow-elite-warrior,Drow Elite Warrior,5,Medium,Humanoid,Elf,Elves: Drow,neutral evil,"dungeon, underground, urban",18,71,4,,,,Monster Manual: 128
+mtof.drow-favored-consort,Drow Favored Consort,18,Medium,Humanoid,Elf,Drow,chaotic evil,"underground, urban",15,225,5,,,,Mordenkainen's Tome of Foes: 183
+mtof.drow-house-captain,Drow House Captain,9,Medium,Humanoid,Elf,Drow,chaotic evil,"underground, urban",16,162,4,,,,Mordenkainen's Tome of Foes: 184
+mtof.drow-inquisitor,Drow Inquisitor,14,Medium,Humanoid,Elf,Drow,chaotic evil,"underground, urban",16,143,2,,,,Mordenkainen's Tome of Foes: 184
+mm.drow-mage,Drow Mage,7,Medium,Humanoid,Elf,Elves: Drow,neutral evil,"dungeon, underground, urban",12,45,2,,,,"Monster Manual: 129, Princes of the Apocalypse Online Supplement v1.0: 15"
+mtof.drow-matron-mother,Drow Matron Mother,20,Medium,Humanoid,Elf,Drow,chaotic evil,"underground, urban",17,262,4,,legendary,,Mordenkainen's Tome of Foes: 186
+mm.drow-priestess-of-lolth,Drow Priestess of Lolth,8,Medium,Humanoid,Elf,Elves: Drow,neutral evil,"dungeon, underground, urban",16,71,2,,,,Monster Manual: 129
+mtof.drow-shadowblade,Drow Shadowblade,11,Medium,Humanoid,Elf,Drow,chaotic evil,"underground, urban",17,150,5,,,,Mordenkainen's Tome of Foes: 187
+abyss.drow-spore-servant,Drow Spore Servant,0.125,Medium,Plant,,,unaligned,,15,13,2,,,,Out of the Abyss: 229
+mm.druid,Druid,2,Medium,Humanoid,any,NPCs,any,"arctic, cave, coast, desert, forest, grassland, mountain, swamp, underground",11,27,1,,,,"Monster Manual: 346, Princes of the Apocalypse Online Supplement v1.0: 15"
+mm.dryad,Dryad,1,Medium,Fey,,,neutral,forest,11,22,1,,,,Monster Manual: 121
+mm.duergar,Duergar,1,Medium,Humanoid,Dwarf,,lawful evil,"dungeon, underground",16,26,0,,,,"Monster Manual: 122, Princes of the Apocalypse Online Supplement v1.0: 16"
+mtof.duergar-despot,Duergar Despot,12,Medium,Humanoid,Dwarf,Duergar,lawful evil,"underground, urban",21,119,-3,,,,Mordenkainen's Tome of Foes: 188
+mtof.duergar-hammerer,Duergar Hammerer,2,Medium,Construct,,Duergar,lawful evil,"underground, urban",17,33,-2,,,,Mordenkainen's Tome of Foes: 188
+mtof.duergar-kavalrachni,Duergar Kavalrachni,2,Medium,Humanoid,Dwarf,Duergar,lawful evil,"underground, urban",16,26,0,,,,Mordenkainen's Tome of Foes: 189
+mtof.duergar-mind-master,Duergar Mind Master,2,Medium,Humanoid,Dwarf,Duergar,lawful evil,"underground, urban",14,39,3,,,,Mordenkainen's Tome of Foes: 189
+mtof.duergar-screamer,Duergar Screamer,3,Medium,Construct,,Duergar,lawful evil,"underground, urban",15,38,-2,,,,Mordenkainen's Tome of Foes: 190
+abyss.duergar-soulblade,Duergar Soulblade,1,Medium,Humanoid,Dwarf,,lawful evil,,14,18,3,,,,Out of the Abyss: 227
+mtof.duergar-soulblade,Duergar Soulblade,1,Medium,Humanoid,Dwarf,Duergar,lawful evil,"underground, urban",14,18,3,,,,Mordenkainen's Tome of Foes: 190
+abyss.duergar-spore-servant,Duergar Spore Servant,0.25,Medium,Plant,,,unaligned,,16,26,0,,,,Out of the Abyss: 229
+tftyp.duergar-spy,Duergar Spy,2,Medium,Humanoid,Dwarf,,lawful evil,,15,33,3,,,,Tales from the Yawning Portal: 234
+abyss.duergar-stone-guard,Duergar Stone Guard,2,Medium,Humanoid,Dwarf,,lawful evil,,18,39,0,,,,Out of the Abyss: 227
+mtof.duergar-stone-guard,Duergar Stone Guard,2,Medium,Humanoid,Dwarf,Duergar,lawful evil,"underground, urban",18,39,0,,,,Mordenkainen's Tome of Foes: 191
+mtof.duergar-warlord,Duergar Warlord,6,Medium,Humanoid,Dwarf,Duergar,lawful evil,"underground, urban",20,75,0,,,,Mordenkainen's Tome of Foes: 192
+abyss.duergar-xarrorn,Duergar Xarrorn,2,Medium,Humanoid,Dwarf,,lawful evil,,18,26,0,,,,Out of the Abyss: 228
+mtof.duergar-xarrorn,Duergar Xarrorn,2,Medium,Humanoid,Dwarf,Duergar,lawful evil,"underground, urban",18,26,0,,,,Mordenkainen's Tome of Foes: 193
+mm.duodrone,Duodrone,0.5,Medium,Construct,,Modrons,lawful neutral,planar,15,11,1,,,,Monster Manual: 225
+mm.dust-mephit,Dust Mephit,0.25,Small,Elemental,,Mephits,neutral evil,"dungeon, planar, ruins, urban",12,17,2,,,,"Monster Manual: 215, Princes of the Apocalypse Online Supplement v1.0: 16"
+mtof.dybbuk,Dybbuk,4,Medium,Fiend,Demon,Demons,chaotic evil,planar,14,37,4,,,,Mordenkainen's Tome of Foes: 132
+mm.eagle,Eagle,0,Small,Beast,,Misc Creatures,unaligned,"arctic, grassland, mountain",12,3,2,,,,"Basic Rules v1: 17, Monster Manual: 322"
+mm.earth-elemental,Earth Elemental,5,Large,Elemental,,Elementals,neutral,"arctic, cave, coast, desert, dungeon, forest, grassland, mountain, planar, ruins, swamp, underground",17,126,-1,,,,"Basic Rules v1: 17, Monster Manual: 124"
+apoc.earth-elemental-myrmidon,Earth Elemental Myrmidon,7,Medium,Elemental,,Elemental Myrmidons,neutral,"arctic, cave, coast, desert, dungeon, forest, grassland, mountain, planar, ruins, swamp, underground",18,127,0,,,,Princes of the Apocalypse: 212
+mtof.earth-elemental-myrmidon,Earth Elemental Myrmidon,7,Medium,Elemental,,Elder Myrmidons,neutral,planar,18,127,0,,,,Mordenkainen's Tome of Foes: 202
+toa.eblis,Eblis,1,Large,Monstrosity,,,neutral evil,,13,26,3,,,,Tomb of Annihilation: 219
+mm.efreeti,Efreeti,11,Large,Elemental,,Genies,lawful evil,"desert, dungeon, mountain, planar",17,200,1,,,,"Monster Manual: 145, Princes of the Apocalypse Online Supplement v1.0: 16"
+mtof.eidolon,Eidolon,12,Medium,Undead,,,any,"dungeon, ruins",9,63,-1,,,,Mordenkainen's Tome of Foes: 194
+volo.elder-brain,Elder Brain,14,Large,Aberration,,Mind Flayers,lawful evil,underground,10,210,0,,,,Volo's Guide to Monsters: 173
+mtof.elder-oblex,Elder Oblex,10,Huge,Ooze,,Oblex,lawful evil,underground,16,115,3,,,,Mordenkainen's Tome of Foes: 219
+mtof.elder-tempest,Elder Tempest,23,Gargantuan,Elemental,,Elder Elementals,neutral,planar,19,264,9,,legendary,,Mordenkainen's Tome of Foes: 200
+mm.elephant,Elephant,4,Huge,Beast,,Misc Creatures,unaligned,grassland,12,76,-1,,,,"Basic Rules v1: 18, Monster Manual: 322"
+apoc.elizar-dryflagon,Elizar Dryflagon,5,Medium,Humanoid,Human,Eternal Flame Cultists,chaotic evil,,14,71,2,,,unique,Princes of the Apocalypse: 202
+mm.elk,Elk,0.5,Large,Beast,,Misc Creatures,unaligned,"forest, grassland",10,13,0,,,,"Basic Rules v1: 18, HotDQ supplement: 8, Monster Manual: 322"
+mm.empyrean,Empyrean,23,Huge,Celestial,Titan,,chaotic good (75%) or neutral evil (25%),planar,22,313,5,,legendary,,Monster Manual: 130
+volo.enchanter,Enchanter,5,Medium,Humanoid,Any Race,NPCs,any,urban,12,40,2,,,,"Volo's Guide to Monsters: 213, Tales from the Yawning Portal: 234"
+mm.erinyes,Erinyes,12,Medium,Fiend,Devil,Devils,lawful evil,"dungeon, planar",18,153,3,,,,Monster Manual: 73
+apoc.eternal-flame-guardian,Eternal Flame Guardian,2,Medium,Humanoid,Human,Eternal Flame Cultists,chaotic evil,"cave, desert, dungeon, forest, grassland, mountain, ruins, underground",17,45,1,,,,Princes of the Apocalypse: 200
+apoc.eternal-flame-priest,Eternal Flame Priest,3,Medium,Humanoid,Human,Eternal Flame Cultists,neutral evil,"cave, desert, dungeon, forest, grassland, mountain, ruins, underground",12,52,2,,,,Princes of the Apocalypse: 200
+mm.ettercap,Ettercap,2,Medium,Monstrosity,,,neutral evil,"cave, dungeon, forest, ruins, swamp, underground",13,44,2,,,,"HotDQ supplement: 9, Monster Manual: 131"
+mm.ettin,Ettin,4,Large,Giant,,,chaotic evil,"cave, grassland, mountain, swamp",12,85,-1,,,,"Monster Manual: 132, Princes of the Apocalypse Online Supplement v1.0: 17"
+volo.evoker,Evoker,9,Medium,Humanoid,Any Race,NPCs,any,urban,12,66,2,,,,"Volo's Guide to Monsters: 214, Tales from the Yawning Portal: 235"
+strahd.ezmerelda-davenir,Ezmerelda d'Avenir,8,Medium,Humanoid,Human,,chaotic good,,17,82,4,,,,Curse of Strahd: 231
+mm.faerie-dragon-blue,Faerie Dragon (blue),2,Tiny,Dragon,,,chaotic good,"forest, grassland, mountain, ruins, swamp",15,14,5,,,,Monster Manual: 133
+mm.faerie-dragon-green,Faerie Dragon (green),2,Tiny,Dragon,,,chaotic good,"forest, grassland, mountain, ruins, swamp",15,14,5,,,,Monster Manual: 133
+mm.faerie-dragon-indigo,Faerie Dragon (indigo),2,Tiny,Dragon,,,chaotic good,"forest, grassland, mountain, ruins, swamp",15,14,5,,,,Monster Manual: 133
+mm.faerie-dragon-orange,Faerie Dragon (orange),1,Tiny,Dragon,,,chaotic good,"forest, grassland, mountain, ruins, swamp",15,14,5,,,,Monster Manual: 133
+mm.faerie-dragon-red,Faerie Dragon (red),1,Tiny,Dragon,,,chaotic good,"forest, grassland, mountain, ruins, swamp",15,14,5,,,,Monster Manual: 133
+mm.faerie-dragon-violet,Faerie Dragon (violet),2,Tiny,Dragon,,,chaotic good,"forest, grassland, mountain, ruins, swamp",15,14,5,,,,Monster Manual: 133
+mm.faerie-dragon-yellow,Faerie Dragon (yellow),1,Tiny,Dragon,,,chaotic good,"forest, grassland, mountain, ruins, swamp",15,14,5,,,,Monster Manual: 133
+apoc.fathomer,Fathomer,2,Medium,Humanoid,Human,Crushing Wave Cultists,neutral evil,"aquatic, cave, coast, grassland, swamp, underground",10,52,0,,,,Princes of the Apocalypse: 207
+apoc.feathergale-knight,Feathergale knight,1,Medium,Humanoid,Human,Howling Hatred Cultists,lawful evil,"arctic, cave, coast, desert, dungeon, grassland, mountain, ruins",16,33,2,,,,Princes of the Apocalypse: 189
+abyss.female-steeder,Female Steeder,1,Large,Beast,,,unaligned,,14,30,3,,,,Out of the Abyss: 231
+mtof.female-steeder,Female Steeder,1,Large,Monstrosity,,Steeder,unaligned,"cave, underground",14,30,3,,,,Mordenkainen's Tome of Foes: 238
+mm.fire-elemental,Fire Elemental,5,Large,Elemental,,Elementals,neutral,"cave, coast, desert, dungeon, grassland, mountain, planar, ruins, underground",13,102,3,,,,"Basic Rules v1: 18, Monster Manual: 125"
+apoc.fire-elemental-myrmidon,Fire Elemental Myrmidon,7,Medium,Elemental,,Elemental Myrmidons,neutral,"cave, coast, desert, dungeon, grassland, mountain, planar, ruins, swamp, underground, urban",18,117,4,,,,Princes of the Apocalypse: 213
+mtof.fire-elemental-myrmidon,Fire Elemental Myrmidon,7,Medium,Elemental,,Elder Myrmidons,neutral,planar,18,123,4,,,,Mordenkainen's Tome of Foes: 203
+mm.fire-giant,Fire Giant,9,Huge,Giant,,Giants,lawful evil,"mountain, planar",18,162,-1,,,,"Basic Rules v1: 19, Monster Manual: 154"
+volo.fire-giant-dreadnought,Fire Giant Dreadnought,14,Huge,Giant,Fire Giant,Giants,lawful evil,"mountain, underground",21,187,-1,,,,Volo's Guide to Monsters: 147
+mm.fire-snake,Fire Snake,1,Medium,Elemental,,Salamanders,neutral evil,"forest, planar",14,22,2,,,,"Monster Manual: 265, Princes of the Apocalypse Online Supplement v1.0: 17"
+volo.firenewt-warlock-of-imix,Firenewt Warlock of Imix,1,Medium,Humanoid,Firenewt,Firenewts,neutral evil,"grassland, mountain, underground",10,33,0,,,,"Volo's Guide to Monsters: 143, Tomb of Annihilation: 219"
+volo.firenewt-warrior,Firenewt Warrior,0.25,Medium,Humanoid,Firenewt,Firenewts,neutral evil,"grassland, mountain, underground",16,22,1,,,,"Volo's Guide to Monsters: 142, Tomb of Annihilation: 219"
+volo.flail-snail,Flail Snail,3,Large,Elemental,,,unaligned,"forest, swamp, underground",16,52,-3,,,,"Volo's Guide to Monsters: 144, Tomb of Annihilation: 220"
+mm.flameskull,Flameskull,4,Tiny,Undead,,,neutral evil,"dungeon, ruins",13,40,3,,,,"Basic Rules v1: 19, Monster Manual: 134"
+apoc.flamewrath,Flamewrath,6,Medium,Humanoid,Human,Eternal Flame Cultists,chaotic evil,"cave, desert, dungeon, forest, grassland, mountain, ruins, underground",12,105,2,,,,Princes of the Apocalypse: 201
+mm.flesh-golem,Flesh Golem,5,Medium,Construct,,Golems,unaligned,"dungeon, ruins",9,93,-1,,,,"Basic Rules v1: 20, Monster Manual: 169"
+volo.flind,Flind,9,Medium,Humanoid,Gnoll,Gnolls,chaotic evil,"arctic, forest, grassland",16,127,0,,,,Volo's Guide to Monsters: 153
+mm.flumph,Flumph,0.125,Small,Aberration,,,lawful good,"dungeon, underground",12,7,2,,,,Monster Manual: 135
+toa.flying-monkey,Flying Monkey,0,Small,Beast,,,unaligned,,12,3,2,,,,Tomb of Annihilation: 220
+mm.flying-snake,Flying Snake,0.125,Tiny,Beast,,Misc Creatures,unaligned,"forest, swamp",14,5,4,,,,"Basic Rules v1: 20, Monster Manual: 322"
+mm.flying-sword,Flying Sword,0.5,Small,Construct,,Animated Objects,unaligned,"dungeon, ruins, urban",17,17,2,,,,"Basic Rules v1: 20, Monster Manual: 20"
+mm.fomorian,Fomorian,8,Huge,Giant,,,chaotic evil,"cave, underground",14,149,0,,,,Monster Manual: 136
+abyss.fraz-urbluu,Fraz-Urb'luu,23,Large,Fiend,Demon,Demon Lords,chaotic evil,,18,350,1,,legendary,unique,Out of the Abyss: 238
+mtof.fraz-urbluu,Fraz-Urb'luu,23,Large,Fiend,Demon,Demon Lords,chaotic evil,planar,18,337,1,,legendary,unique,Mordenkainen's Tome of Foes: 146
+mtof.fraz-urbluu-in-lair,Fraz-Urb'luu (in lair),24,Large,Fiend,Demon,Demon Lords,chaotic evil,planar,18,337,1,lair,legendary,unique,Mordenkainen's Tome of Foes: 146
+mm.frog,Frog,0,Tiny,Beast,,Misc Creatures,unaligned,"aquatic, coast, forest, swamp",11,1,1,,,,"Basic Rules v1: 21, Monster Manual: 322, Player's Handbook: 305"
+volo.froghemoth,Froghemoth,10,Huge,Monstrosity,,,unaligned,"swamp, underground",14,184,1,,,,"Volo's Guide to Monsters: 145, Tomb of Annihilation: 221"
+mm.frost-giant,Frost Giant,8,Huge,Giant,,Giants,neutral evil,"arctic, mountain, planar",15,138,-1,,,,"Basic Rules v1: 21, Monster Manual: 155"
+volo.frost-giant-everlasting-one,Frost Giant Everlasting One,12,Huge,Giant,Frost Giant,Giants,chaotic evil,"arctic, coast",15,189,-1,,,,Volo's Guide to Monsters: 148
+mtof.frost-salamander,Frost Salamander,9,Huge,Elemental,,,unaligned,planar,17,168,1,,,,Mordenkainen's Tome of Foes: 223
+hoard.frulam-mondath,Frulam Mondath,2,Medium,Humanoid,Human,,lawful evil,,16,44,0,,,unique,Hoard of the Dragon Queen: 90
+mm.galeb-duhr,Galeb Duhr,6,Medium,Elemental,,,neutral,"cave, dungeon, mountain, planar, underground",16,85,2,,,,"Monster Manual: 139, Princes of the Apocalypse Online Supplement v1.0: 17"
+apoc.gar-shatterkeel,Gar Shatterkeel,9,Medium,Humanoid,Human,Crushing Wave Cultists,chaotic evil,,16,112,2,,,unique,Princes of the Apocalypse: 208
+apoc.gar-shatterkeel-in-lair,Gar Shatterkeel (in lair),13,Medium,Humanoid,Human,Crushing Wave Cultists,chaotic evil,,16,112,2,,,unique,Princes of the Apocalypse: 208
+mm.gargoyle,Gargoyle,2,Medium,Elemental,,,chaotic evil,"dungeon, urban",15,52,0,,,,"Basic Rules v1: 21, HotDQ supplement: 9, Monster Manual: 140"
+mm.gas-spore,Gas Spore,0.25,Large,Plant,,Fungi,unaligned,"cave, dungeon, underground",5,1,-5,,,,Monster Manual: 138
+volo.gauth,Gauth,6,Medium,Aberration,,Beholders,lawful evil,underground,15,67,2,,,,Volo's Guide to Monsters: 125
+volo.gazer,Gazer,0.25,Tiny,Aberration,,Beholders,neutral evil,underground,13,13,3,,,,Volo's Guide to Monsters: 126
+mm.gelatinous-cube,Gelatinous Cube,2,Large,Ooze,,Oozes,unaligned,dungeon,6,84,-4,,,,Monster Manual: 242
+tortle.geonid,Geonid,0.5,Small,Elemental,,,neutral,cave,17,26,0,,,,The Tortle Package: 22
+mtof.geryon,Geryon,22,Huge,Fiend,Devil,Archdevils,lawful evil,planar,19,300,3,lair,legendary,unique,Mordenkainen's Tome of Foes: 173
+apoc.ghald,Ghald,7,Medium,Humanoid,Sahuagin,Other Villains,lawful evil,,15,102,3,,,unique,Princes of the Apocalypse: 210
+mm.ghast,Ghast,2,Medium,Undead,,Ghouls,chaotic evil,"arctic, cave, coast, desert, dungeon, forest, grassland, mountain, ruins, swamp, underground, urban",13,36,3,,,,"Monster Manual: 148, Princes of the Apocalypse Online Supplement v1.0: 18"
+mm.ghost,Ghost,4,Medium,Undead,,,any,"cave, dungeon, ruins, swamp, underground, urban",11,45,1,,,,"Basic Rules v1: 22, Monster Manual: 147"
+mm.ghoul,Ghoul,1,Medium,Undead,,Ghouls,chaotic evil,"arctic, cave, coast, desert, dungeon, forest, grassland, mountain, ruins, swamp, underground, urban",12,22,2,,,,"Basic Rules v1: 22, Monster Manual: 148"
+mm.giant-ape,Giant Ape,7,Huge,Beast,,Misc Creatures,unaligned,forest,12,157,2,,,,"Basic Rules v1: 22, Monster Manual: 323"
+mm.giant-badger,Giant Badger,0.5,Medium,Beast,,Misc Creatures,unaligned,"forest, grassland",10,13,0,,,,"Basic Rules v1: 23, Monster Manual: 323"
+mm.giant-bat,Giant Bat,0.5,Large,Beast,,Misc Creatures,unaligned,"cave, dungeon, forest, ruins, swamp, underground",13,22,3,,,,"Basic Rules v1: 23, Monster Manual: 323"
+mm.giant-boar,Giant Boar,2,Large,Beast,,Misc Creatures,unaligned,"forest, grassland",12,42,0,,,,"Basic Rules v1: 23, Monster Manual: 323"
+mm.giant-centipede,Giant Centipede,0.5,Small,Beast,,Misc Creatures,unaligned,"cave, desert, dungeon, forest, grassland, mountain, ruins, swamp, underground",13,4,2,,,,"Basic Rules v1: 23, HotDQ supplement: 9, Monster Manual: 323"
+mm.giant-constrictor-snake,Giant Constrictor Snake,2,Huge,Beast,,Misc Creatures,unaligned,"forest, grassland, swamp",12,60,2,,,,"Basic Rules v1: 24, Monster Manual: 324"
+mm.giant-crab,Giant Crab,0.125,Medium,Beast,,Misc Creatures,unaligned,"aquatic, coast",15,13,2,,,,"Basic Rules v1: 24, Monster Manual: 324"
+tftyp.giant-crayfish,Giant Crayfish,2,Large,Beast,,,unaligned,,15,45,1,,,,Tales from the Yawning Portal: 235
+mm.giant-crocodile,Giant Crocodile,5,Huge,Beast,,Misc Creatures,unaligned,"aquatic, coast, swamp",14,85,-1,,,,"Basic Rules v1: 24, Monster Manual: 324"
+mm.giant-eagle,Giant Eagle,1,Large,Beast,,Misc Creatures,neutral good,"grassland, mountain",13,26,3,,,,"Basic Rules v1: 24, Monster Manual: 324, Player's Handbook: 306"
+mm.giant-elk,Giant Elk,2,Huge,Beast,,Misc Creatures,unaligned,"forest, grassland",14,42,3,,,,"Basic Rules v1: 25, Monster Manual: 325"
+mm.giant-fire-beetle,Giant Fire Beetle,0,Small,Beast,,Misc Creatures,unaligned,"cave, desert, dungeon, forest, grassland, mountain, ruins, swamp, underground",13,4,0,,,,"Basic Rules v1: 25, Monster Manual: 325"
+toa.giant-four-armed-gargoyle,Giant Four-Armed Gargoyle,10,Large,Elemental,,,chaotic evil,,17,147,0,,,,Tomb of Annihilation: 221
+mm.giant-frog,Giant Frog,0.5,Medium,Beast,,Misc Creatures,unaligned,"aquatic, coast, forest, swamp",11,18,1,,,,"Basic Rules v1: 25, HotDQ supplement: 10, Monster Manual: 325"
+mm.giant-goat,Giant Goat,0.25,Large,Beast,,Misc Creatures,unaligned,"forest, grassland, mountain",11,19,0,,,,"Basic Rules v1: 25, Monster Manual: 326"
+mm.giant-hyena,Giant Hyena,1,Large,Beast,,Misc Creatures,unaligned,"coast, desert, forest, grassland",12,45,2,,,,"Basic Rules v1: 26, Monster Manual: 326"
+tftyp.giant-ice-toad,Giant Ice Toad,3,Large,Monstrosity,,,neutral,,14,52,1,,,,Tales from the Yawning Portal: 235
+tftyp.giant-lightning-eel,Giant Lightning Eel,3,Large,Beast,,,unaligned,,13,42,3,,,,Tales from the Yawning Portal: 236
+mm.giant-lizard,Giant Lizard,0.5,Large,Beast,,Misc Creatures,unaligned,"cave, desert, dungeon, forest, grassland, mountain, ruins, swamp, underground",12,19,1,,,,"Basic Rules v1: 26, HotDQ supplement: 10, Monster Manual: 326"
+mm.giant-octopus,Giant Octopus,1,Large,Beast,,Misc Creatures,unaligned,aquatic,11,52,1,,,,"Basic Rules v1: 26, Monster Manual: 326"
+mm.giant-owl,Giant Owl,0.5,Large,Beast,,Misc Creatures,neutral,"forest, grassland, urban",12,19,2,,,,"Basic Rules v1: 26, Monster Manual: 327"
+mm.giant-poisonous-snake,Giant Poisonous Snake,0.5,Medium,Beast,,Misc Creatures,unaligned,"forest, grassland, swamp",14,11,4,,,,"Basic Rules v1: 27, Monster Manual: 327"
+mm.giant-rat,Giant Rat,0.125,Small,Beast,,Misc Creatures,unaligned,"cave, dungeon, forest, grassland, mountain, ruins, swamp, underground, urban",12,7,2,,,,"Basic Rules v1: 27, Monster Manual: 327"
+mm.giant-scorpion,Giant Scorpion,3,Large,Beast,,Misc Creatures,unaligned,"cave, coast, desert, dungeon, grassland, ruins, swamp, underground",15,52,1,,,,"Basic Rules v1: 27, Monster Manual: 327"
+mm.giant-sea-horse,Giant Sea Horse,0.25,Large,Beast,,Misc Creatures,unaligned,aquatic,13,16,2,,,,"Basic Rules v1: 27, Monster Manual: 328"
+mm.giant-shark,Giant Shark,5,Huge,Beast,,Misc Creatures,unaligned,aquatic,13,126,0,,,,"Basic Rules v1: 28, Monster Manual: 328"
+tftyp.giant-skeleton,Giant Skeleton,7,Huge,Undead,,,neutral evil,,17,115,0,,,,Tales from the Yawning Portal: 236
+toa.giant-snapping-turtle,Giant Snapping Turtle,3,Large,Beast,,,unaligned,,17,75,0,,,,Tomb of Annihilation: 222
+mm.giant-spider,Giant Spider,1,Large,Beast,,Misc Creatures,unaligned,"cave, coast, desert, dungeon, forest, grassland, mountain, ruins, swamp, underground, urban",14,26,3,,,,"Basic Rules v1: 28, HotDQ supplement: 10, Monster Manual: 328, Player's Handbook: 306"
+volo.giant-strider,Giant Strider,1,Large,Monstrosity,,Firenewts,neutral evil,"grassland, mountain, underground",14,22,1,,,,"Volo's Guide to Monsters: 143, Tomb of Annihilation: 222"
+tftyp.giant-subterranean-lizard,Giant Subterranean Lizard,4,Huge,Beast,,,unaligned,,14,66,-1,,,,Tales from the Yawning Portal: 236
+mm.giant-toad,Giant Toad,1,Large,Beast,,Misc Creatures,unaligned,"aquatic, coast, forest, swamp",11,39,1,,,,"Basic Rules v1: 28, Monster Manual: 329"
+mm.giant-vulture,Giant Vulture,1,Large,Beast,,Misc Creatures,neutral evil,"desert, grassland, ruins",10,22,13,,,,"Basic Rules v1: 29, Monster Manual: 329"
+mm.giant-wasp,Giant Wasp,0.25,Medium,Beast,,Misc Creatures,unaligned,forest,12,13,2,,,,"Basic Rules v1: 29, Monster Manual: 329"
+mm.giant-weasel,Giant Weasel,0.125,Medium,Beast,,Misc Creatures,unaligned,"forest, grassland",13,9,3,,,,"Basic Rules v1: 29, Monster Manual: 329"
+mm.giant-wolf-spider,Giant Wolf Spider,0.5,Medium,Beast,,Misc Creatures,unaligned,"cave, coast, desert, dungeon, forest, grassland, mountain, ruins, swamp, underground, urban",13,11,3,,,,"Basic Rules v1: 29, Monster Manual: 330"
+mm.gibbering-mouther,Gibbering Mouther,2,Medium,Aberration,,,neutral,"cave, dungeon, planar, underground",9,67,-1,,,,Monster Manual: 157
+mtof.giff,Giff,3,Medium,Humanoid,,,lawful neutral,,16,60,2,,,,Mordenkainen's Tome of Foes: 204
+volo.girallon,Girallon,4,Large,Monstrosity,,,unaligned,forest,13,59,3,,,,"Volo's Guide to Monsters: 152, Tomb of Annihilation: 222"
+toa.girallon-zombie,Girallon Zombie,3,Large,Undead,,Zombies,chaotic evil,,11,59,1,,,,Tomb of Annihilation: 240
+mtof.githyanki-gish,Githyanki Gish,10,Medium,Humanoid,Gith,Gith,lawful evil,planar,17,123,2,,,,Mordenkainen's Tome of Foes: 205
+mtof.githyanki-kithrak,Githyanki Kith'rak,12,Medium,Humanoid,Gith,Gith,lawful evil,planar,18,180,3,,,,Mordenkainen's Tome of Foes: 205
+mm.githyanki-knight,Githyanki Knight,8,Medium,Humanoid,Gith,Gith,lawful evil,"planar, swamp",18,91,2,,,,Monster Manual: 160
+mtof.githyanki-supreme-commander,Githyanki Supreme Commander,14,Medium,Humanoid,Gith,Gith,lawful evil,planar,18,187,3,,legendary,,Mordenkainen's Tome of Foes: 206
+mm.githyanki-warrior,Githyanki Warrior,3,Medium,Humanoid,Gith,Gith,lawful evil,planar,17,49,2,,,,Monster Manual: 160
+mtof.githzerai-anarch,Githzerai Anarch,16,Medium,Humanoid,Gith,Gith,lawful neutral,planar,20,144,5,,legendary,,Mordenkainen's Tome of Foes: 207
+mtof.githzerai-enlightened,Githzerai Enlightened,10,Medium,Humanoid,Gith,Gith,lawful neutral,planar,18,112,4,,,,Mordenkainen's Tome of Foes: 208
+mm.githzerai-monk,Githzerai Monk,2,Medium,Humanoid,Gith,Gith,lawful neutral,planar,14,38,2,,,,Monster Manual: 161
+mm.githzerai-zerth,Githzerai Zerth,6,Medium,Humanoid,Gith,Gith,lawful neutral,planar,17,84,4,,,,Monster Manual: 161
+mm.glabrezu,Glabrezu,9,Large,Fiend,Demon,Demons,chaotic evil,"dungeon, planar",17,157,2,,,,Monster Manual: 58
+mm.gladiator,Gladiator,5,Medium,Humanoid,any,NPCs,any,urban,16,112,2,,,,Monster Manual: 346
+mtof.gloom-weaver,Gloom Weaver,9,Medium,Humanoid,Elf,Shadar-kai,neutral,"planar, urban",14,104,4,,,,Mordenkainen's Tome of Foes: 224
+mm.gnoll,Gnoll,0.25,Medium,Humanoid,Gnoll,Gnolls,chaotic evil,"arctic, cave, coast, desert, dungeon, forest, grassland, mountain, ruins, swamp, urban",15,22,1,,,,"Basic Rules v1: 30, Monster Manual: 163"
+mm.gnoll-fang-of-yeenoghu,Gnoll Fang of Yeenoghu,4,Medium,Fiend,Gnoll,Gnolls,chaotic evil,"arctic, cave, coast, desert, dungeon, forest, grassland, mountain, ruins, swamp, urban",14,65,2,,,,Monster Manual: 163
+volo.gnoll-flesh-gnawer,Gnoll Flesh Gnawer,1,Medium,Humanoid,Gnoll,Gnolls,chaotic evil,"arctic, forest, grassland",14,22,2,,,,Volo's Guide to Monsters: 154
+volo.gnoll-hunter,Gnoll Hunter,0.25,Medium,Humanoid,Gnoll,Gnolls,chaotic evil,"arctic, forest, grassland",13,22,2,,,,Volo's Guide to Monsters: 154
+mm.gnoll-pack-lord,Gnoll Pack Lord,2,Medium,Humanoid,Gnoll,Gnolls,chaotic evil,"arctic, cave, coast, desert, dungeon, forest, grassland, mountain, ruins, swamp, urban",15,49,2,,,,"Monster Manual: 163, Princes of the Apocalypse Online Supplement v1.0: 18"
+volo.gnoll-witherling,Gnoll Witherling,0.5,Medium,Undead,,Gnolls,chaotic evil,"arctic, forest, grassland",12,11,-1,,,,Volo's Guide to Monsters: 155
+mm.goat,Goat,0,Medium,Beast,,Misc Creatures,unaligned,"grassland, urban",10,4,0,,,,"Basic Rules v1: 30, Monster Manual: 330"
+mm.goblin,Goblin,0.5,Small,Humanoid,Goblinoid,Goblins,neutral evil,"cave, dungeon, forest, grassland, mountain, ruins, urban",15,7,2,,,,"Basic Rules v1: 30, Monster Manual: 166"
+mm.goblin-boss,Goblin Boss,1,Small,Humanoid,Goblinoid,Goblins,neutral evil,"cave, dungeon, forest, grassland, mountain, ruins, urban",17,21,2,,,,Monster Manual: 166
+mm.gold-dragon-wyrmling,Gold Dragon Wyrmling,3,Medium,Dragon,,Dragons,lawful good,"mountain, ruins",17,60,2,,,,Monster Manual: 115
+mm.gorgon,Gorgon,5,Large,Monstrosity,,,unaligned,"mountain, ruins",19,114,0,,,,Monster Manual: 171
+mm.goristro,Goristro,17,Huge,Fiend,Demon,Demons,chaotic evil,"dungeon, planar",19,310,0,,,,Monster Manual: 59
+mm.gray-ooze,Gray Ooze,0.25,Medium,Ooze,,Oozes,unaligned,dungeon,8,22,-2,,,,"HotDQ supplement: 11, Monster Manual: 243"
+mtof.gray-render,Gray Render,12,Large,Monstrosity,,,chaotic neutral,urban,19,189,1,,,,Mordenkainen's Tome of Foes: 209
+mm.gray-slaad,Gray Slaad,9,Medium,Aberration,,Slaadi,chaotic neutral,planar,18,127,3,,,,Monster Manual: 277
+abyss.grazzt,Graz'zt,24,Large,Fiend,"Demon, Shapechanger",Demon Lords,chaotic evil,,20,378,2,,legendary,unique,Out of the Abyss: 241
+mtof.grazzt,Graz'zt,24,Large,Fiend,Demon,Demon Lords,chaotic evil,planar,20,346,2,lair,legendary,unique,Mordenkainen's Tome of Foes: 149
+tftyp.greater-zombie,Greater Zombie,5,Medium,Undead,,,neutral evil,,15,97,0,,,,Tales from the Yawning Portal: 237
+mtof.green-abishai,Green Abishai,15,Medium,Fiend,Devil,Devils,lawful evil,planar,18,187,3,,,,Mordenkainen's Tome of Foes: 162
+mm.green-dragon-wyrmling,Green Dragon Wyrmling,2,Medium,Dragon,,Dragons,lawful evil,forest,17,38,1,,,,Monster Manual: 95
+mm.green-hag,Green Hag,3,Medium,Fey,,Hags,neutral evil,"forest, swamp",17,82,1,,,,Monster Manual: 177
+mm.green-hag-coven,Green Hag (coven),5,Medium,Fey,,Hags,neutral evil,"forest, swamp",17,82,1,,,,Monster Manual: 177
+mm.green-slaad,Green Slaad,8,Large,Aberration,,Slaadi,chaotic neutral,planar,16,127,2,,,,Monster Manual: 277
+mm.grell,Grell,3,Medium,Aberration,,,neutral evil,"dungeon, underground",12,55,2,,,,"Monster Manual: 172, Princes of the Apocalypse Online Supplement v1.0: 18"
+mm.grick,Grick,2,Medium,Monstrosity,,Grick,neutral,"cave, dungeon, underground",14,27,2,,,,"Basic Rules v1: 30, Monster Manual: 173"
+mm.grick-alpha,Grick Alpha,7,Large,Monstrosity,,Grick,neutral,"cave, dungeon, underground",18,75,3,,,,Monster Manual: 173
+mm.griffon,Griffon,2,Large,Monstrosity,,,unaligned,"arctic, coast, grassland, mountain",12,59,2,,,,"Basic Rules v1: 31, HotDQ supplement: 11, Monster Manual: 174"
+mm.grimlock,Grimlock,0.5,Medium,Humanoid,Grimlock,,neutral evil,"cave, dungeon, underground",11,11,1,,,,Monster Manual: 175
+abyss.grisha,Grisha,2,Medium,Humanoid,Damaran Human,,chaotic evil,,18,33,1,,,unique,Out of the Abyss: 232
+volo.grung,Grung,0.5,Small,Humanoid,Grung,Grungs,lawful evil,forest,12,11,2,,,,"Volo's Guide to Monsters: 156, Tomb of Annihilation: 223"
+volo.grung-elite-warrior,Grung Elite Warrior,2,Small,Humanoid,Grung,Grungs,lawful evil,forest,13,49,3,,,,"Volo's Guide to Monsters: 157, Tomb of Annihilation: 223"
+volo.grung-wildling,Grung Wildling,1,Small,Humanoid,Grung,Grungs,lawful evil,forest,13,27,3,,,,"Volo's Guide to Monsters: 157, Tomb of Annihilation: 224"
+mm.guard,Guard,0.125,Medium,Humanoid,any,NPCs,any,urban,16,11,1,,,,"Basic Rules v1: 54, HotDQ supplement: 11, Monster Manual: 347"
+volo.guard-drake,Guard Drake,2,Medium,Dragon,,,unaligned,"dungeon, urban",14,52,0,,,,"Hoard of the Dragon Queen: 91, Rise of Tiamat: 90, Volo's Guide to Monsters: 158"
+mm.guardian-naga,Guardian Naga,10,Large,Monstrosity,,Nagas,lawful good,"cave, coast, forest, ruins",15,75,3,,,,Monster Manual: 234
+strahd.guardian-portrait,Guardian Portrait,1,Medium,Construct,,,unaligned,,5,22,-5,,,,Curse of Strahd: 227
+mm.gynosphinx,Gynosphinx,11,Large,Monstrosity,,Sphinxes,lawful neutral,"dungeon, ruins",17,136,2,lair,legendary,,Monster Manual: 282
+volo.hadrosaurus,Hadrosaurus,0.5,Large,Beast,,Dinosaurs,unaligned,"grassland, swamp",11,19,0,,,,"Volo's Guide to Monsters: 140, Tomb of Annihilation: 224"
+mm.half-ogre,Half-Ogre,1,Large,Giant,,Ogres,chaotic evil,"arctic, coast, desert, dungeon, forest, grassland, mountain, ruins, swamp, urban",12,30,0,,,,"Monster Manual: 238, Princes of the Apocalypse Online Supplement v1.0: 19"
+mm.half-red-dragon-veteran,Half-Red Dragon Veteran,5,Medium,Humanoid,Human,Half-Dragon,any,"arctic, coast, desert, grassland, mountain, urban",18,65,1,,,,Monster Manual: 180
+mm.harpy,Harpy,1,Medium,Monstrosity,,,chaotic evil,"coast, forest, mountain",11,38,1,,,,"Basic Rules v1: 31, Monster Manual: 181"
+mm.hawk,Hawk,0,Tiny,Beast,,Misc Creatures,unaligned,"grassland, mountain",13,1,3,,,,"Basic Rules v1: 31, Monster Manual: 330, Player's Handbook: 306"
+mm.hell-hound,Hell Hound,3,Medium,Fiend,,,lawful evil,"dungeon, planar, urban",15,45,1,,,,"Basic Rules v1: 32, Monster Manual: 182"
+apoc.hellenrae,Hellenrae,5,Medium,Humanoid,Human,Black Earth Cultists,neutral evil,,16,78,4,,,unique,Princes of the Apocalypse: 198
+mtof.hellfire-engine,Hellfire Engine,16,Huge,Construct,,Devils,lawful evil,planar,18,216,3,,,,Mordenkainen's Tome of Foes: 165
+mm.helmed-horror,Helmed Horror,4,Medium,Construct,,,neutral,"dungeon, ruins, urban",20,60,1,,,,"HotDQ supplement: 11, Monster Manual: 183, Princes of the Apocalypse Online Supplement v1.0: 19"
+mm.hezrou,Hezrou,8,Large,Fiend,Demon,Demons,chaotic evil,"dungeon, planar",16,136,3,,,,"Monster Manual: 60, Princes of the Apocalypse Online Supplement v1.0: 19"
+mm.hill-giant,Hill Giant,5,Huge,Giant,,Giants,chaotic evil,"arctic, coast, grassland",13,105,-1,,,,"Basic Rules v1: 32, Monster Manual: 155"
+mm.hippogriff,Hippogriff,1,Large,Monstrosity,,,unaligned,mountain,11,19,1,,,,"Basic Rules v1: 32, Monster Manual: 184"
+mm.hobgoblin,Hobgoblin,0.25,Medium,Humanoid,Goblinoid,Hobgoblins,lawful evil,"arctic, coast, grassland, mountain, urban",18,11,1,,,,"Basic Rules v1: 32, HotDQ supplement: 12, Monster Manual: 186"
+mm.hobgoblin-captain,Hobgoblin Captain,3,Medium,Humanoid,Goblinoid,Hobgoblins,lawful evil,"arctic, coast, grassland, mountain, urban",17,39,2,,,,"HotDQ supplement: 12, Monster Manual: 186, Princes of the Apocalypse Online Supplement v1.0: 20"
+volo.hobgoblin-devastator,Hobgoblin Devastator,4,Medium,Humanoid,Goblinoid,Hobgoblins,lawful evil,"forest, grassland",13,45,1,,,,Volo's Guide to Monsters: 161
+volo.hobgoblin-iron-shadow,Hobgoblin Iron Shadow,2,Medium,Humanoid,Goblinoid,Hobgoblins,lawful evil,"forest, grassland",15,32,3,,,,Volo's Guide to Monsters: 162
+mm.hobgoblin-warlord,Hobgoblin Warlord,6,Medium,Humanoid,Goblinoid,Hobgoblins,lawful evil,"arctic, coast, grassland, mountain, urban",20,97,2,,,,Monster Manual: 187
+mm.homunculus,Homunculus,0,Tiny,Construct,,,neutral,"dungeon, urban",13,5,2,,,,Monster Manual: 188
+mm.hook-horror,Hook Horror,3,Large,Monstrosity,,,neutral,"dungeon, underground",15,75,0,,,,"Monster Manual: 189, Princes of the Apocalypse Online Supplement v1.0: 20"
+abyss.hook-horror-servant,Hook Horror Servant,3,Medium,Plant,,,unaligned,,15,75,0,,,,Out of the Abyss: 229
+mm.horned-devil,Horned Devil,11,Large,Fiend,Devil,Devils,lawful evil,"dungeon, planar",18,178,3,,,,Monster Manual: 74
+mtof.howler,Howler,8,Large,Fiend,,,chaotic evil,planar,16,90,3,,,,Mordenkainen's Tome of Foes: 210
+apoc.howling-hatred-initiate,Howling Hatred Initiate,0.125,Medium,Humanoid,Human,Howling Hatred Cultists,neutral evil,"arctic, cave, coast, desert, dungeon, grassland, mountain, ruins",13,9,2,,,,Princes of the Apocalypse: 190
+apoc.howling-hatred-priest,Howling Hatred Priest,2,Medium,Humanoid,Human,Howling Hatred Cultists,neutral evil,"arctic, cave, coast, desert, dungeon, grassland, mountain, ruins",15,45,3,,,,Princes of the Apocalypse: 190
+sking.hulking-crab,Hulking Crab,5,Huge,Beast,,,unaligned,,17,76,-1,,,,Storm King's Thunder: 240
+mm.hunter-shark,Hunter Shark,2,Large,Beast,,Misc Creatures,unaligned,aquatic,12,45,1,,,,"Basic Rules v1: 33, Monster Manual: 330"
+apoc.hurricane,Hurricane,2,Medium,Humanoid,Human,Howling Hatred Cultists,lawful evil,"arctic, cave, coast, desert, dungeon, grassland, mountain, ruins",14,33,3,,,,Princes of the Apocalypse: 191
+mtof.hutijin,Hutijin,21,Large,Fiend,Devil,Archdevils,lawful evil,planar,19,200,2,,legendary,unique,Mordenkainen's Tome of Foes: 175
+mm.hydra,Hydra,8,Huge,Monstrosity,,,unaligned,"aquatic, cave, coast, dungeon, forest, mountain, ruins, swamp, underground",15,172,1,,,,"Basic Rules v1: 33, Monster Manual: 190"
+mtof.hydroloth,Hydroloth,9,Medium,Fiend,Yugoloth,Yugoloths,neutral evil,planar,15,135,5,,,,Mordenkainen's Tome of Foes: 249
+mm.hyena,Hyena,0,Medium,Beast,,Misc Creatures,unaligned,"forest, grassland",11,5,1,,,,"Basic Rules v1: 33, Monster Manual: 331"
+mm.ice-devil,Ice Devil,14,Large,Fiend,Devil,Devils,lawful evil,"dungeon, planar",18,180,2,,,,Monster Manual: 75
+mm.ice-mephit,Ice Mephit,0.25,Small,Elemental,,Mephits,neutral evil,"arctic, dungeon, planar, urban",11,21,1,,,,"Monster Manual: 215, Princes of the Apocalypse Online Supplement v1.0: 20"
+tiamat.ice-toad,Ice Toad,1,Medium,Monstrosity,,,neutral,arctic,12,32,0,,,,Rise of Tiamat: 90
+volo.illusionist,Illusionist,3,Medium,Humanoid,Any Race,NPCs,any,urban,12,38,2,,,,"Volo's Guide to Monsters: 214, Tales from the Yawning Portal: 237"
+apoc.imix,Imix,19,Huge,Elemental,,Princes of Elemental Evil,neutral evil,,17,325,7,lair,legendary,unique,Princes of the Apocalypse: 214
+mm.imp,Imp,1,Tiny,Fiend,"Devil, Shapechanger",Devils,lawful evil,"dungeon, planar",13,10,3,,,,"Monster Manual: 76, Player's Handbook: 306"
+mm.intellect-devourer,Intellect Devourer,2,Tiny,Aberration,,,lawful evil,"dungeon, underground",12,21,2,,,,Monster Manual: 191
+mm.invisible-stalker,Invisible Stalker,6,Medium,Elemental,,,neutral,"arctic, cave, coast, desert, dungeon, forest, grassland, mountain, planar, ruins, swamp, underground, urban",14,104,4,,,,"Monster Manual: 192, Princes of the Apocalypse Online Supplement v1.0: 21"
+mtof.iron-cobra,Iron Cobra,4,Medium,Construct,,Clockworks,unaligned,planar,13,45,3,,,,Mordenkainen's Tome of Foes: 125
+mm.iron-golem,Iron Golem,16,Large,Construct,,Golems,unaligned,"dungeon, ruins, urban",20,210,-1,,,,Monster Manual: 170
+abyss.ixitxachitl,Ixitxachitl,0.5,Small,Aberration,,,chaotic evil,,15,18,3,,,,Out of the Abyss: 225
+sking.iymrith-the-dragon,Iymrith the Dragon,23,Gargantuan,Dragon,,,lawful evil,,22,481,0,lair,legendary,unique,Storm King's Thunder: 241
+strahd.izek-strazni,Izek Strazni,5,Medium,Humanoid,Human,,neutral evil,,14,112,2,,,,Curse of Strahd: 232
+mm.jackal,Jackal,0,Small,Beast,,Misc Creatures,unaligned,"desert, grassland",12,3,2,,,,"Basic Rules v1: 33, Monster Manual: 331"
+mm.jackalwere,Jackalwere,0.25,Medium,Humanoid,Shapechanger,,chaotic evil,"desert, grassland, urban",12,18,2,,,,"Monster Manual: 193, Princes of the Apocalypse Online Supplement v1.0: 21"
+toa.jaculi,Jaculi,0.25,Large,Beast,,,unaligned,,14,16,2,,,,Tomb of Annihilation: 225
+hoard.jamna-gleamsilver,Jamna Gleamsilver,1,Small,Humanoid,Gnome,,neutral,,15,22,3,,,unique,Hoard of the Dragon Queen: 91
+abyss.juiblex,Juiblex,23,Huge,Fiend,Demon,Demon Lords,chaotic evil,,18,350,0,,legendary,unique,Out of the Abyss: 243
+mtof.juiblex,Juiblex,23,Huge,Fiend,Demon,Demon Lords,chaotic evil,planar,18,350,0,lair,legendary,unique,Mordenkainen's Tome of Foes: 151
+tftyp.kalka-kylla,Kalka-Kylla,3,Large,Monstrosity,,,neutral,,15,85,1,,,unique,Tales from the Yawning Portal: 238
+toa.kamadan,Kamadan,4,Large,Monstrosity,,,unaligned,,13,67,3,,,,Tomb of Annihilation: 225
+tftyp.kelpie,Kelpie,4,Medium,Plant,,,neutral evil,,14,67,2,,,,Tales from the Yawning Portal: 238
+mm.kenku,Kenku,0.5,Medium,Humanoid,Kenku,,chaotic neutral,"arctic, coast, desert, forest, grassland, mountain, ruins, urban",13,13,3,,,,"Monster Manual: 194, Princes of the Apocalypse Online Supplement v1.0: 21"
+volo.ki-rin,Ki-rin,12,Huge,Celestial,,,lawful good,"coast, desert, grassland, mountain",20,152,3,,,,Volo's Guide to Monsters: 163
+mm.killer-whale,Killer Whale,3,Huge,Beast,,Misc Creatures,unaligned,aquatic,12,90,0,,,,"Basic Rules v1: 34, Monster Manual: 331"
+mm.knight,Knight,3,Medium,Humanoid,any,NPCs,any,urban,18,52,0,,,,"Basic Rules v1: 54, HotDQ supplement: 12, Monster Manual: 347"
+mm.kobold,Kobold,0.125,Small,Humanoid,Kobold,Kobolds,lawful evil,"cave, dungeon, mountain, underground",12,5,2,,,,"Basic Rules v1: 34, HotDQ supplement: 13, Monster Manual: 195"
+volo.kobold-dragonshield,Kobold Dragonshield,1,Small,Humanoid,Kobold,Kobolds,lawful evil,"forest, grassland, mountain, underground, urban",15,44,2,,,,Volo's Guide to Monsters: 165
+volo.kobold-inventor,Kobold Inventor,0.5,Small,Humanoid,Kobold,Kobolds,lawful evil,"forest, grassland, mountain, underground, urban",12,13,2,,,,"Volo's Guide to Monsters: 166, Tomb of Annihilation: 226"
+volo.kobold-scale-sorcerer,Kobold Scale Sorcerer,1,Small,Humanoid,Kobold,Kobolds,lawful evil,"forest, grassland, mountain, underground, urban",15,27,2,,,,"Volo's Guide to Monsters: 167, Tomb of Annihilation: 226"
+volo.korred,Korred,7,Small,Fey,,,chaotic neutral,forest,17,102,2,,,,Volo's Guide to Monsters: 168
+mm.kraken,Kraken,23,Gargantuan,Monstrosity,Titan,,chaotic evil,"aquatic, coast",18,472,0,lair,legendary,,Monster Manual: 197
+volo.kraken-priest,Kraken Priest,5,Medium,Humanoid,Any Race,NPCs,any,"coast, aquatic",10,75,0,,,,Volo's Guide to Monsters: 215
+mtof.kruthik-hive-lord,Kruthik Hive Lord,5,Large,Monstrosity,,Kruthiks,unaligned,"cave, underground",20,102,3,,,,Mordenkainen's Tome of Foes: 212
+mm.kuo-toa,Kuo-toa,0.5,Medium,Humanoid,Kuo-toa,Kuo-toa,neutral evil,"aquatic, coast",13,18,0,,,,"Monster Manual: 199, Princes of the Apocalypse Online Supplement v1.0: 22"
+mm.kuo-toa-archpriest,Kuo-toa Archpriest,6,Medium,Humanoid,Kuo-toa,Kuo-toa,neutral evil,"aquatic, coast",13,97,2,,,,"Monster Manual: 200, Princes of the Apocalypse Online Supplement v1.0: 22"
+mm.kuo-toa-monitor,Kuo-toa Monitor,3,Medium,Humanoid,Kuo-toa,Kuo-toa,neutral evil,"aquatic, coast",13,65,0,,,,Monster Manual: 198
+mm.kuo-toa-whip,Kuo-toa Whip,1,Medium,Humanoid,Kuo-toa,Kuo-toa,neutral evil,"aquatic, coast",11,65,0,,,,"Monster Manual: 200, Princes of the Apocalypse Online Supplement v1.0: 23"
+mm.lamia,Lamia,4,Large,Monstrosity,,,chaotic evil,"desert, ruins",13,97,1,,,,Monster Manual: 201
+hoard.langdedrosa-cynwrath,Langdedrosa Cyanwrath,4,Medium,Humanoid,Half-Dragon,,lawful evil,,17,57,1,,,unique,Hoard of the Dragon Queen: 91
+mm.lemure,Lemure,0,Medium,Fiend,Devil,Devils,lawful evil,"dungeon, planar",7,13,-3,,,,Monster Manual: 76
+tftyp.leucrotta,Leucrotta,3,Large,Monstrosity,,,chaotic evil,,14,67,2,,,,Tales from the Yawning Portal: 239
+volo.leucrotta,Leucrotta,3,Large,Monstrosity,,,chaotic evil,"desert, grassland",14,67,2,,,,Volo's Guide to Monsters: 169
+mtof.leviathan,Leviathan,20,Gargantuan,Elemental,,Elder Elementals,neutral,"aquatic, planar",17,328,7,,legendary,,Mordenkainen's Tome of Foes: 198
+toa.liara-portyr,Liara Portyr,4,Medium,Humanoid,Human,,lawful evil,,15,84,1,,,unique,Tomb of Annihilation: 227
+mm.lich,Lich,21,Medium,Undead,,,any evil,"dungeon, ruins, urban",17,135,3,,legendary,,"Monster Manual: 202, Princes of the Apocalypse Online Supplement v1.0: 23"
+mm.lich-in-lair,Lich (in lair),22,Medium,Undead,,,any evil,"dungeon, ruins, urban",17,135,3,lair,legendary,,Monster Manual: 202
+mm.lion,Lion,1,Large,Beast,,Misc Creatures,unaligned,grassland,12,26,2,,,,"Basic Rules v1: 34, Monster Manual: 331, Player's Handbook: 307"
+mm.lizard,Lizard,0,Tiny,Beast,,Misc Creatures,unaligned,"cave, desert, dungeon, forest, grassland, mountain, ruins, swamp, underground",10,2,0,,,,"Basic Rules v1: 34, Monster Manual: 332"
+mm.lizard-kingqueen,Lizard King/Queen,4,Medium,Humanoid,Lizardfolk,Lizardfolk,chaotic evil,"coast, dungeon, forest, grassland, swamp",15,75,1,,,,"Monster Manual: 205, Princes of the Apocalypse Online Supplement v1.0: 24"
+mm.lizardfolk,Lizardfolk,0.25,Medium,Humanoid,Lizardfolk,Lizardfolk,neutral,"coast, dungeon, forest, grassland, swamp",15,22,0,,,,"Basic Rules v1: 35, HotDQ supplement: 13, Monster Manual: 204"
+mm.lizardfolk-shaman,Lizardfolk Shaman,2,Medium,Humanoid,Lizardfolk,Lizardfolk,neutral,"coast, dungeon, forest, grassland, swamp",13,27,0,,,,"Monster Manual: 205, Princes of the Apocalypse Online Supplement v1.0: 24"
+strahd.madam-eva,Madam Eva,10,Medium,Humanoid,Human,,chaotic neutral,,10,88,0,,,,Curse of Strahd: 233
+sking.maegera-the-dawn-titan,Maegera the Dawn Titan,23,Gargantuan,Elemental,,,chaotic neutral,,16,341,6,,legendary,unique,Storm King's Thunder: 241
+mm.mage,Mage,6,Medium,Humanoid,any,NPCs,any,urban,12,40,2,,,,"Basic Rules v1: 55, HotDQ supplement: 13, Monster Manual: 347"
+mm.magma-mephit,Magma Mephit,0.25,Small,Elemental,,Mephits,neutral evil,"cave, dungeon, mountain, planar, urban",11,22,1,,,,"Monster Manual: 216, Princes of the Apocalypse Online Supplement v1.0: 25"
+mm.magmin,Magmin,0.25,Small,Elemental,,,chaotic neutral,"dungeon, planar, ruins, urban",14,9,2,,,,"Monster Manual: 212, Princes of the Apocalypse Online Supplement v1.0: 25"
+abyss.male-steeder,Male Steeder,0.5,Medium,Beast,,,unaligned,,12,13,1,,,,Out of the Abyss: 231
+mtof.male-steeder,Male Steeder,0.5,Medium,Monstrosity,,Steeder,unaligned,"cave, underground",12,13,1,,,,Mordenkainen's Tome of Foes: 238
+tftyp.malformed-kraken,Malformed Kraken,10,Huge,Monstrosity,,,chaotic evil,,17,172,0,,,unique,Tales from the Yawning Portal: 239
+mm.mammoth,Mammoth,6,Huge,Beast,,Misc Creatures,unaligned,arctic,13,126,-1,,,,"Basic Rules v1: 35, Monster Manual: 332"
+mm.manes,Manes,0.125,Small,Fiend,Demon,Demons,chaotic evil,"dungeon, planar",9,9,-1,,,,Monster Manual: 60
+mm.manticore,Manticore,3,Large,Monstrosity,,,lawful evil,"arctic, cave, coast, grassland, mountain, ruins",14,68,3,,,,"Basic Rules v1: 35, Monster Manual: 213"
+toa.mantrap,Mantrap,1,Large,Plant,,,unaligned,,12,45,2,,,,Tomb of Annihilation: 227
+mm.marid,Marid,11,Large,Elemental,,Genies,chaotic neutral,"aquatic, coast, dungeon, planar, swamp",17,229,1,,,,Monster Manual: 146
+mm.marilith,Marilith,16,Large,Fiend,Demon,Demons,chaotic evil,"dungeon, planar",18,189,5,,,,Monster Manual: 61
+apoc.marlos-urnrayle,Marlos Urnrayle,8,Medium,Monstrosity,,Black Earth Cultists,neutral evil,,15,136,0,,,unique,Princes of the Apocalypse: 199
+apoc.marlos-urnrayle-in-lair,Marlos Urnrayle (in lair),12,Medium,Monstrosity,,Black Earth Cultists,neutral evil,,15,136,0,,,unique,Princes of the Apocalypse: 199
+volo.martial-arts-adept,Martial Arts Adept,3,Medium,Humanoid,Any Race,NPCs,any,urban,16,60,3,,,,"Volo's Guide to Monsters: 216, Tales from the Yawning Portal: 240"
+mtof.marut,Marut,25,Large,Construct,,,lawful neutral,planar,22,432,1,,,,Mordenkainen's Tome of Foes: 213
+volo.master-thief,Master Thief,5,Medium,Humanoid,Any Race,NPCs,any,urban,16,84,4,,,,Volo's Guide to Monsters: 216
+mm.mastiff,Mastiff,0.125,Medium,Beast,,Misc Creatures,unaligned,urban,12,5,2,,,,"Basic Rules v1: 35, Monster Manual: 332, Player's Handbook: 307"
+mtof.maurezhi,Maurezhi,7,Medium,Fiend,Demon,Demons,chaotic evil,planar,15,88,3,,,,Mordenkainen's Tome of Foes: 133
+volo.maw-demon,Maw Demon,1,Medium,Fiend,Demon,Demons,chaotic evil,underground,13,33,-1,,,,Volo's Guide to Monsters: 137
+mtof.meazel,Meazel,1,Medium,Humanoid,Meazel,,neutral evil,"planar, underground",13,35,3,,,,Mordenkainen's Tome of Foes: 214
+mm.medusa,Medusa,6,Medium,Monstrosity,,,lawful evil,"cave, dungeon, mountain, ruins, urban",15,127,2,,,,"Basic Rules v1: 36, Monster Manual: 214"
+volo.meenlock,Meenlock,2,Small,Fey,,,neutral evil,"forest, swamp, urban",15,31,2,,,,Volo's Guide to Monsters: 170
+mm.merfolk,Merfolk,1/8,Medium,Humanoid,Merfolk,,neutral,aquatic,11,11,1,,,,"Basic Rules v1: 35, Monster Manual: 218"
+mtof.merregon,Merregon,4,Medium,Fiend,Devil,Devils,lawful evil,planar,16,45,2,,,,Mordenkainen's Tome of Foes: 166
+mtof.merrenoloth,Merrenoloth,3,Medium,Fiend,Yugoloth,Yugoloths,neutral evil,planar,13,40,3,lair,,,Mordenkainen's Tome of Foes: 250
+mm.merrow,Merrow,2,Large,Monstrosity,,,chaotic evil,aquatic,13,45,0,,,,"Monster Manual: 219, Princes of the Apocalypse Online Supplement v1.0: 25"
+mm.mezzoloth,Mezzoloth,5,Medium,Fiend,Yugoloth,Yugoloths,neutral evil,"dungeon, planar",8,75,0,,,,"Monster Manual: 313, Princes of the Apocalypse Online Supplement v1.0: 26"
+mm.mimic,Mimic,2,Medium,Monstrosity,Shapechanger,,neutral,dungeon,12,58,1,,,,Monster Manual: 220
+mm.mind-flayer,Mind Flayer,7,Medium,Aberration,,Mind Flayer,lawful evil,"dungeon, underground, urban",15,71,1,,,,Monster Manual: 222
+mm.mind-flayer-arcanist,Mind Flayer Arcanist,8,Medium,Aberration,,Mind Flayer,lawful evil,"dungeon, underground, urban",15,71,1,,,,Monster Manual: 222
+volo.mind-flayer-lich-illithilich,Mind Flayer Lich (Illithilich),22,Medium,Undead,,Mind Flayers,any evil,underground,17,135,3,,,,Volo's Guide to Monsters: 172
+volo.mindwitness,Mindwitness,5,Large,Aberration,,Mind Flayers,lawful evil,underground,15,75,2,,,,Volo's Guide to Monsters: 176
+mm.minotaur,Minotaur,3,Large,Monstrosity,,,chaotic evil,"cave, dungeon, ruins, underground",14,76,0,,,,"Basic Rules v1: 35, Monster Manual: 223"
+mm.minotaur-skeleton,Minotaur Skeleton,2,Large,Undead,,Skeletons,lawful evil,"dungeon, underground, urban",12,67,0,,,,Monster Manual: 273
+apoc.miraj-vizann,Miraj Vizann,6,Medium,Humanoid,Earth genasi,Black Earth Cultists,neutral evil,,10,82,0,,,unique,Princes of the Apocalypse: 198
+mtof.moloch,Moloch,21,Large,Fiend,Devil,Archdevils,lawful evil,planar,19,253,4,,legendary,unique,Mordenkainen's Tome of Foes: 177
+mtof.molydeus,Molydeus,21,Huge,Fiend,Demon,Demons,chaotic evil,planar,19,216,6,,legendary,,Mordenkainen's Tome of Foes: 134
+strahd.mongrelfolk,Mongrelfolk,0.5,Medium,Humanoid,Mongrelfolk,,any,,11,26,-1,,,,Curse of Strahd: 234
+mm.monodrone,Monodrone,0.125,Medium,Construct,,Modrons,lawful neutral,planar,15,5,1,,,,Monster Manual: 224
+volo.morkoth,Morkoth,11,Medium,Aberration,,,chaotic evil,"coast, aquatic",17,130,2,,,,Volo's Guide to Monsters: 177
+volo.mouth-of-grolantor,Mouth of Grolantor,6,Huge,Giant,Hill Giant,Giants,chaotic evil,grassland,14,105,0,,,,Volo's Guide to Monsters: 149
+mm.mud-mephit,Mud Mephit,0.5,Small,Elemental,,Mephits,neutral evil,"coast, dungeon, forest, planar, swamp, urban",11,27,1,,,,"Monster Manual: 216, Princes of the Apocalypse Online Supplement v1.0: 26"
+mm.mule,Mule,0.125,Medium,Beast,,Misc Creatures,unaligned,urban,10,11,0,,,,"Basic Rules v1: 37, Monster Manual: 333, Player's Handbook: 307"
+mm.mummy,Mummy,3,Medium,Undead,,Mummies,lawful evil,"desert, dungeon",11,58,-1,,,,"Basic Rules v1: 37, Monster Manual: 228"
+mm.mummy-lord,Mummy Lord,15,Medium,Undead,,Mummies,lawful evil,"desert, dungeon",17,97,0,lair,legendary,,Monster Manual: 229
+toa.mwaxanare,Mwaxanare,0.125,Medium,Humanoid,Human,,lawful neutral,,10,13,0,,,unique,Tomb of Annihilation: 228
+mm.myconid-adult,Myconid Adult,0.25,Medium,Plant,,Myconids,lawful neutral,underground,12,22,0,,,,Monster Manual: 232
+mm.myconid-sovereign,Myconid Sovereign,2,Large,Plant,,Myconids,lawful neutral,underground,13,60,0,,,,Monster Manual: 232
+mm.myconid-sprout,Myconid Sprout,0,Small,Plant,,Myconids,lawful neutral,underground,10,7,0,,,,Monster Manual: 230
+mtof.nabassu,Nabassu,15,Medium,Fiend,Demon,Demons,chaotic evil,planar,18,190,2,,,,Mordenkainen's Tome of Foes: 135
+tiamat.naergoth-bladelord,Naergoth Bladelord,11,Medium,Undead,,,neutral evil,dungeon,18,135,1,,,,Rise of Tiamat: 90
+mtof.nagpa,Nagpa,17,Medium,Humanoid,Nagpa,,neutral evil,,19,187,2,,,,Mordenkainen's Tome of Foes: 215
+mm.nalfeshnee,Nalfeshnee,13,Large,Fiend,Demon,Demons,chaotic evil,"dungeon, planar",18,184,0,,,,Monster Manual: 62
+abyss.narrak,Narrak,2,Small,Humanoid,Derro,,chaotic evil,,12,40,2,,,unique,Out of the Abyss: 232
+mtof.narzugon,Narzugon,13,Medium,Fiend,Devil,Devils,lawful evil,planar,20,112,0,,,,Mordenkainen's Tome of Foes: 167
+volo.necromancer,Necromancer,9,Medium,Humanoid,Any Race,NPCs,any,"desert, urban",12,66,2,,,,"Volo's Guide to Monsters: 217, Tales from the Yawning Portal: 241"
+mm.needle-blight,Needle Blight,0.5,Medium,Plant,,Blights,neutral evil,"forest, grassland, swamp",12,11,1,,,,Monster Manual: 32
+volo.neogi,Neogi,3,Small,Aberration,,Neogi,lawful evil,"grassland, underground",15,33,3,,,,Volo's Guide to Monsters: 180
+volo.neogi-hatchling,Neogi Hatchling,0.125,Tiny,Aberration,,Neogi,lawful evil,"grassland, underground",11,7,1,,,,Volo's Guide to Monsters: 179
+volo.neogi-master,Neogi Master,4,Medium,Aberration,,Neogi,lawful evil,"grassland, underground",15,71,3,,,,Volo's Guide to Monsters: 180
+volo.neothelid,Neothelid,13,Gargantuan,Aberration,,,chaotic evil,underground,16,325,-2,,,,Volo's Guide to Monsters: 181
+tftyp.nereid,Nereid,2,Medium,Fey,,,any chaotic,,13,44,3,,,,Tales from the Yawning Portal: 240
+tiamat.neronvain,Neronvain,9,Medium,Humanoid,Elf,,neutral evil,,17,117,3,,,,Rise of Tiamat: 91
+mm.night-hag,Night Hag,5,Medium,Fiend,,Hags,neutral evil,"planar, underground",17,112,2,,,,Monster Manual: 178
+mm.night-hag-coven,Night Hag (coven),7,Medium,Fiend,,Hags,neutral evil,"planar, underground",17,112,2,,,,Monster Manual: 178
+mm.nightmare,Nightmare,3,Large,Fiend,,,neutral evil,"planar, swamp",13,68,2,,,,Monster Manual: 235
+mtof.nightwalker,Nightwalker,20,Huge,Undead,,,chaotic evil,planar,14,297,4,,,,Mordenkainen's Tome of Foes: 216
+volo.nilbog,Nilbog,1,Small,Humanoid,Goblinoid,,chaotic evil,"grassland, underground",13,7,2,,,,Volo's Guide to Monsters: 182
+mm.noble,Noble,0.125,Medium,Humanoid,any,NPCs,any,urban,15,9,1,,,,"HotDQ supplement: 13, Monster Manual: 348, Princes of the Apocalypse Online Supplement v1.0: 26"
+mm.nothic,Nothic,2,Medium,Aberration,,,neutral evil,"dungeon, ruins, urban",15,45,3,,,,"Basic Rules v1: 37, Monster Manual: 236"
+mtof.nupperibo,Nupperibo,0.25,Medium,Fiend,Devil,Devils,lawful evil,planar,13,11,0,,,,Mordenkainen's Tome of Foes: 168
+mm.nycaloth,Nycaloth,9,Large,Fiend,Yugoloth,Yugoloths,neutral evil,"dungeon, planar",18,123,0,,,,"Monster Manual: 314, Princes of the Apocalypse Online Supplement v1.0: 27"
+mtof.oaken-bolter,Oaken Bolter,5,Medium,Construct,,Clockworks,unaligned,planar,16,58,4,,,,Mordenkainen's Tome of Foes: 126
+mtof.oblex-spawn,Oblex Spawn,0.5,Tiny,Ooze,,Oblex,lawful evil,underground,13,18,3,,,,Mordenkainen's Tome of Foes: 217
+mm.ochre-jelly,Ochre Jelly,2,Large,Ooze,,Oozes,unaligned,dungeon,8,45,-2,,,,"Basic Rules v1: 38, Monster Manual: 243"
+mm.octopus,Octopus,0,Small,Beast,,Misc Creatures,unaligned,aquatic,12,3,2,,,,"Basic Rules v1: 38, Monster Manual: 333"
+apoc.ogrmoch,Ogrí€Œ©moch,20,Huge,Elemental,,Princes of Elemental Evil,neutral evil,,20,526,0,lair,legendary,unique,Princes of the Apocalypse: 216
+mm.ogre,Ogre,2,Large,Giant,,Ogres,chaotic evil,"dungeon, forest, mountain, swamp",11,59,-1,,,,"Basic Rules v1: 38, HotDQ supplement: 14, Monster Manual: 237"
+mtof.ogre-battering-ram,Ogre Battering Ram,4,Large,Giant,,Ogres,chaotic evil,"dungeon, forest, mountain, swamp",14,59,-1,,,,Mordenkainen's Tome of Foes: 220
+mtof.ogre-bolt-launcher,Ogre Bolt Launcher,2,Large,Giant,,Ogres,chaotic evil,"dungeon, forest, mountain, swamp",13,59,1,,,,Mordenkainen's Tome of Foes: 220
+mtof.ogre-chain-brute,Ogre Chain Brute,3,Large,Giant,,Ogres,chaotic evil,"dungeon, forest, mountain, swamp",11,59,-1,,,,Mordenkainen's Tome of Foes: 221
+mtof.ogre-howdah,Ogre Howdah,2,Large,Giant,,Ogres,chaotic evil,"dungeon, forest, mountain, swamp",13,59,-1,,,,Mordenkainen's Tome of Foes: 221
+mm.ogre-zombie,Ogre Zombie,2,Large,Undead,,Zombies,neutral evil,"dungeon, forest, mountain, swamp",8,85,-2,,,,Monster Manual: 316
+mtof.oinoloth,Oinoloth,12,Medium,Fiend,Yugoloth,Yugoloths,neutral evil,planar,17,126,3,,,,Mordenkainen's Tome of Foes: 251
+apoc.olhydra,Olhydra,18,Huge,Elemental,,Princes of Elemental Evil,neutral evil,,18,324,6,lair,legendary,unique,Princes of the Apocalypse: 218
+apoc.one-eyed-shiver,One-Eyed Shiver,3,Medium,Humanoid,Human,Crushing Wave Cultists,chaotic evil,"aquatic, cave, coast, grassland, swamp, underground",12,49,2,,,,Princes of the Apocalypse: 207
+mm.oni,Oni,7,Large,Giant,,,lawful evil,"dungeon, grassland, ruins, urban",16,110,0,,,,"Monster Manual: 239, Princes of the Apocalypse Online Supplement v1.0: 27"
+tftyp.ooze-master,Ooze Master,10,Huge,Undead,,,lawful evil,,9,138,-5,,,unique,Tales from the Yawning Portal: 241
+mm.orc,Orc,0.25,Medium,Humanoid,Orc,Orcs,chaotic evil,"arctic, coast, desert, dungeon, forest, grassland, mountain, ruins, swamp, urban",13,15,1,,,,"Basic Rules v1: 39, HotDQ supplement: 14, Monster Manual: 246"
+volo.orc-blade-of-ilneval,Orc Blade of Ilneval,4,Medium,Humanoid,Orc,Orcs,chaotic evil,"forest, grassland, mountain, underground",18,60,0,,,,Volo's Guide to Monsters: 183
+volo.orc-claw-of-luthic,Orc Claw of Luthic,2,Medium,Humanoid,Orc,Orcs,chaotic evil,"mountain, underground",14,45,2,,,,Volo's Guide to Monsters: 183
+mm.orc-eye-of-gruumsh,Orc Eye of Gruumsh,2,Medium,Humanoid,Orc,Orcs,chaotic evil,"arctic, coast, desert, dungeon, forest, grassland, mountain, ruins, swamp, urban",16,45,1,,,,"Monster Manual: 247, Princes of the Apocalypse Online Supplement v1.0: 28"
+volo.orc-hand-of-yurtrus,Orc Hand of Yurtrus,2,Medium,Humanoid,Orc,Orcs,chaotic evil,"forest, grassland, mountain, underground",12,30,0,,,,Volo's Guide to Monsters: 184
+volo.orc-nurtured-one-of-yurtrus,Orc Nurtured One of Yurtrus,0.25,Medium,Humanoid,Orc,Orcs,chaotic evil,"forest, grassland, mountain, underground",9,30,-1,,,,Volo's Guide to Monsters: 184
+volo.orc-red-fang-of-shargaas,Orc Red Fang of Shargaas,3,Medium,Humanoid,Orc,Orcs,chaotic evil,"forest, grassland, mountain, underground, urban",15,52,3,,,,Volo's Guide to Monsters: 185
+mm.orc-war-chief,Orc War Chief,4,Medium,Humanoid,Orc,Orcs,chaotic evil,"arctic, coast, desert, dungeon, forest, grassland, mountain, ruins, swamp, urban",16,93,1,,,,Monster Manual: 246
+abyss.orcus,Orcus,26,Huge,Fiend,Demon,Demon Lords,chaotic evil,,17,405,2,,legendary,unique,Out of the Abyss: 245
+mtof.orcus,Orcus,26,Huge,Fiend,Demon,Demon Lords,chaotic evil,planar,17,405,2,lair,legendary,unique,Mordenkainen's Tome of Foes: 153
+apoc.oreioth,Oreioth,2,Medium,Humanoid,Human,Other Villains,chaotic evil,,11,39,1,,,unique,Princes of the Apocalypse: 212
+mm.orog,Orog,2,Medium,Humanoid,Orc,Orcs,chaotic evil,"arctic, coast, desert, dungeon, forest, grassland, mountain, ruins, swamp, urban",18,42,1,,,,"Monster Manual: 247, Princes of the Apocalypse Online Supplement v1.0: 28"
+mtof.orthon,Orthon,10,Large,Fiend,Devil,Devils,lawful evil,planar,17,105,3,,,,Mordenkainen's Tome of Foes: 169
+mm.otyugh,Otyugh,5,Large,Aberration,,,neutral,"cave, dungeon, ruins, swamp, underground",14,114,0,,,,"HotDQ supplement: 14, Monster Manual: 248"
+mm.owl,Owl,0,Tiny,Beast,,Misc Creatures,unaligned,"forest, urban",11,1,1,,,,"Basic Rules v1: 39, Monster Manual: 333, Player's Handbook: 308"
+mm.owlbear,Owlbear,3,Large,Monstrosity,,,unaligned,"forest, mountain",13,59,1,,,,"Basic Rules v1: 39, Monster Manual: 249"
+mm.panther,Panther,0.5,Medium,Beast,,Misc Creatures,unaligned,forest,12,13,2,,,,"Basic Rules v1: 39, Monster Manual: 333, Player's Handbook: 308"
+mm.pegasus,Pegasus,2,Large,Celestial,,,chaotic good,mountain,12,59,2,,,,"Basic Rules v1: 40, Monster Manual: 250"
+mm.pentadrone,Pentadrone,2,Large,Construct,,Modrons,lawful neutral,planar,16,32,2,,,,Monster Manual: 226
+mm.peryton,Peryton,2,Large,Monstrosity,,,chaotic evil,mountain,13,33,1,,,,"HotDQ supplement: 15, Monster Manual: 251, Princes of the Apocalypse Online Supplement v1.0: 28"
+strahd.phantom-warrior,Phantom Warrior,3,Medium,Undead,,,any,,16,45,0,,,,Curse of Strahd: 235
+hoard.pharblex-spattergoo,Pharblex Spattergoo,3,Medium,Humanoid,Bullywug,,chaotic evil,,15,59,1,,,unique,Hoard of the Dragon Queen: 91
+mm.phase-spider,Phase Spider,3,Large,Monstrosity,,Misc Creatures,unaligned,"cave, coast, dungeon, forest, grassland, mountain, planar, ruins, swamp, underground",13,32,2,,,,"Basic Rules v1: 40, Monster Manual: 334"
+mtof.phoenix,Phoenix,16,Gargantuan,Elemental,,Elder Elementals,neutral,planar,18,175,8,,legendary,,Mordenkainen's Tome of Foes: 199
+strahd.pidlewick-ii,Pidlewick II,0.5,Small,Construct,,,neutral evil,,14,10,2,,,unique,Curse of Strahd: 236
+mm.piercer,Piercer,0.25,Medium,Monstrosity,,,unaligned,"cave, underground",15,22,1,,,,"Monster Manual: 252, Princes of the Apocalypse Online Supplement v1.0: 28"
+mm.pit-fiend,Pit Fiend,20,Large,Fiend,Devil,Devils,lawful evil,"dungeon, planar",19,300,2,,,,Monster Manual: 77
+mm.pixie,Pixie,0.5,Tiny,Fey,,,neutral good,"coast, forest, grassland, swamp",15,1,5,,,,Monster Manual: 253
+mm.planetar,Planetar,16,Large,Celestial,,Angels,lawful good,planar,19,200,5,,,,Monster Manual: 17
+mm.plesiosaurus,Plesiosaurus,2,Large,Beast,,Dinosaurs,unaligned,aquatic,13,68,2,,,,"Basic Rules v1: 40, Monster Manual: 80"
+mm.poisonous-snake,Poisonous Snake,0.125,Tiny,Beast,,Misc Creatures,unaligned,"desert, forest, grassland, swamp",13,2,3,,,,"Basic Rules v1: 40, Monster Manual: 334, Player's Handbook: 308"
+mm.polar-bear,Polar Bear,2,Large,Beast,,Misc Creatures,unaligned,"arctic, cave",12,42,0,,,,"Basic Rules v1: 41, Monster Manual: 334"
+mm.poltergeist,Poltergeist,2,Medium,Undead,,Specter,chaotic evil,"dungeon, ruins, urban",12,22,2,,,,Monster Manual: 279
+mm.pony,Pony,0.125,Medium,Beast,,Misc Creatures,unaligned,grassland,10,11,0,,,,"Basic Rules v1: 41, Monster Manual: 335"
+mm.priest,Priest,2,Medium,Humanoid,any,NPCs,any,urban,13,27,0,,,,"Basic Rules v1: 55, HotDQ supplement: 15, Monster Manual: 348"
+mm.pseudodragon,Pseudodragon,0.5,Tiny,Dragon,,,neutral good,urban,13,7,2,,,,"Monster Manual: 254, Player's Handbook: 308"
+toa.pterafolk,Pterafolk,1,Large,Monstrosity,,,neutral evil,,12,26,1,,,,Tomb of Annihilation: 229
+mm.pteranodon,Pteranodon,0.5,Medium,Beast,,Dinosaurs,unaligned,mountain,13,13,2,,,,"Basic Rules v1: 41, Monster Manual: 80"
+mm.purple-worm,Purple Worm,15,Gargantuan,Monstrosity,,,unaligned,underground,18,247,-2,,,,"Monster Manual: 255, Princes of the Apocalypse Online Supplement v1.0: 29"
+sking.purple-wormling,Purple Wormling,2,Large,Monstrosity,,,unaligned,,12,42,-2,,,,Storm King's Thunder: 242
+mm.quadrone,Quadrone,1,Medium,Construct,,Modrons,lawful neutral,planar,16,22,2,,,,Monster Manual: 226
+mm.quaggoth,Quaggoth,2,Medium,Humanoid,Quaggoth,Quaggoth,chaotic neutral,"dungeon, urban",13,45,1,,,,Monster Manual: 256
+mm.quaggoth-spore-servant,Quaggoth Spore Servant,1,Medium,Plant,,Myconids,unaligned,underground,13,45,1,,,,Monster Manual: 230
+mm.quaggoth-thonot,Quaggoth Thonot,3,Medium,Humanoid,Quaggoth,Quaggoth,chaotic neutral,"dungeon, urban",13,45,1,,,,Monster Manual: 256
+mm.quasit,Quasit,1,Tiny,Fiend,"Demon, Shapechanger",Demons,chaotic evil,"dungeon, planar",13,7,3,,,,"Monster Manual: 63, Player's Handbook: 309"
+volo.quetzalcoatlus,Quetzalcoatlus,2,Huge,Beast,,Dinosaurs,unaligned,"coast, grassland, mountain",13,30,1,,,,"Volo's Guide to Monsters: 140, Tomb of Annihilation: 230"
+volo.quickling,Quickling,1,Tiny,Fey,,,chaotic evil,forest,16,10,6,,,,Volo's Guide to Monsters: 187
+mm.quipper,Quipper,0,Tiny,Beast,,Misc Creatures,unaligned,aquatic,13,1,3,,,,"Basic Rules v1: 41, Monster Manual: 335"
+strahd.rahadin,Rahadin,10,Medium,Humanoid,Elf,,lawful evil,,18,135,6,,,unique,Curse of Strahd: 237
+mm.rakshasa,Rakshasa,13,Medium,Fiend,,,lawful evil,"planar, urban",16,110,3,,,,Monster Manual: 257
+toa.ras-nsi,Ras Nsi,7,Medium,Monstrosity,"Shapechanger, Yuan-ti",,neutral evil,,15,127,3,,,unique,Tomb of Annihilation: 230
+mm.rat,Rat,0,Tiny,Beast,,Misc Creatures,unaligned,"arctic, cave, coast, dungeon, forest, grassland, mountain, ruins, swamp, underground, urban",10,1,0,,,,"Basic Rules v1: 41, Monster Manual: 335, Player's Handbook: 309"
+hoard.rath-modar,Rath Modar,6,Medium,Humanoid,Human,,lawful evil,,13,71,3,,,unique,"Hoard of the Dragon Queen: 92, Rise of Tiamat: 91"
+mm.raven,Raven,0,Tiny,Beast,,Misc Creatures,unaligned,"forest, grassland",12,1,2,,,,"Basic Rules v1: 42, Monster Manual: 335, Player's Handbook: 309"
+apoc.razerblast,Razerblast,5,Medium,Humanoid,Human,Eternal Flame Cultists,chaotic evil,"cave, desert, dungeon, forest, grassland, mountain, ruins, underground",17,112,0,,,,Princes of the Apocalypse: 201
+mtof.red-abishai,Red Abishai,19,Medium,Fiend,Devil,Devils,lawful evil,planar,22,255,3,,,,Mordenkainen's Tome of Foes: 162
+mm.red-dragon-wyrmling,Red Dragon Wyrmling,4,Medium,Dragon,,Dragons,chaotic evil,mountain,17,75,0,,,,Monster Manual: 98
+mm.red-slaad,Red Slaad,5,Large,Aberration,,Slaadi,chaotic neutral,planar,14,93,1,,,,Monster Manual: 276
+volo.redcap,Redcap,3,Small,Fey,,,chaotic evil,"forest, grassland, swamp",13,45,1,,,,Volo's Guide to Monsters: 188
+mm.reef-shark,Reef Shark,0.25,Medium,Beast,,Misc Creatures,unaligned,aquatic,12,22,1,,,,"Basic Rules v1: 42, Monster Manual: 336, Player's Handbook: 309"
+mm.remorhaz,Remorhaz,11,Huge,Monstrosity,,Remorhazes,unaligned,arctic,17,195,1,,,,Monster Manual: 258
+mtof.retriever,Retriever,14,Large,Construct,,,lawful evil,underground,19,210,3,,,,Mordenkainen's Tome of Foes: 222
+mm.revenant,Revenant,5,Medium,Undead,,,neutral,"arctic, cave, coast, desert, dungeon, forest, grassland, mountain, ruins, swamp, underground, urban",13,136,2,,,,"Monster Manual: 259, Princes of the Apocalypse Online Supplement v1.0: 29"
+hoard.rezmir,Rezmir,7,Medium,Humanoid,Half-black dragon,,neutral evil,,13,90,3,,,unique,Hoard of the Dragon Queen: 93
+mm.rhinoceros,Rhinoceros,2,Large,Beast,,Misc Creatures,unaligned,grassland,11,45,-1,,,,"Basic Rules v1: 42, Monster Manual: 336"
+strahd.rictavio,Rictavio,5,Medium,Humanoid,Human,,lawful good,,12,77,1,,,unique,Curse of Strahd: 238
+mm.riding-horse,Riding Horse,0.5,Large,Beast,,Misc Creatures,unaligned,urban,10,13,0,,,,"Basic Rules v1: 42, Monster Manual: 336, Player's Handbook: 310"
+mm.roc,Roc,11,Gargantuan,Monstrosity,,,unaligned,"coast, desert, mountain",15,248,0,,,,Monster Manual: 260
+mm.roper,Roper,5,Large,Monstrosity,,,neutral evil,"cave, underground",20,93,-1,,,,"HotDQ supplement: 15, Monster Manual: 261, Princes of the Apocalypse Online Supplement v1.0: 30"
+mtof.rot-troll,Rot Troll,9,Large,Giant,,Trolls,chaotic evil,"dungeon, forest, mountain, ruins, swamp",16,138,1,,,,Mordenkainen's Tome of Foes: 244
+volo.rothe,Rothe,0.5,Medium,Beast,,,unaligned,"grassland, underground",10,13,0,,,,Volo's Guide to Monsters: 208
+mm.rug-of-smothering,Rug of Smothering,2,Large,Construct,,Animated Objects,unaligned,"dungeon, ruins, urban",12,33,2,,,,"HotDQ supplement: 16, Monster Manual: 20"
+mm.rust-monster,Rust Monster,0.25,Medium,Monstrosity,,,unaligned,"dungeon, underground",14,27,1,,,,"Monster Manual: 262, Princes of the Apocalypse Online Supplement v1.0: 30"
+mtof.rutterkin,Rutterkin,2,Medium,Fiend,Demon,Demons,chaotic evil,planar,12,37,2,,,,Mordenkainen's Tome of Foes: 136
+mm.saber-toothed-tiger,Saber-Toothed Tiger,2,Large,Beast,,Misc Creatures,unaligned,"forest, grassland",12,52,2,,,,"Basic Rules v1: 43, Monster Manual: 336"
+mtof.sacred-statue,Sacred Statue,0,Large,Construct,,,any,"dungeon, ruins",19,95,-1,,,,Mordenkainen's Tome of Foes: 194
+apoc.sacred-stone-monk,Sacred Stone Monk,0.25,Medium,Humanoid,Human,Black Earth Cultists,lawful evil,"arctic, cave, coast, desert, dungeon, forest, grassland, mountain, ruins, underground",14,22,2,,,,Princes of the Apocalypse: 196
+mm.sahuagin,Sahuagin,0.25,Medium,Humanoid,Sahuagin,Sahuagin,lawful evil,"aquatic, coast",12,22,0,,,,Monster Manual: 263
+mm.sahuagin-baron,Sahuagin Baron,5,Large,Humanoid,Sahuagin,Sahuagin,lawful evil,"aquatic, coast",16,76,2,,,,Monster Manual: 264
+mm.sahuagin-priestess,Sahuagin Priestess,2,Medium,Humanoid,Sahuagin,Sahuagin,lawful evil,"aquatic, coast",12,33,0,,,,Monster Manual: 264
+mm.salamander,Salamander,5,Large,Elemental,,Salamanders,neutral evil,"forest, planar",15,90,2,,,,"Monster Manual: 266, Princes of the Apocalypse Online Supplement v1.0: 30"
+mm.satyr,Satyr,0.25,Medium,Fey,,,chaotic neutral,"forest, grassland, urban",14,31,3,,,,"Basic Rules v1: 43, Monster Manual: 267"
+mm.scarecrow,Scarecrow,1,Medium,Construct,,,chaotic evil,"grassland, urban",11,36,1,,,,Monster Manual: 268
+mm.scorpion,Scorpion,0,Tiny,Beast,,Misc Creatures,unaligned,"cave, desert, grassland, mountain, swamp",11,1,0,,,,"Basic Rules v1: 43, Monster Manual: 337"
+mm.scout,Scout,0.25,Medium,Humanoid,any,NPCs,any,"arctic, coast, desert, forest, grassland, mountain, swamp",13,16,2,,,,"HotDQ supplement: 16, Monster Manual: 349, Princes of the Apocalypse Online Supplement v1.0: 31"
+mm.sea-hag,Sea Hag,2,Medium,Fey,,Hags,chaotic evil,"aquatic, coast, underground",14,52,1,,,,"Monster Manual: 179, Princes of the Apocalypse Online Supplement v1.0: 31"
+mm.sea-hag-coven,Sea Hag (coven),4,Medium,Fey,,Hags,chaotic evil,"aquatic, coast, underground",14,52,1,,,,Monster Manual: 179
+mm.sea-horse,Sea Horse,0,Tiny,Beast,,Misc Creatures,unaligned,aquatic,11,1,1,,,,"Basic Rules v1: 43, Monster Manual: 337"
+tftyp.sea-lion,Sea Lion,5,Large,Monstrosity,,,unaligned,,15,90,2,,,,Tales from the Yawning Portal: 242
+volo.sea-spawn,Sea Spawn,1,Medium,Humanoid,,,neutral evil,"coast, aquatic",11,32,-1,,,,Volo's Guide to Monsters: 189
+tiamat.severin,Severin,11,Medium,Humanoid,Human,,neutral evil,,16,150,1,,legendary,unique,Rise of Tiamat: 92
+mm.shadow,Shadow,0.25,Medium,Undead,,,chaotic evil,"dungeon, ruins, swamp, urban",12,16,2,,,,"Monster Manual: 269, Princes of the Apocalypse Online Supplement v1.0: 31"
+mtof.shadow-dancer,Shadow Dancer,7,Medium,Humanoid,Elf,Shadar-kai,neutral,"planar, urban",15,71,3,,,,Mordenkainen's Tome of Foes: 225
+mm.shadow-demon,Shadow Demon,4,Medium,Fiend,Demon,Demons,chaotic evil,"dungeon, planar",13,66,3,,,,"Monster Manual: 64, Princes of the Apocalypse Online Supplement v1.0: 32"
+volo.shadow-mastiff,Shadow Mastiff,2,Medium,Monstrosity,,,neutral evil,"forest, grassland, swamp",12,33,2,,,,Volo's Guide to Monsters: 190
+volo.shadow-mastiff-alpha,Shadow Mastiff Alpha,2,Medium,Monstrosity,,,neutral evil,"forest, grassland, swamp",12,48,2,,,,Volo's Guide to Monsters: 190
+mm.shambling-mound,Shambling Mound,5,Large,Plant,,,unaligned,"forest, swamp",15,136,-1,,,,"HotDQ supplement: 16, Monster Manual: 270"
+tftyp.sharwyn-hucrele,Sharwyn Hucrele,0.25,Medium,Humanoid,Human,,neutral evil,,16,13,1,,,unique,Tales from the Yawning Portal: 242
+mm.shield-guardian,Shield Guardian,7,Large,Construct,,,unaligned,"dungeon, ruins, urban",17,142,-1,,,,"Monster Manual: 271, Princes of the Apocalypse Online Supplement v1.0: 32"
+apoc.shoalar-quanderil,Shoalar Quanderil,4,Medium,Humanoid,Water genasi,Crushing Wave Cultists,chaotic evil,,10,60,1,,,unique,Princes of the Apocalypse: 208
+volo.shoosuva,Shoosuva,8,Large,Fiend,Demon,Demons,chaotic evil,"arctic, forest, grassland",14,110,1,,,,Volo's Guide to Monsters: 137
+mm.shrieker,Shrieker,0,Medium,Plant,,Fungi,unaligned,"cave, dungeon, swamp",5,13,-5,,,,Monster Manual: 138
+mtof.sibriex,Sibriex,18,Huge,Fiend,Demon,Demons,chaotic evil,planar,19,150,-4,,legendary,,Mordenkainen's Tome of Foes: 137
+mm.silver-dragon-wyrmling,Silver Dragon Wyrmling,2,Medium,Dragon,,Dragons,lawful good,"arctic, mountain",17,45,0,,,,Monster Manual: 118
+tftyp.sir-braford,Sir Braford,0.25,Medium,Humanoid,Human,,neutral evil,,18,19,-1,,,unique,Tales from the Yawning Portal: 243
+tftyp.siren,Siren,3,Medium,Fey,,,chaotic good,,14,38,4,,,,Tales from the Yawning Portal: 243
+mm.skeleton,Skeleton,0.5,Medium,Undead,,Skeletons,lawful evil,"dungeon, ruins, urban",13,13,2,,,,"Basic Rules v1: 43, Monster Manual: 272, Player's Handbook: 310"
+mtof.skulk,Skulk,0.25,Medium,Humanoid,,,chaotic neutral,planar,14,18,4,,,,Mordenkainen's Tome of Foes: 228
+mtof.skull-lord,Skull Lord,15,Medium,Undead,,,lawful evil,"dungeon, ruins",18,105,3,,,,Mordenkainen's Tome of Foes: 230
+apoc.skyweaver,Skyweaver,3,Medium,Humanoid,Human,Howling Hatred Cultists,chaotic evil,"arctic, cave, coast, desert, dungeon, grassland, mountain, ruins",12,44,2,,,,Princes of the Apocalypse: 191
+mm.slaad-tadpole,Slaad Tadpole,0.125,Tiny,Aberration,,Slaadi,chaotic neutral,planar,12,10,2,,,,Monster Manual: 276
+volo.slithering-tracker,Slithering Tracker,3,Medium,Ooze,,,chaotic evil,"underground, urban",14,32,4,,,,Volo's Guide to Monsters: 191
+mm.smoke-mephit,Smoke Mephit,0.5,Small,Elemental,,Mephits,neutral evil,"dungeon, planar, urban",12,2,2,,,,"Monster Manual: 217, Princes of the Apocalypse Online Supplement v1.0: 32"
+mm.solar,Solar,21,Large,Celestial,,Angels,lawful good,planar,21,241,6,,legendary,,Monster Manual: 18
+mtof.soul-monger,Soul Monger,11,Medium,Humanoid,Elf,Shadar-kai,neutral,"planar, urban",15,123,3,,,,Mordenkainen's Tome of Foes: 226
+volo.spawn-of-kyuss,Spawn of Kyuss,5,Medium,Undead,,,chaotic evil,"desert, underground",10,76,0,,,,Volo's Guide to Monsters: 192
+mm.spectator,Spectator,3,Medium,Aberration,,Beholders,lawful neutral,"cave, dungeon, ruins, underground, urban",14,39,2,,,,"Basic Rules v1: 44, Monster Manual: 30"
+mm.specter,Specter,1,Medium,Undead,,Specter,chaotic evil,"dungeon, ruins, urban",12,22,2,,,,"HotDQ supplement: 17, Monster Manual: 279, Princes of the Apocalypse Online Supplement v1.0: 33"
+mm.spider,Spider,0,Tiny,Beast,,Misc Creatures,unaligned,"cave, coast, dungeon, forest, grassland, mountain, planar, ruins, swamp, underground",12,1,2,,,,"Basic Rules v1: 44, Monster Manual: 337"
+mm.spined-devil,Spined Devil,2,Small,Fiend,Devil,Devils,lawful evil,"dungeon, planar",13,22,2,,,,Monster Manual: 78
+mm.spirit-naga,Spirit Naga,8,Large,Monstrosity,,Nagas,chaotic evil,"cave, dungeon, ruins, underground",18,127,4,,,,Monster Manual: 234
+mtof.spirit-troll,Spirit Troll,11,Large,Giant,,Trolls,chaotic evil,"dungeon, forest, mountain, ruins, swamp",17,97,3,,,,Mordenkainen's Tome of Foes: 244
+mtof.spring-eladrin,Spring Eladrin,10,Medium,Fey,Elf,Eladrin,chaotic neutral,planar,19,127,3,,,,Mordenkainen's Tome of Foes: 196
+mm.sprite,Sprite,0.5,Tiny,Fey,,,neutral good,"forest, grassland, swamp",15,2,4,,,,"Monster Manual: 283, Player's Handbook: 310, Princes of the Apocalypse Online Supplement v1.0: 33"
+mm.spy,Spy,1,Medium,Humanoid,any,NPCs,any,"arctic, cave, coast, desert, forest, grassland, mountain, ruins, swamp, urban",12,27,2,,,,"HotDQ supplement: 17, Monster Manual: 349, Princes of the Apocalypse Online Supplement v1.0: 33"
+mtof.star-spawn-grue,Star Spawn Grue,0.5,Small,Aberration,,Star Spawn,neutral evil,planar,11,17,1,,,,Mordenkainen's Tome of Foes: 234
+mtof.star-spawn-hulk,Star Spawn Hulk,10,Large,Aberration,,Star Spawn,chaotic evil,planar,16,136,-1,,,,Mordenkainen's Tome of Foes: 234
+mtof.star-spawn-larva-mage,Star Spawn Larva Mage,16,Medium,Aberration,,Star Spawn,chaotic evil,planar,16,168,1,,,,Mordenkainen's Tome of Foes: 235
+mtof.star-spawn-mangler,Star Spawn Mangler,5,Medium,Aberration,,Star Spawn,chaotic evil,planar,14,71,4,,,,Mordenkainen's Tome of Foes: 236
+mtof.star-spawn-seer,Star Spawn Seer,13,Medium,Aberration,,Star Spawn,neutral evil,planar,17,153,1,,,,Mordenkainen's Tome of Foes: 236
+mm.steam-mephit,Steam Mephit,0.5,Small,Elemental,,Mephits,neutral evil,"dungeon, planar, urban",10,21,0,,,,"Monster Manual: 217, Princes of the Apocalypse Online Supplement v1.0: 34"
+mtof.steel-predator,Steel Predator,16,Large,Construct,,,lawful evil,planar,20,207,3,,,,Mordenkainen's Tome of Foes: 239
+volo.stegosaurus,Stegosaurus,4,Huge,Beast,,Dinosaurs,unaligned,"forest, grassland",13,76,-1,,,,"Volo's Guide to Monsters: 140, Tomb of Annihilation: 231"
+volo.stench-kow,Stench Kow,0.5,Large,Beast,,,unaligned,grassland,10,15,0,,,,Volo's Guide to Monsters: 208
+mm.stirge,Stirge,0.125,Tiny,Beast,,,unaligned,"forest, swamp",14,2,3,,,,"Basic Rules v1: 44, HotDQ supplement: 17, Monster Manual: 284"
+mtof.stone-cursed,Stone Cursed,1,Medium,Construct,,,lawful evil,dungeon,17,19,-3,,,,Mordenkainen's Tome of Foes: 240
+mtof.stone-defender,Stone Defender,4,Medium,Construct,,Clockworks,unaligned,planar,16,52,0,,,,Mordenkainen's Tome of Foes: 126
+mm.stone-giant,Stone Giant,7,Huge,Giant,,Giants,neutral,"cave, mountain, underground",17,126,2,,,,"HotDQ supplement: 18, Monster Manual: 156"
+volo.stone-giant-dreamwalker,Stone Giant Dreamwalker,10,Huge,Giant,Stone Giant,Giants,chaotic neutral,"coast, grassland, mountain",18,161,2,,,,Volo's Guide to Monsters: 150
+mm.stone-golem,Stone Golem,10,Large,Construct,,Golems,unaligned,"dungeon, ruins, urban",17,178,-1,,,,"Basic Rules v1: 45, HotDQ supplement: 18, Monster Manual: 170"
+toa.stone-juggernaut,Stone Juggernaut,12,Large,Construct,,,unaligned,,15,157,1,,,,Tomb of Annihilation: 231
+apoc.stonemelder,Stonemelder,4,Medium,Humanoid,Human,Black Earth Cultists,neutral evil,"arctic, cave, coast, desert, dungeon, forest, grassland, mountain, ruins, underground",17,75,0,,,,Princes of the Apocalypse: 197
+mm.storm-giant,Storm Giant,13,Huge,Giant,,Giants,chaotic good,"arctic, coast, desert, mountain, planar",16,230,2,,,,Monster Manual: 156
+volo.storm-giant-quintessent,Storm Giant Quintessent,16,Huge,Giant,Storm Giant,Giants,chaotic good,"arctic, coast, desert, mountain, aquatic",12,230,2,,,,Volo's Guide to Monsters: 151
+strahd.strahd-von-zarovich,Strahd von Zarovich,15,Medium,Undead,,,lawful evil,,16,144,4,,legendary,unique,Curse of Strahd: 240
+strahd.strahd-zombie,Strahd Zombie,1,Medium,Undead,,,unaligned,,8,30,-2,,,,Curse of Strahd: 241
+strahd.strahds-animated-armor,Strahd's Animated Armor,6,Medium,Construct,,,lawful evil,,21,112,1,,,unique,Curse of Strahd: 227
+toa.su-monster,Su-monster,1,Medium,Monstrosity,,,chaotic evil,,12,27,2,,,,Tomb of Annihilation: 232
+mm.succubusincubus,Succubus/Incubus,4,Medium,Fiend,Shapechanger,,neutral evil,"dungeon, planar, urban",15,66,3,,,,Monster Manual: 285
+mtof.summer-eladrin,Summer Eladrin,10,Medium,Fey,Elf,Eladrin,chaotic neutral,planar,19,127,5,,,,Mordenkainen's Tome of Foes: 196
+mm.swarm-of-bats,Swarm of Bats,0.5,Medium,Beast,Swarm,Misc Creatures,unaligned,"cave, dungeon, forest, ruins, swamp, underground, urban",12,22,2,,,,"Basic Rules v1: 45, Monster Manual: 337"
+volo.swarm-of-cranium-rats,Swarm of Cranium Rats,5,Medium,Beast,Swarm,Cranium Rats,lawful evil,"underground, urban",12,36,2,,,,Volo's Guide to Monsters: 133
+mm.swarm-of-insects,Swarm of Insects,0.25,Medium,Beast,Swarm,Misc Creatures,unaligned,"cave, dungeon, forest, grassland, mountain, ruins, swamp, underground, urban",12,22,1,,,,"Basic Rules v1: 45, HotDQ supplement: 18, Monster Manual: 338"
+mm.swarm-of-poisonous-snakes,Swarm of Poisonous Snakes,2,Medium,Beast,Swarm,Misc Creatures,unaligned,"desert, dungeon, forest, grassland, swamp",14,36,4,,,,"Basic Rules v1: 46, Monster Manual: 338"
+mm.swarm-of-quippers,Swarm of Quippers,1,Medium,Beast,Swarm,Misc Creatures,unaligned,aquatic,13,28,3,,,,"Basic Rules v1: 46, Monster Manual: 338"
+mm.swarm-of-rats,Swarm of Rats,0.5,Medium,Beast,Swarm,Misc Creatures,unaligned,"cave, dungeon, forest, grassland, ruins, swamp, urban",10,24,0,,,,"Basic Rules v1: 46, HotDQ supplement: 19, Monster Manual: 339"
+mm.swarm-of-ravens,Swarm of Ravens,0.5,Medium,Beast,Swarm,Misc Creatures,unaligned,"forest, grassland, mountain, ruins, urban",12,24,2,,,,"Basic Rules v1: 46, Monster Manual: 339"
+volo.swarm-of-rot-grubs,Swarm of Rot Grubs,0.25,Medium,Beast,Swarm,,unaligned,"swamp, underground",8,22,-2,,,,Volo's Guide to Monsters: 208
+volo.swashbuckler,Swashbuckler,3,Medium,Humanoid,Any Race,NPCs,non-lawful,"coast, urban",17,66,4,,,,Volo's Guide to Monsters: 217
+mtof.sword-wraith-commander,Sword Wraith Commander,8,Medium,Undead,,Sword Wraith,lawful evil,ruins,18,127,2,,,,Mordenkainen's Tome of Foes: 241
+mtof.sword-wraith-warrior,Sword Wraith Warrior,3,Medium,Undead,,Sword Wraith,lawful evil,ruins,16,45,1,,,,Mordenkainen's Tome of Foes: 241
+toa.tabaxi-hunter,Tabaxi Hunter,1,Medium,Humanoid,Tabaxi,,chaotic good,,14,40,3,,,,Tomb of Annihilation: 232
+toa.tabaxi-ministrel,Tabaxi Ministrel,0.5,Medium,Humanoid,Tabaxi,,chaotic good,,12,22,2,,,,Tomb of Annihilation: 233
+hoard.talis-the-white,Talis the White,5,Medium,Humanoid,Half-elf,,lawful evil,,18,58,1,,,unique,Hoard of the Dragon Queen: 93
+volo.tanarukk,Tanarukk,5,Medium,Fiend,"Demon, Orc",Orcs,chaotic evil,"grassland, mountain, underground",14,95,1,,,,Volo's Guide to Monsters: 186
+mm.tarrasque,Tarrasque,30,Gargantuan,Monstrosity,Titan,,unaligned,"aquatic, arctic, cave, coast, desert, dungeon, forest, grassland, mountain, planar, ruins, swamp, underground, urban",25,676,0,,legendary,,Monster Manual: 286
+tftyp.tarul-var,Tarul Var,13,Medium,Undead,,,neutral evil,,16,105,3,,,unique,Tales from the Yawning Portal: 244
+tftyp.tecuziztecatl,Tecuziztecatl,4,Large,Monstrosity,,,neutral,,13,102,0,,,unique,Tales from the Yawning Portal: 245
+tftyp.thayan-apprentice,Thayan Apprentice,2,Medium,Humanoid,Human,,non-good,,12,27,2,,,,Tales from the Yawning Portal: 245
+tftyp.thayan-warrior,Thayan Warrior,2,Medium,Humanoid,Human,,non-good,,16,52,1,,,,Tales from the Yawning Portal: 246
+mtof.the-angry,The Angry,13,Medium,Monstrosity,,Sorrowsworn,neutral evil,planar,18,255,0,,,,Mordenkainen's Tome of Foes: 231
+mtof.the-hungry,The Hungry,11,Medium,Monstrosity,,Sorrowsworn,neutral evil,planar,17,225,0,,,,Mordenkainen's Tome of Foes: 232
+mtof.the-lonely,The Lonely,9,Medium,Monstrosity,,Sorrowsworn,neutral evil,planar,16,112,1,,,,Mordenkainen's Tome of Foes: 232
+mtof.the-lost,The Lost,7,Medium,Monstrosity,,Sorrowsworn,neutral evil,planar,15,78,1,,,,Mordenkainen's Tome of Foes: 233
+abyss.the-pudding-king,The Pudding King,4,Small,Humanoid,"Gnome, Shapechanger",,chaotic evil,,13,49,4,,,unique,Out of the Abyss: 233
+mtof.the-wretched,The Wretched,0.5,Small,Monstrosity,,Sorrowsworn,neutral evil,planar,15,10,1,,,,Mordenkainen's Tome of Foes: 233
+tftyp.thorn-slinger,Thorn Slinger,0.25,Large,Plant,,,unaligned,,11,32,1,,,,Tales from the Yawning Portal: 246
+volo.thorny,Thorny,1,Medium,Plant,,,neutral,"forest, swamp",14,27,1,,,,"Volo's Guide to Monsters: 197, Tomb of Annihilation: 233"
+mm.thri-kreen,Thri-kreen,1,Medium,Humanoid,Thri-kreen,,chaotic neutral,"desert, grassland",15,33,2,,,,Monster Manual: 288
+mm.thug,Thug,0.25,Medium,Humanoid,any,NPCs,non-good,"arctic, cave, coast, forest, grassland, urban",11,32,0,,,,"Basic Rules v1: 55, Monster Manual: 350"
+apoc.thurl-merosska,Thurl Merosska,3,Medium,Humanoid,Human,Howling Hatred Cultists,lawful evil,,16,71,2,,,unique,Princes of the Apocalypse: 192
+tiamat.tiamat,Tiamat,30,Gargantuan,Fiend,,,chaotic evil,,25,615,0,,legendary,unique,Rise of Tiamat: 92
+mm.tiger,Tiger,1,Large,Beast,,Misc Creatures,unaligned,"forest, grassland",12,37,2,,,,"Basic Rules v1: 47, Monster Manual: 339, Player's Handbook: 311"
+mtof.titivilus,Titivilus,16,Medium,Fiend,Devil,Archdevils,lawful evil,planar,20,127,6,,legendary,unique,Mordenkainen's Tome of Foes: 179
+volo.tlingcalli,Tlincalli,5,Large,Monstrosity,,,neutral evil,desert,15,85,1,,,,Volo's Guide to Monsters: 193
+tortle.topi,Topi,0.25,Small,Undead,,,chaotic evil,,13,13,2,,,,The Tortle Package: 22
+mtof.tortle,Tortle,0.5,Medium,Humanoid,Tortle,Tortles,lawful good,"coast, forest, grassland, mountain, swamp",17,22,0,,,,Mordenkainen's Tome of Foes: 242
+mtof.tortle-druid,Tortle Druid,2,Medium,Humanoid,Tortle,Tortles,lawful neutral,"coast, forest, grassland, mountain, swamp",17,33,0,,,,Mordenkainen's Tome of Foes: 242
+volo.transmuter,Transmuter,5,Medium,Humanoid,Any Race,NPCs,any,urban,12,40,2,,,,"Volo's Guide to Monsters: 218, Tales from the Yawning Portal: 247"
+volo.trapper,Trapper,3,Large,Monstrosity,,,unaligned,underground,13,85,0,,,,Volo's Guide to Monsters: 194
+mm.treant,Treant,9,Huge,Plant,,,chaotic good,"forest, swamp",16,138,-1,,,,Monster Manual: 289
+strahd.tree-blight,Tree Blight,7,Huge,Plant,,,neutral evil,,15,149,0,,,,Curse of Strahd: 230
+sking.tressym,Tressym,0,Tiny,Beast,,,chaotic neutral,,12,5,2,,,,Storm King's Thunder: 242
+toa.tri-flower-frond,Tri-flower Frond,0.25,Medium,Plant,,,unaligned,,10,11,2,,,,Tomb of Annihilation: 234
+mm.tribal-warrior,Tribal Warrior,0.125,Medium,Humanoid,any,NPCs,any,"arctic, cave, desert, forest, grassland, mountain, swamp",12,11,0,,,,"Monster Manual: 350, Princes of the Apocalypse Online Supplement v1.0: 34"
+mm.triceratops,Triceratops,5,Huge,Beast,,Dinosaurs,unaligned,"grassland, mountain",13,95,-1,,,,"Basic Rules v1: 47, Monster Manual: 80"
+mm.tridrone,Tridrone,0.25,Medium,Construct,,Modrons,lawful neutral,planar,15,16,1,,,,Monster Manual: 225
+mm.troglodyte,Troglodyte,0.5,Medium,Humanoid,Troglodyte,,chaotic evil,"cave, dungeon, underground",11,13,0,,,,"HotDQ supplement: 19, Monster Manual: 290, Princes of the Apocalypse Online Supplement v1.0: 34"
+abyss.troglodyte-champion-of-laogzed,Troglodyte Champion of Laogzed,3,Medium,Humanoid,Troglodyte,,chaotic evil,,14,59,1,,,,Out of the Abyss: 229
+mm.troll,Troll,5,Large,Giant,,,chaotic evil,"cave, dungeon, forest, mountain, swamp",15,84,1,,,,"Basic Rules v1: 47, HotDQ supplement: 19, Monster Manual: 291"
+mm.twig-blight,Twig Blight,0.125,Small,Plant,,Blights,neutral evil,"forest, grassland, swamp",13,4,1,,,,"Basic Rules v1: 47, Monster Manual: 32"
+mm.tyrannosaurus-rex,Tyrannosaurus Rex,8,Huge,Beast,,Dinosaurs,unaligned,grassland,13,136,0,,,,"Basic Rules v1: 48, Monster Manual: 80"
+toa.tyrannosaurus-zombie,Tyrannosaurus Zombie,8,Huge,Undead,,Zombies,unaligned,,11,136,-2,,,,Tomb of Annihilation: 241
+volo.ulitharid,Ulitharid,9,Large,Aberration,,Mind Flayers,lawful evil,underground,15,127,1,,,,Volo's Guide to Monsters: 175
+mm.ultraloth,Ultroloth,13,Medium,Fiend,Yugoloth,Yugoloths,neutral evil,"dungeon, planar",19,153,3,,,,Monster Manual: 314
+mm.umber-hulk,Umber Hulk,5,Large,Monstrosity,,,chaotic evil,"cave, underground",18,93,1,,,,"Monster Manual: 292, Princes of the Apocalypse Online Supplement v1.0: 35"
+mm.unicorn,Unicorn,5,Large,Celestial,,,lawful good,"forest, ruins",12,67,2,lair,legendary,,Monster Manual: 294
+sking.uthgardt-shaman,Uthgardt Shaman,2,Medium,Humanoid,Human,,neutral evil,,13,38,1,,,,Storm King's Thunder: 243
+mm.vampire,Vampire,13,Medium,Undead,Shapechanger,Vampires,lawful evil,"dungeon, ruins, urban",16,144,4,lair,legendary,,"HotDQ supplement: 20, Monster Manual: 297"
+mm.vampire-spawn,Vampire Spawn,5,Medium,Undead,,Vampires,neutral evil,"dungeon, ruins, urban",15,82,3,,,,"HotDQ supplement: 21, Monster Manual: 298, Princes of the Apocalypse Online Supplement v1.0: 35"
+mm.vampire-spellcaster,Vampire Spellcaster,15,Medium,Undead,Shapechanger,Vampires,lawful evil,"dungeon, ruins, urban",16,144,4,lair,legendary,,Monster Manual: 298
+mm.vampire-warrior,Vampire Warrior,15,Medium,Undead,Shapechanger,Vampires,lawful evil,"dungeon, ruins, urban",18,144,4,lair,legendary,,Monster Manual: 298
+abyss.vampiric-ixitxachitl,Vampiric Ixitxachitl,2,Medium,Aberration,,,chaotic evil,,16,44,4,,,,Out of the Abyss: 226
+mtof.vampiric-mist,Vampiric Mist,3,Medium,Undead,,,chaotic evil,,13,30,3,,,,Mordenkainen's Tome of Foes: 246
+tftyp.vampiric-mist,Vampiric Mist,3,Medium,Undead,,,chaotic evil,,13,45,3,,,,Tales from the Yawning Portal: 247
+apoc.vanifer,Vanifer,9,Medium,Humanoid,Tiefling,Eternal Flame Cultists,chaotic evil,,15,112,3,,,unique,Princes of the Apocalypse: 203
+apoc.vanifer-in-lair,Vanifer (in lair),12,Medium,Humanoid,Tiefling,Eternal Flame Cultists,chaotic evil,,15,112,3,lair,,unique,Princes of the Apocalypse: 203
+volo.vargouille,Vargouille,1,Tiny,Fiend,,,chaotic evil,"desert, swamp, underground",12,13,2,,,,Volo's Guide to Monsters: 195
+volo.vegepygmy,Vegepygmy,0.5,Small,Plant,,Vegepygmies,neutral,"forest, swamp",13,9,2,,,,"Volo's Guide to Monsters: 196, Tomb of Annihilation: 234"
+volo.vegepygmy-chief,Vegepygmy Chief,2,Small,Plant,,Vegepygmies,neutral,"forest, swamp",14,33,2,,,,"Volo's Guide to Monsters: 197, Tomb of Annihilation: 235"
+volo.velociraptor,Velociraptor,0.5,Tiny,Beast,,Dinosaurs,unaligned,"forest, grassland",13,10,2,,,,"Volo's Guide to Monsters: 140, Tomb of Annihilation: 235"
+mtof.venom-troll,Venom Troll,7,Large,Giant,,Trolls,chaotic evil,"dungeon, forest, mountain, ruins, swamp",15,94,1,,,,Mordenkainen's Tome of Foes: 245
+mm.veteran,Veteran,3,Medium,Humanoid,any,NPCs,any,urban,17,58,1,,,,"HotDQ supplement: 21, Monster Manual: 350, Princes of the Apocalypse Online Supplement v1.0: 35"
+mm.vine-blight,Vine Blight,0.25,Medium,Plant,,Blights,neutral evil,"forest, grassland, swamp",12,26,-1,,,,Monster Manual: 32
+mm.violet-fungus,Violet Fungus,0.5,Medium,Plant,,Fungi,unaligned,"cave, dungeon, underground",5,18,-5,,,,"HotDQ supplement: 21, Monster Manual: 138, Princes of the Apocalypse Online Supplement v1.0: 36"
+strahd.vladimir-horngaard,Vladimir Horngaard,7,Medium,Undead,,,lawful evil,,17,192,2,,,unique,Curse of Strahd: 241
+toa.volothamp-volo-geddarm,"Volothamp ""Volo"" Geddarm",0.5,Medium,Humanoid,Human,,chaotic good,,11,31,1,,,unique,Tomb of Annihilation: 235
+mm.vrock,Vrock,6,Large,Fiend,Demon,Demons,chaotic evil,"dungeon, planar",15,104,2,,,,"Monster Manual: 64, Princes of the Apocalypse Online Supplement v1.0: 36"
+mm.vulture,Vulture,0,Medium,Beast,,Misc Creatures,unaligned,"desert, grassland, ruins",10,5,0,,,,"Basic Rules v1: 48, Monster Manual: 339"
+volo.war-priest,War Priest,9,Medium,Humanoid,Any Race,NPCs,any,"desert, urban",18,117,0,,,,Volo's Guide to Monsters: 218
+mm.warhorse,Warhorse,0.25,Large,Beast,,Misc Creatures,unaligned,"grassland, urban",11,19,1,,,,"Basic Rules v1: 48, Monster Manual: 340, Player's Handbook: 311"
+mm.warhorse-skeleton,Warhorse Skeleton,0.25,Large,Undead,,Skeletons,lawful evil,"grassland, ruins",13,22,1,,,,Monster Manual: 273
+volo.warlock-of-the-archfey,Warlock of the Archfey,4,Medium,Humanoid,Any Race,NPCs,any,"arctic, forest, mountain, swamp, urban",11,49,1,,,,Volo's Guide to Monsters: 219
+volo.warlock-of-the-fiend,Warlock of the Fiend,7,Medium,Humanoid,Any Race,NPCs,any,"arctic, desert, underground, urban",12,78,2,,,,Volo's Guide to Monsters: 219
+volo.warlock-of-the-great-old-one,Warlock of the Great Old One,6,Medium,Humanoid,Any Race,NPCs,any,"arctic, grassland, mountain, underground, urban",12,91,2,,,,Volo's Guide to Monsters: 220
+volo.warlord,Warlord,12,Medium,Humanoid,Any Race,NPCs,any,urban,18,229,3,,,,Volo's Guide to Monsters: 220
+mtof.wastrilith,Wastrilith,13,Large,Fiend,Demon,Demons,chaotic evil,"aquatic, planar",18,157,4,,,,Mordenkainen's Tome of Foes: 139
+mm.water-elemental,Water Elemental,5,Large,Elemental,,Elementals,neutral,"aquatic, arctic, cave, coast, dungeon, forest, grassland, mountain, planar, ruins, swamp, underground",14,114,2,,,,"Basic Rules v1: 49, Monster Manual: 125"
+apoc.water-elemental-myrmidon,Water Elemental Myrmidon,7,Medium,Elemental,,Elemental Myrmidons,neutral,"aquatic, arctic, cave, coast, dungeon, forest, grassland, mountain, planar, ruins, swamp, underground",18,127,2,,,,Princes of the Apocalypse: 213
+mtof.water-elemental-myrmidon,Water Elemental Myrmidon,7,Medium,Elemental,,Elder Myrmidons,neutral,"aquatic, planar",18,127,2,,,,Mordenkainen's Tome of Foes: 203
+mm.water-weird,Water Weird,3,Large,Elemental,,,neutral,"cave, coast, forest, mountain, planar, swamp, underground",13,58,3,,,,"Monster Manual: 299, Princes of the Apocalypse Online Supplement v1.0: 36"
+mm.weasel,Weasel,0,Tiny,Beast,,Misc Creatures,unaligned,grassland,13,1,3,,,,"Basic Rules v1: 49, Monster Manual: 340"
+mm.werebear,Werebear,5,Medium,Humanoid,"Human, Shapechanger",Lycanthropes,neutral good,"cave, forest, mountain, urban",10,135,0,,,,Monster Manual: 208
+mm.wereboar,Wereboar,4,Medium,Humanoid,"Human, Shapechanger",Lycanthropes,neutral evil,"forest, grassland, swamp, urban",10,78,0,,,,"Monster Manual: 209, Princes of the Apocalypse Online Supplement v1.0: 37"
+mm.wererat,Wererat,2,Medium,Humanoid,"Human, Shapechanger",Lycanthropes,lawful evil,"cave, dungeon, ruins, swamp, underground, urban",12,33,2,,,,Monster Manual: 209
+strahd.wereraven,Wereraven,2,Medium,Humanoid,"Human, Shapechanger",,lawful good,,12,31,2,,,,Curse of Strahd: 242
+mm.weretiger,Weretiger,4,Medium,Humanoid,"Human, Shapechanger",Lycanthropes,neutral,"forest, urban",12,120,2,,,,Monster Manual: 210
+mm.werewolf,Werewolf,3,Medium,Humanoid,"Human, Shapechanger",Lycanthropes,chaotic evil,"dungeon, forest, grassland, urban",11,58,1,,,,"Basic Rules v1: 49, Monster Manual: 211"
+mtof.white-abishai,White Abishai,6,Medium,Fiend,Devil,Devils,lawful evil,planar,15,68,0,,,,Mordenkainen's Tome of Foes: 163
+mm.white-dragon-wyrmling,White Dragon Wyrmling,2,Medium,Dragon,,Dragons,chaotic evil,"arctic, cave, underground",16,32,0,,,,Monster Manual: 102
+tftyp.white-maw,White Maw,10,Gargantuan,Ooze,,,chaotic neutral,,5,217,-5,,,unique,Tales from the Yawning Portal: 248
+apoc.wiggan-nettlebee,Wiggan Nettlebee,2,Medium,Humanoid,Halfling,Other Villains,neutral evil,,11,36,1,,,unique,Princes of the Apocalypse: 212
+mm.wight,Wight,3,Medium,Undead,,,neutral evil,"arctic, cave, coast, desert, dungeon, forest, grassland, mountain, ruins, swamp, underground, urban",14,45,2,,,,"Basic Rules v1: 50, Monster Manual: 300"
+mm.will-o-wisp,Will-o'-Wisp,2,Tiny,Undead,,,chaotic evil,swamp,19,22,9,,,,"HotDQ supplement: 22, Monster Manual: 301, Princes of the Apocalypse Online Supplement v1.0: 37"
+apoc.windharrow,Windharrow,3,Medium,Humanoid,Half-elf,Howling Hatred Cultists,neutral evil,,15,55,3,,,unique,Princes of the Apocalypse: 192
+mm.winged-kobold,Winged Kobold,0.5,Small,Humanoid,Kobold,Kobolds,lawful evil,"mountain, underground",13,7,3,,,,"HotDQ supplement: 23, Monster Manual: 195"
+mtof.winter-eladrin,Winter Eladrin,10,Medium,Fey,Elf,Eladrin,chaotic neutral,planar,19,127,0,,,,Mordenkainen's Tome of Foes: 197
+mm.winter-wolf,Winter Wolf,3,Large,Monstrosity,,Misc Creatures,neutral evil,"arctic, cave, forest, grassland",13,75,1,,,,"Basic Rules v1: 50, Monster Manual: 340"
+mm.wolf,Wolf,0.5,Medium,Beast,,Misc Creatures,unaligned,"arctic, cave, forest, grassland",13,11,2,,,,"Basic Rules v1: 50, Monster Manual: 341, Player's Handbook: 311"
+volo.wood-woad,Wood Woad,5,Medium,Plant,,,lawful neutral,forest,18,75,1,,,,Volo's Guide to Monsters: 198
+mm.worg,Worg,0.25,Large,Monstrosity,,Misc Creatures,neutral evil,"arctic, cave, forest, grassland",13,26,1,,,,"Basic Rules v1: 51, Monster Manual: 341"
+mm.wraith,Wraith,5,Medium,Undead,,,neutral evil,"dungeon, ruins, swamp, urban",13,67,3,,,,Monster Manual: 302
+mm.wyvern,Wyvern,6,Large,Dragon,,,unaligned,"arctic, coast, grassland",13,110,0,,,,"Basic Rules v1: 51, HotDQ supplement: 23, Monster Manual: 303"
+toa.xandala,Xandala,7,Medium,Humanoid,Half-elf,,neutral evil,,13,71,0,,,unique,Tomb of Annihilation: 236
+mm.xorn,Xorn,5,Medium,Elemental,,,neutral,"dungeon, planar, underground",19,73,0,,,,"Monster Manual: 304, Princes of the Apocalypse Online Supplement v1.0: 38"
+volo.xvart,Xvart,0.125,Small,Humanoid,Xvart,Xvarts,chaotic evil,"grassland, underground",13,7,2,,,,Volo's Guide to Monsters: 200
+volo.xvart-speaker,Xvart Speaker,0.125,Small,Humanoid,Xvart,Xvarts,chaotic evil,"grassland, underground",13,7,2,,,,Volo's Guide to Monsters: 200
+volo.xvart-warlock-of-raxivort,Xvart Warlock of Raxivort,1,Small,Humanoid,Xvart,Xvarts,chaotic evil,"grassland, underground",12,22,2,,,,Volo's Guide to Monsters: 200
+mtof.yagnoloth,Yagnoloth,11,Large,Fiend,Yugoloth,Yugoloths,neutral evil,planar,17,147,2,,,,Mordenkainen's Tome of Foes: 252
+sking.yakfolk-priest,Yakfolk Priest,4,Large,Monstrosity,,,neutral evil,,12,52,0,,,,Storm King's Thunder: 245
+sking.yakfolk-warrior,Yakfolk Warrior,3,Large,Monstrosity,,,neutral evil,,11,60,0,,,,Storm King's Thunder: 244
+apoc.yan-c-bin,Yan-C-Bin,18,Huge,Elemental,,Princes of Elemental Evil,neutral evil,,22,283,7,lair,legendary,unique,Princes of the Apocalypse: 221
+abyss.yeenoghu,Yeenoghu,24,Huge,Fiend,Demon,Demon Lords,chaotic evil,,22,348,3,,legendary,unique,Out of the Abyss: 247
+mtof.yeenoghu,Yeenoghu,24,Huge,Fiend,Demon,Demon Lords,chaotic evil,planar,20,333,3,lair,legendary,unique,Mordenkainen's Tome of Foes: 155
+toa.yellow-musk-creeper,Yellow Musk Creeper,2,Medium,Plant,,Yellow Musk Creeper and Zombie,unaligned,,6,60,-4,,,,Tomb of Annihilation: 237
+toa.yellow-musk-zombie,Yellow Musk Zombie,0.5,Medium,Undead,,Yellow Musk Creeper and Zombie,unaligned,,9,33,-1,,,,Tomb of Annihilation: 237
+abyss.yestabrod,Yestabrod,4,Large,Monstrosity,,,chaotic evil,,15,75,0,,legendary,unique,Out of the Abyss: 233
+volo.yeth-hound,Yeth Hound,4,Large,Fey,,,neutral evil,"forest, grassland",14,51,3,,,,Volo's Guide to Monsters: 201
+mm.yeti,Yeti,3,Large,Monstrosity,,Yeti,chaotic evil,"arctic, cave, mountain",12,51,1,,,,"Basic Rules v1: 51, Monster Manual: 305"
+mm.yochlol,Yochlol,10,Medium,Fiend,"Demon, Shapechanger",Demons,chaotic evil,"dungeon, planar",15,136,2,,,,Monster Manual: 65
+mm.young-black-dragon,Young Black Dragon,7,Large,Dragon,,Dragons,chaotic evil,swamp,18,127,2,,,,Monster Manual: 88
+mm.young-blue-dragon,Young Blue Dragon,9,Large,Dragon,,Dragons,lawful evil,desert,18,152,0,,,,Monster Manual: 91
+mm.young-brass-dragon,Young Brass Dragon,6,Large,Dragon,,Dragons,chaotic good,"cave, underground",17,110,0,,,,Monster Manual: 105
+mm.young-bronze-dragon,Young Bronze Dragon,8,Large,Dragon,,Dragons,lawful good,coast,18,142,0,,,,Monster Manual: 108
+mm.young-copper-dragon,Young Copper Dragon,7,Large,Dragon,,Dragons,chaotic good,"cave, desert, grassland",17,119,1,,,,Monster Manual: 112
+mm.young-gold-dragon,Young Gold Dragon,10,Large,Dragon,,Dragons,lawful good,"mountain, ruins",18,178,2,,,,Monster Manual: 115
+mm.young-green-dragon,Young Green Dragon,8,Large,Dragon,,Dragons,lawful evil,forest,18,136,1,,,,"Basic Rules v1: 52, Monster Manual: 94"
+mtof.young-kruthik,Young Kruthik,0.125,Small,Monstrosity,,Kruthiks,unaligned,"cave, underground",16,9,3,,,,Mordenkainen's Tome of Foes: 211
+mm.young-red-dragon,Young Red Dragon,10,Large,Dragon,,Dragons,chaotic evil,mountain,18,178,0,,,,"Monster Manual: 98, Princes of the Apocalypse Online Supplement v1.0: 38"
+mm.young-red-shadow-dragon,Young Red Shadow Dragon,13,Large,Dragon,,"Dragon, Shadow",chaotic evil,planar,18,178,0,,,,Monster Manual: 85
+mm.young-remorhaz,Young Remorhaz,5,Large,Monstrosity,,Remorhazes,unaligned,"arctic, cave",14,93,1,,,,Monster Manual: 258
+mm.young-silver-dragon,Young Silver Dragon,9,Large,Dragon,,Dragons,lawful good,"arctic, mountain",18,168,0,,,,Monster Manual: 118
+mm.young-white-dragon,Young White Dragon,6,Large,Dragon,,Dragons,chaotic evil,"arctic, cave, underground",17,133,0,,,,Monster Manual: 101
+mm.yuan-ti-abomination,Yuan-ti Abomination,7,Large,Monstrosity,"Shapechanger, Yuan-ti",Yuan-ti,neutral evil,"desert, forest, mountain, ruins, swamp",15,127,3,,,,Monster Manual: 308
+volo.yuan-ti-anathema,Yuan-ti Anathema,12,Huge,Monstrosity,"Shapechanger, Yuan-ti",Yuan-ti,neutral evil,"desert, forest, underground",16,189,1,,,,Volo's Guide to Monsters: 202
+volo.yuan-ti-broodguard,Yuan-ti Broodguard,2,Medium,Humanoid,Yuan-ti,Yuan-ti,neutral evil,"desert, forest, underground",14,45,2,,,,"Volo's Guide to Monsters: 203, Tomb of Annihilation: 238"
+mm.yuan-ti-malison,Yuan-ti Malison,3,Medium,Monstrosity,"Shapechanger, Yuan-ti",Yuan-ti,neutral evil,"desert, forest, mountain, ruins, swamp",12,66,2,,,,"HotDQ supplement: 23, Monster Manual: 309"
+volo.yuan-ti-mind-whisperer,Yuan-ti Mind Whisperer,4,Medium,Monstrosity,"Shapechanger, Yuan-ti",Yuan-ti,neutral evil,"desert, forest, underground",14,71,2,,,,Volo's Guide to Monsters: 204
+volo.yuan-ti-nightmare-speaker,Yuan-ti Nightmare Speaker,4,Medium,Monstrosity,"Shapechanger, Yuan-ti",Yuan-ti,neutral evil,"desert, forest, underground",14,71,2,,,,"Volo's Guide to Monsters: 205, Tomb of Annihilation: 239"
+volo.yuan-ti-pit-master,Yuan-ti Pit Master,5,Medium,Monstrosity,"Shapechanger, Yuan-ti",Yuan-ti,neutral evil,"desert, forest, underground",14,88,2,,,,Volo's Guide to Monsters: 206
+mm.yuan-ti-pureblood,Yuan-ti Pureblood,1,Medium,Humanoid,Yuan-ti,Yuan-ti,neutral evil,"desert, forest, mountain, ruins, swamp",11,40,1,,,,"HotDQ supplement: 24, Monster Manual: 310"
+tftyp.yusdrayl,Yusdrayl,1,Small,Humanoid,Kobold,,lawful evil,,12,16,2,,,unique,Tales from the Yawning Portal: 248
+mtof.zaratan,Zaratan,21,Gargantuan,Elemental,,Elder Elementals,neutral,planar,21,307,0,,legendary,,Mordenkainen's Tome of Foes: 201
+mtof.zariel,Zariel,26,Large,Fiend,Devil,Archdevils,lawful evil,planar,21,580,7,lair,legendary,unique,Mordenkainen's Tome of Foes: 180
+toa.zindar,Zindar,8,Medium,Humanoid,Half-dragon,,lawful good,,13,110,0,,,unique,Tomb of Annihilation: 239
+mm.zombie,Zombie,0.5,Medium,Undead,,Zombies,neutral evil,"aquatic, arctic, cave, coast, desert, dungeon, forest, grassland, mountain, ruins, swamp, underground, urban",8,22,-2,,,,"Basic Rules v1: 52, Monster Manual: 316, Player's Handbook: 311"
+toa.zorbo,Zorbo,0.25,Small,Monstrosity,,,unaligned,,10,27,0,,,,Tomb of Annihilation: 241
+abyss.zuggtmoy,Zuggtmoy,23,Large,Fiend,Demon,Demon Lords,chaotic evil,,18,304,2,,legendary,unique,Out of the Abyss: 249
+mtof.zuggtmoy,Zuggtmoy,23,Large,Fiend,Demon,Demon Lords,chaotic evil,planar,18,304,2,lair,legendary,unique,Mordenkainen's Tome of Foes: 157
